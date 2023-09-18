@@ -1,0 +1,7506 @@
+     __________________________________________________________________
+
+        Title: Hymns of the Russian Church
+   Creator(s): Brownlie, John
+  Print Basis: Edinburgh: R & R. Clark, Limited, 1920
+       Rights: Public Domain
+   LC Call no: BV467
+  LC Subjects:
+
+               Practical theology
+
+               Worship (Public and Private) Including the church year, Christian
+               symbols, liturgy, prayer, hymnology
+
+               Hymnology
+
+               Hymns in languages other than English
+     __________________________________________________________________
+
+                                     HYMNS
+                                     OF THE
+                                 RUSSIAN CHURCH
+
+   BEING TRANSLATIONS, CENTOS, AND SUGGESTIONS FROM THE GREEK OFFICE
+   BOOKS, WITH AN INTRODUCTION
+   BY
+   JOHN BROWNLIE, D.D. (GLAS.)
+
+   AUTHOR OF
+   "THE HYMNS AND HYMN-WRITERS OF THE CHURCH HYMNARY," "HYMNS OF THE EARLY
+   CHURCH," "HYMNS OF THE GREEK CHURCH," ETC., ETC.
+
+   HUMPHREY MILFORD
+   OXFORD UNIVERSITY PRESS
+   LONDON EDINBURGH GLASGOW NEW YORK TORONTO MELBOURNE CAPE TOWN BOMBAY
+   CALCUTTA
+   1920
+
+   Printed by R. & R. Clark, Limited, Edinburgh.
+
+   FORTISSIMIS ILLIS
+   QUI ILLIC OCCIDERUNT
+   UNDE PRIMUM LUX EXORTA
+   AC SUPERSTITIBUS QUI NOBISCUM
+   DIUTURNO MARTIS REGNO
+   SUNT LIBERATI
+   HIC LIBER DEDICATUS EST
+
+   A. D. IV. ID. APR.
+     __________________________________________________________________
+
+INTRODUCTION
+
+   The Greek Church is little known in the West, and it would seem as if
+   there were little desire on our part to alter that state of things. The
+   causes which have led to this indifference are many and not easily
+   traced, but there are two which may be briefly referred to as being,
+   perhaps, the chief.
+
+   The first of these is the inherent peculiarity of temperament which
+   finds its expression in habits of thought and modes of action in the
+   East, against which the spirit of the West frets and for which it has
+   neither sympathy nor toleration. The quiet, meditative restfulness, the
+   satisfaction with past attainment in doctrine and worship, the wistful
+   retrospective gaze upon magnificent accomplishment, which the
+   experiences of centuries of trial have only intensified,--these are
+   totally alien to the active, speculative, hopeful spirit of the West.
+
+   The other is the great Roman Church. Inspired with the spirit which
+   commends itself to the Western mind,--its activity, its aptitude to fit
+   itself to the ever-changing circumstances of the times, its progressive
+   spirit, and thirst for achievement,--that Church, for the past nine
+   centuries, has obtruded itself upon our attention, and claimed, nay,
+   demanded, our consideration. It pervades the West; its advocates are
+   ubiquitous; its influence is everywhere felt. We are out of touch with
+   the East; the Greek Church fades from our view,--out of sight it is out
+   of mind, and it is the Roman Church that bars our vision.
+
+   Needless to say, the Greek Church deserves better at our hands than to
+   be thus forgotten. Do we forget that the Fathers of that Church
+   formulated our doctrines and shaped our creed; that the creed framed at
+   Nicea is practically our creed; that the churches founded by the
+   Apostles still hold by Apostolic doctrine, and are parts of that great
+   Church; and that, in unbroken succession, from the dawn of Christianity
+   down to the present time, the bishops have handed on the torch of
+   truth? We reap the blessing of Eastern fidelity to Christian truth, and
+   forget, or ignore, the source whence it came to us.
+
+   Prior to the Great Schism in A.D. 1054, Christendom in East and West
+   was practically one. The causes which led to that separation--fraught
+   with such momentous and far-reaching issues, not only for Christianity,
+   but also for the nations of the East--cannot be dwelt upon here.
+   Suffice it to say that the estrangement found its completion when, in
+   1054, the addition of the word Filioque to the Latin Creed by which the
+   Roman See expressed its adherence to the double procession of the Holy
+   Ghost,--from the Father, and the Son, a doctrine against which the
+   Greek Church had repeatedly protected,--supplied the ground for a
+   renewal of the quarrel, which resulted, this time, in separation
+   complete and final, Pope Leo IX excommunicating Michael Cerularius,
+   Patriarch of Constantinople.
+
+   In 1453 the Turk entered Constantinople, and the history of the Greek
+   Empire was closed: but not that of the Church. She accepted the change
+   of conditions imposed upon her, and when her temples were despoiled,
+   and her worship profaned, still held to the Faith. Now that the Ottoman
+   rule is gone, let us hope for ever, the prospect brightens, and the
+   suffering Church, which has so nobly maintained the conflict, will
+   doubtless reap her reward; and not in those dominions only, but also
+   over the vast extent of Russia, when the sorely tried people of that
+   late empire shall have emerged from the present welter in blood.
+
+   The Greek Church, in its Orthodox and Heretical divisions, comprises,
+   among others, those peoples who speak the Greek and Slavic tongues. The
+   Russian Church includes the peoples of that vast dominion. Christianity
+   was first preached to them shortly before the Schism of 1054, and their
+   conversion marks the greatest conquest of Christianity since the days
+   of the Apostles. It was that great event which laid the foundation of
+   Russia's subsequent greatness; and our hope for that interesting people
+   lies in their warm religious temperament, and the Christian element
+   that has entered their life, which have been fostered not alone in
+   years of prosperity, but through centuries of oppression; and in these
+   days in the midst of horrors to which the experiences of earlier Greek
+   Christians alone afford a parallel.
+
+   In the ninth century commercial relations with Constantinople brought
+   the Slavic people in contact with Eastern Christianity. Kiev became a
+   centre of influence. Later, under the rule of Vladimir, who had become
+   a devoted convert, Greek missionaries carried the Cross into Russia,
+   preaching the Christian Faith to the people in their own language. The
+   result was phenomenal. Churches, schools, monasteries were built, and
+   were soon filled. For a century after the Schism of 1054 the Russian
+   Church continued its connection with the See of Rome, but later resumed
+   its old allegiance to the Patriarch of Constantinople.
+
+   The error has got abroad that the Russian Church is not really Greek,
+   but only akin to it. This is a pure fiction; there is no Slavic Church;
+   the Church in Russia has always been, and still is, essentially Greek.
+
+   Early in the fourteenth century the first Russian Patriarch was
+   consecrated, although the Church continued for some time longer to look
+   to the Patriarchs of Constantinople for guidance: and about the same
+   time the Metropolitan See was transferred to Moscow, and relationship
+   to the state established. In the reign of Peter the Great the
+   patriarchate was suppressed, and the Holy Governing Synod took its
+   place. This Synod, which has never changed its constitution, consists
+   of the Metropolitans of Moscow, Kiev, and Petrograd, the Exarch of
+   Georgia, and other prelates, the number of which is not limited. The
+   Czar had the right to nominate six other dignitaries, as well as the
+   principal chaplain to the forces, and his own private chaplain. A
+   change of constitution will, however, now be necessary, and it will be
+   interesting to learn what it will be.
+
+   The Service books from which the hymns in this volume are taken were,
+   early in the history of the Russian Church, translated into Slavic. On
+   account, however, of the separation and long distance from
+   Constantinople, and for other reasons, many interpolations and not a
+   few errors crept into these books, and continual revision had to be
+   undertaken. The result is that at the present time the Russian Church
+   has an excellent translation of the Greek Offices, in language clear
+   enough, and simple enough, to be understood by all, even by the
+   illiterate peasantry.
+
+   In these books the hymns with which we deal are to be found. Fully
+   two-thirds of their contents are hymnodical; and as there are seventeen
+   quarto volumes, closely printed, the extent of the praise material of
+   the Russian Church can be imagined,--a veritable thesaurus, and
+   practically unknown to the Churches of the West. They are written in
+   rhythmical prose, in which metre and quantity are ignored, accent alone
+   being observed. Commas are used, not to mark the sense, but to indicate
+   the musical notation, much as we employ the colon in prose Psalms
+   prepared for chanting. An exception to this rule is found in a few
+   hymns by St. John of Damascus, which are in iambics. The hymns of the
+   earliest Greek Christian poets, of which a very few are included in
+   this volume, are not found in the Office books, and are consequently
+   not used in canonical worship. The praise is conducted by a choir of
+   Singers, who are ordained to their office; or, in the event of the
+   service being lengthy, recited by a Reader, who is likewise ordained.
+   No instrumental accompaniment is permitted.
+
+   The hymns of the Office books have a variety of characteristics, and
+   are distinguished by terms the meaning of which is in most cases
+   extremely vague, and in others to be derived from the subject of the
+   hymn, or from the form, or it may be from the time, place, or manner,
+   in which it is sung. As we have no corresponding words in our language
+   for most of these it is necessary to retain the originals.
+
+   The Canon is the most elaborate form into which the praise of the
+   Church is cast. A Canon consists nominally of nine Odes, for the reason
+   that there are nine scriptural canticles employed at Lauds, viz. The
+   Song of Moses after crossing the Red Sea, The Song of Moses in Deut.
+   xxxii.; The Songs of Hannah, Habakkuk, Isaiah, Jonah, The Three
+   Children (first part, and second part), Mary (Magnificat), Simeon (Nunc
+   dimittis).
+
+   As reference is made in each Ode to the canticle of the same number,
+   e.g. in the sixth Ode to Jonah's prayer in the whale's belly, a
+   considerable amount of ingenuity has been expended to secure the
+   reference. The effect in some cases, as may be fancied, is somewhat
+   grotesque, but it is remarkable with what skill it has in so many cases
+   been accomplished.
+
+   The Hirmos is the first stanza of the Ode. It may or may not have a
+   relation to the stanzas following, for its function is to give them
+   their rhythmical model.
+
+   Troparia are the stanzas which follow the Hirmos. There are usually
+   three in an Ode, but the number may exceed that. The term is probably
+   derived from the verb (trepo) to turn: the Troparia turn to the
+   strophes of the Hirmos as to a model.
+
+   Scattered over the Canon is a variety of verses variously named. The
+   Kathisma occurs after the third or sixth Ode. The verse is sung during
+   a pause in the service (kathizo).
+
+   Hypacóe occur after the third Ode; Kontakia, another obscure term,
+   after the sixth Ode. Each Ode is followed by a Theotokion (theotokos,
+   God-bearing), a Troparion dedicated to the Virgin Mother. In some cases
+   a stanza depicting her at the Cross follows, called the
+   Staurotheotokion. The Icos follows the Kontakion after the sixth Ode.
+   Stichera are a series of verses, in some cases taken from the Psalter.
+   The Idiomelon, unlike the Troparion, follows no model. The
+   Exapostilarion is a verse sung between certain Psalms by one of the
+   clergy, who is sent (exapostello) from his place among the choir down
+   to the middle of the Church, for that purpose.
+
+   The hymns of this collection are, as the title describes
+   them,--Translations or Renderings, Centos and Suggestions. It is in
+   their suggestiveness that the chief attraction of Greek hymns lies. By
+   the ordinary process of translation, the harmony which they present in
+   the original language and setting, and the combined effect of metaphor
+   and symbol in which they abound, are apt to be lost. It is by capturing
+   the subtle suggestion of the original, and utilizing it to the best
+   advantage in our more matter of fact language, that the value of the
+   original is made appreciable. Objectiveness, which is the prominent
+   mark of these hymns, enables us to do for ourselves what less wholesome
+   subjective hymns aim at doing for us, and not always successfully; it
+   presents a picture,--an icon in words, and if the worshipper be not
+   hopelessly blind, he sees it, and the impression is made upon the mind
+   and heart, with the desired result in varying degrees. It is this that
+   makes the hymns of the Service books so suggestive, and hence the
+   result of a reminiscence of the original is usually subjective. In the
+   Suggestions included in this collection the original is used as a
+   basis, a theme, a motive; oriental colour and some of its warmth are,
+   it is hoped, preserved. Now and again an oriental figure is retained,
+   and to those who have any acquaintance with the worship of the Eastern
+   Church it must be obvious that the peculiar themes of her praise are in
+   abundant evidence.
+
+   What, then, is the net result? To an unpractised eye, if no indication
+   of the source of these hymns had been given, could anything about them
+   have suggested their source? To the unpractised eye, nothing. But no
+   one who knows the Greek Offices will travel far before he overtakes
+   well-known landmarks. This is just as it should be. It is sufficient
+   that a fertile source of suggestion has been found--of theme, thought,
+   form, colour--and that from this ancient source it is possible to
+   procure much that is beautiful for the adornment of the worship of
+   God's house to-day. And this gratifying fact is made plain, that the
+   themes of Greek praise are the themes of the praise of the Church in
+   our land, and in all Christian lands;--The Christ in all the might and
+   glory of His Person and Work; the need of our humanity, and the way in
+   which Christ met it; His miraculous birth, which is not shorn of any of
+   its mystery, and the embellishments of the event, which are never toned
+   down, but, in true oriental fashion, made, if possible, more dazzling;
+   His Passion and Death, and the fullness, of their atoning efficacy.
+   But, as is to be expected, the grand theme of the Greek singers, as
+   became those who, more than we have done, caught the first inspiration
+   of their praise from the Apostles, is the glorious Resurrection of our
+   Lord from the dead. Here the praise of the Greek Church touches its
+   highest note and pours forth its most enchanting melody. "Christ is
+   risen," and the glad response, "He is risen indeed,"--these words
+   constitute the keynote of all that is best and most beautiful in Greek
+   worship. The Knowledge and the Wisdom of God are everywhere extolled,
+   and the attribute of Light is continually and cordially applied to the
+   Deity.
+
+   In most cases initial Greek headlines have been omitted from the hymns
+   of this collection for the reason that they can serve no useful
+   purpose, nor indicate with any certainty the source of any particular
+   hymn.
+
+   The foregoing Introduction to our subject has been deemed indispensable
+   in view of the scanty information possessed by our people relative to
+   the great Church of the East. The hymns must speak for themselves. May
+   they be as a gift from a deeply suffering Church to many sad hearts in
+   our own land--saddened by the events of the cruel war from which we
+   have just emerged, thank God, victorious. If the comfort which many of
+   them breathe should help to soothe the wounds of our sorrow, the Church
+   from which it proceeds will only be continuing the office which she has
+   so nobly fulfilled to her own suffering people during the past six
+   centuries, and which she herself so sorely needs in these days of
+   oppression and bloodshed.
+
+   J. B.
+
+   PORTPATRICK.
+     __________________________________________________________________
+
+CONTENTS
+
+   PAGE
+   MORNING--NOON--NIGHT
+   MORNING, I.-X. 1
+   NOON 10
+   EVENING, I.-III. 11
+   MIDNIGHT 13
+   ADVENT AND CHRISTMAS
+   ADVENT, I., II. 15
+   CHRISTMAS, I.-III. 17
+   PALM SUNDAY TO PENTECOST
+   PALM SUNDAY, I., II. 20
+   PASSIONTIDE, I.-XI. 22
+   EASTER, I.-XX. 32
+   ASCENSION, I.-VII. 49
+   PENTECOST, I.-VII. 56
+   FAITH AND PENITENCE
+   FAITH AND PENITENCE, I.-XXX. 63
+     __________________________________________________________________
+
+   THE GREAT COLLECT 89
+   LITANY OF THE DEACON 90
+   TRANSFIGURATION 91
+   COMMUNION, I.-VII. 92
+   OFFICE FOR BURIAL, I., II. 98
+   STILLING THE TEMPEST, I., II. 100
+   THE NEW YEAR 102
+   MISCELLANEOUS, I-X. 103
+   SECOND ADVENT, I.-V. 112
+   JUDGEMENT 118
+     __________________________________________________________________
+
+   INDEX OF FIRST LINES 121
+     __________________________________________________________________
+
+MORNING--NOON--NIGHT
+     __________________________________________________________________
+
+  MORNING
+     __________________________________________________________________
+
+I
+
+   8,6,8,6,8,8
+
+
+   The rosy-fingered dawn appears,
+
+   And lo, the sun uprise;
+
+   His shafts like golden pointed spears
+
+   Illume the brightening skies;--
+
+   Up, soul of mine, in beauty shine,
+
+   And praise the Lord of Light divine.
+
+
+   Thou hast a task to do this day,
+
+   Thy God to serve in all;
+
+   Like morn and noon thy light display,
+
+   Ere night in darkness fall.--
+
+   Up, soul of mine, in beauty shine,
+
+   And praise the Lord of Light divine.
+
+
+   The rosy morn shall fade away,
+
+   The sun his course complete;
+
+   Thy task must end with close of day,
+
+   When light and darkness greet.--
+
+   Up, soul of mine, in beauty shine,
+
+   And praise the Lord of Light divine.
+
+
+   Eternal light eternal glows,
+
+   Beyond the realms of time;
+
+   Where service still to service grows,
+
+   As suns to noontide climb.--
+
+   Up, soul of mine, in beauty shine,
+
+   And praise the Lord of Light divine.
+     __________________________________________________________________
+
+II
+
+   6,5,6,5
+
+
+   Triple beam of glory
+
+   Through the darkness poured;
+
+   One the Light eternal
+
+   In our blessed Lord:
+
+   Give us in the morning
+
+   Gladness for the day,
+
+   All our life adorning,
+
+   Chase our night away.
+
+
+   Glory to the Father,
+
+   Glory to the Son,
+
+   Glory to the Spirit,
+
+   Blessed Three in One:
+
+   Let Thy beams united,
+
+   Brighter than the sun,
+
+   Lighten men benighted,
+
+   Blessed Three in One.
+
+
+   Men in darkness sitting
+
+   Scan the eastern skies;
+
+   Glory of the Father,
+
+   On their night arise;
+
+   Give the morn supernal,
+
+   Give the endless day;--
+
+   Light of lights, eternal,
+
+   Chase their night away.
+
+
+   Hearts are dark with sorrow,
+
+   Minds are dull with care;
+
+   Clouds of doubt envelop
+
+   Mankind everywhere;
+
+   Triple beam of gladness,
+
+   Through the ages poured,
+
+   Give us joy for sadness,-
+
+   Shine upon us, Lord.
+     __________________________________________________________________
+
+III
+
+   10,10,10,10
+
+   Orthrios didomi t? The? dexias
+
+   St. Gregory, 4th Century
+
+
+   The morning breaks, I place my hand in Thine,
+
+   My God, 'tis Thine to lead, to follow mine;
+
+   No word deceitful shall I speak the while,
+
+   Nor shall I stain my hand with action vile.
+
+
+   Thine be this day with worthy labour filled,
+
+   Strong let me stand to do the duty willed;
+
+   Nor swayed by restless passion would I be,
+
+   That I may give the offering pure to Thee;
+
+
+   Else were I shamed when hoary age I see,
+
+   Shamed were this board that bears Thy gifts to me:
+
+   Mine is the impulse; O my Christ, I pray,
+
+   Be Thou Thyself to me the Blessed Way.
+     __________________________________________________________________
+
+IV
+
+   7,7,7,7
+
+
+   When the morning from the skies
+
+   Pours on earth its glorious rays,
+
+   Up, my soul, from slumber rise,
+
+   Give the God of light thy praise.
+
+
+   When the earth with beauty decked,
+
+   Spreads her verdant mantle broad,
+
+   Let thy garb the hues reflect
+
+   Of the holiness of God.
+
+
+   While the sun his course fulfils
+
+   Till the shining day is done,
+
+   For the task His wisdom wills,
+
+   Gird thee till the goal is won.
+
+
+   Every morn of every day
+
+   Heed the voice of God that calls;
+
+   Swiftly His behests obey
+
+   Ere the silent darkness falls.
+
+
+   Day is passing, night is near,--
+
+   Life is but a day at best;
+
+   Serve Thy God with holy fear,
+
+   If the night would bring you rest.
+     __________________________________________________________________
+
+V
+
+   8,8,6,8,8,6
+
+
+   The Morning dawns; on gilded height
+
+   The glory of the early light
+
+   Awaits the rising sun
+
+   Awake, my soul, to life awake!
+
+   Inspired with hope thy task o'ertake,
+
+   And fill the day begun.
+
+
+   O Light, beyond our utmost light,
+
+   To Whom our day is as the night,
+
+   Our sun a feeble star;
+
+   Lead me to where Thy glories rise,
+
+   Beyond the earth, beyond the skies,
+
+   On fairer fields afar.
+
+
+   Thou art the Light, eternal Christ,
+
+   Whose glory at the first sufficed
+
+   To fire the endless spheres;
+
+   Night has no more abiding place,
+
+   Before the brightness of Thy face
+
+   The darkness disappears.
+
+
+   O that a searching ray would shine
+
+   Within this darkened soul of mine,
+
+   And bid my night depart!
+
+   Then would the joy of life abound,
+
+   And morning music ever sound
+
+   Within my joyless heart.
+     __________________________________________________________________
+
+VI
+
+   8,8,8,8
+
+
+   All glorious, see, the morning breaks;
+
+   Awake, my soul, creation wakes;
+
+   And while the purple tints the skies,
+
+   Prepare for God thy sacrifice.
+
+
+   Thanks to my God, my best of friends,
+
+   For all the care His love extends;
+
+   For rest, and peace, and waking eyes
+
+   To view the light that fills the skies.
+
+
+   Let sleep my waking eyes forsake;
+
+   From sloth my soul her pinions shake;
+
+   And may the light that gladdens all,
+
+   Illume my task till evening fall.
+
+
+   O Christ, my Morning star, my Light,
+
+   With Thee no dread infects the night;
+
+   May darkness ne'er my life appal
+
+   Nor night, at noon-tide, darkly fall.
+
+
+   Bring me where morn eternal shines,
+
+   And light, unfailing, life entwines;
+
+   Where darkness ne'er its clouds unrolls
+
+   To charge with dread our fearful souls.
+
+
+   To Thee, O Christ, be endless praise,
+
+   O Morning star, my joy always;
+
+   Be aye my morn, for ever shine,
+
+   And fill my soul with peace divine.
+     __________________________________________________________________
+
+VII
+
+   7,6,7,6
+
+   Tas ano Dunameis mimoumenoi oi epi ges
+
+
+   Our hearts to heaven upraising,
+
+   We, with the angelic host,
+
+   Sing praises to the Father,
+
+   To Son, and Holy Ghost.
+
+
+   O Uncreated Nature,
+
+   Yet Maker Thou of all,
+
+   Our lips proclaim Thy praises,
+
+   As at Thy feet we fall.
+
+
+   All Holy, Holy, Holy,
+
+   Eternal God art Thou,
+
+   Hear us in prayer before Thee,
+
+   And send Thy mercy now.
+
+
+   In slumber Thou hast kept us,
+
+   And now, with morning light,
+
+   Our hearts and minds awaken,
+
+   And give them morn for night;
+
+
+   And we shall give Thee praises
+
+   Blest Trinity adored;
+
+   For Holy, Holy, Holy,
+
+   Art Thou Eternal Lord.
+     __________________________________________________________________
+
+VIII
+
+   8,8,8,8
+
+
+   Now glows the morn in beauty rare;
+
+   Oh haste, my soul, to fervent prayer,
+
+   And let the wings of morning raise
+
+   To God the tribute of thy praise.
+
+
+   The night is gone, now disappear
+
+   The clouds that hung in threatening near;
+
+   Day comes apace, and terrors flee,
+
+   And light illumes the land and sea.
+
+
+   O soul dismayed! when darkness fills
+
+   The dismal days with darkling ills,
+
+   Rest in the calm the promise gives,
+
+   That Christ, thy Light and Glory, lives.
+
+
+   Morn shall appear and scatter night;
+
+   Light shall appear in noonday might.
+
+   Strong in the joy the daylight brings,
+
+   Soul, thou shalt rise on glowing wings.
+
+
+   Morn of my soul, O Christ, Thou art;
+
+   Light of my life; my drooping heart
+
+   Sings, when Thy countenance benign
+
+   Shines as the joys of noonday shine.
+     __________________________________________________________________
+
+IX
+
+   8,7,8,7
+
+
+   Morn awakes, behold the glory
+
+   From the hill-tops spread abroad,
+
+   Telling still the ancient story
+
+   Of the faithfulness of God.
+
+
+   Soul, bestir! the path before thee
+
+   Leads toward the realm of night;
+
+   Heed the voices that implore thee,--
+
+   Walk, the while ye have the light.
+
+
+   Haste! the daylight may forsake thee
+
+   Ere thou reach thy journey's goal;
+
+   Lest the solemn night o'ertake thee,
+
+   Up! the shining hours control.
+
+
+   Do the task that waits thy doing;
+
+   Let the will of God be thine;
+
+   Ever what is right pursuing,
+
+   Till the day to night decline.
+
+
+   Christ, Thou Sun that knows no setting,
+
+   In my soul in beauty shine;
+
+   Then, the dread of night forgetting,
+
+   I shall live in light divine.
+     __________________________________________________________________
+
+X
+
+   11,10,11,10
+
+
+   See, in the darkness, the dawn is awaking,
+
+   Shafts from the sunrise are piercing the gloom,
+
+   Night in her mantle the earth is forsaking,
+
+   Heaven gives its glory, and nature her bloom.
+
+
+   Wake from thy slumber, O soul: it is morning;
+
+   Rise to the tasks which the morning prepares;
+
+   Fair be thy garments, a sunlight adorning,
+
+   Fairer than earth in the morning light wears.
+
+
+   Morning or night, if the clouds are depressing,
+
+   Sunlight or starlight shut out from the view;
+
+   Light of my life! may the calm of Thy blessing
+
+   Fall on my soul as the comforting dew.
+
+
+   Light of my soul! where Thy Presence is beaming,
+
+   Night cannot come though the clouds may obscure;
+
+   Fill Thou my soul, and the dark is but seeming,
+
+   Shadows may flit, but Thy light shall endure.
+
+
+   See, in the darkness, the dawn is awaking,--
+
+   Soul, it is morning: in worship adore;
+
+   Fall at His feet, all the evil forsaking,
+
+   Live in the light of the Christ ever more.
+     __________________________________________________________________
+
+  NOON
+     __________________________________________________________________
+
+   7,7,7,7,7,7
+
+
+   Now the sun at noon of day,
+
+   Shines upon the earth below;
+
+   And the fields in bright array,
+
+   Spread their beauty in its glow;--
+
+   Jesus, Lord, when noon controls,
+
+   May Thy beauty grace our souls.
+
+
+   Weary, when the noon oppressed,
+
+   Thou didst rest upon the well,
+
+   And a sinning soul was blest,
+
+   As Thy words divinely fell;--
+
+   Lord, Thy living water give,
+
+   That our thirsting souls may live.
+
+
+   Once at noon, a midnight dread
+
+   Blotted out the earth and sky,
+
+   For the God-man bowed His head,
+
+   And creation saw Him die;--
+
+   May Thy death our dying be,
+
+   May we rise, O Christ, with Thee.
+
+
+   In Thy realm of light above,
+
+   Rising suns, nor setting, shine;
+
+   Thou, Thyself, O Lord of Love,
+
+   Ceaseless pour'st Thy light divine;--
+
+   Lord, where noontide shines alway
+
+   Bring our souls, we humbly pray.
+     __________________________________________________________________
+
+  EVENING
+     __________________________________________________________________
+
+I
+
+   8,8,8,8
+
+   Soi nux me pherei ton aoidon, anax
+
+   Synesius, 4th Century
+
+
+   When darkness falls, and night is here,
+
+   My hymns of praise in silence rise,--
+
+   This knows the moon, whose silver sphere
+
+   Shines in the star bespangled skies.
+
+
+   When morning breaks, and glorious day
+
+   Shines in the dawn and noontide fair,--
+
+   This knows the sun--a grateful lay
+
+   Springs from my heart in fervent prayer,
+
+
+   When fails the light at sunset grey,
+
+   And twilight listens for my song,--
+
+   This know the stars,--in bright array,
+
+   My praises mingle with their throng.
+     __________________________________________________________________
+
+II
+
+   8,8,8,8
+
+
+   The sun has reached his western goal,
+
+   And night-winds hush the world to rest;
+
+   Be still, and worship God, my soul,
+
+   Who through the day thy life hath blest.
+
+
+   To God thy Maker thanks accord,
+
+   For life, and hope, and every good;
+
+   And all the comfort of His Word
+
+   Incarnate, for the spirit's food.
+
+
+   Ah, night is dark when clouds of guilt
+
+   The shrinking soul with fears distress;
+
+   Call on the Christ Whose blood was spilt,
+
+   And all thy guiltiness confess.
+
+
+   Then let me rest in calm repose,--
+
+   Secure in Him my rest is sweet;
+
+   The fears of night no dread impose,
+
+   If I have worshipped at His feet.
+
+
+   O Christ, Who art my Light, I pray,
+
+   Keep Thou my soul till morning shine;
+
+   Then, brighter than the orb of day,
+
+   Illume my path with light divine.
+     __________________________________________________________________
+
+III
+
+   8,7,8,8,7
+
+
+   Up rose the morn behind the hills
+
+   When all the world was sleeping;
+
+   And beauty smote the dancing rills,
+
+   And gladness chased our brooding ills,
+
+   And set our hearts a-leaping.
+
+
+   Then high at noon the sun looked down
+
+   Upon our care and fretting,
+
+   The while we trod the path of life,
+
+   In ease or toil, in pain or strife,
+
+   Remembering or forgetting.
+
+
+   And now 'tis eve, and solemn night
+
+   Its curtain spreads above us;--
+
+   O God, in mercy let us rest,
+
+   Assured that all in life is best,
+
+   If Thou, our Father, love us.
+     __________________________________________________________________
+
+  MIDNIGHT
+     __________________________________________________________________
+
+   i
+
+   'Idou o Numphios erchetai en ta meso tes nuktos
+   Troparia
+
+
+   Behold the Bridegroom cometh
+
+   At the hour of midnight drear,
+
+   And blest be he who watcheth
+
+   When his Master shall appear,
+
+   But woe betide the careless one
+
+   Asleep when He is near!
+
+
+   O soul of mine, bestir thee
+
+   Lest thou sink in slumber quite,
+
+   And the Bridegroom find thee sleeping
+
+   When He cometh in His might.
+
+   Awake, awake to praises,
+
+   For He cometh in the night.
+
+
+   That fearful day approacheth,
+
+   Then live, O soul, aright,
+
+   And watch the hour, and trim thy lamp,
+
+   And keep it burning bright,
+
+   Lest the voice be heard, "He cometh!"
+
+   In the middle of the night.
+
+
+   Beware when slumber binds thee
+
+   Lest the Bridegroom pass thee by,
+
+   And thou knock without in darkness,
+
+   And for grief and anguish cry;
+
+   Take thy lamp, with oil, and trim it,
+
+   For the hour is drawing nigh.
+     __________________________________________________________________
+
+ADVENT AND CHRISTMAS
+     __________________________________________________________________
+
+  ADVENT
+     __________________________________________________________________
+
+   8,7,8,7
+
+I
+
+
+   Light upon our gloom arising,
+
+   Herald of the perfect day;
+
+   Night, and all its powers despising,
+
+   Hail we now Thy glorious ray.
+
+
+   From the home of light excelling,
+
+   Comes He forth in raiment bright,
+
+   Stealing to the noisome dwelling
+
+   Of the denizen of night.
+
+
+   To the hopeless, bound and sighing,
+
+   Held in darkness as a snare,
+
+   Comes He forth, their bands untying,
+
+   Giving hope for gaunt despair.
+
+
+   To the faithless, faint and failing,
+
+   Leaning on a staff that breaks,--
+
+   Kindling lights all unavailing,--
+
+   Lo, the Light of lights awakes.
+
+
+   To the fearful heart in sorrow,
+
+   Tossed upon a troubled sea,
+
+   Comes that Light as on the morrow
+
+   When He walked on Galilee.
+
+
+   Lord of life, on Thee depending,
+
+   Would we lift our eyes to Thee;
+
+   From the bliss of Heaven descending,
+
+   Come, our souls from dying free.
+     __________________________________________________________________
+
+II
+
+   7,6,8,6,8,8
+
+
+   The King is on His journey,
+
+   His heralds go before;
+
+   Soon shall the earth receive her Lord,
+
+   Nor mourn His absence more;
+
+   The dawn is leading in the day,
+
+   Ye sons of men, prepare His way.
+
+
+   The triumph of His victory
+
+   In battle songs proclaim;
+
+   Speak to the captive in his chains
+
+   The magic of His name;
+
+   He rules o'er freemen, not o'er slaves,
+
+   His arm is mighty, and it saves.
+
+
+   Bedeck His throne majestic,
+
+   Set forth His royal state;
+
+   With palms bestrew His onward path,
+
+   And open wide the gate;
+
+   His coming, lo, is now at hand,
+
+   Obedient, wait His high command.
+
+
+   O Jesus, King, come quickly;
+
+   Thy waiting people pine
+
+   To see the beauty of Thy face
+
+   And hear Thy voice divine;
+
+   The fealty of their lives to give,
+
+   In willing service while they live.
+     __________________________________________________________________
+
+  CHRISTMAS
+     __________________________________________________________________
+
+I
+
+   7,8,7,6
+
+
+   Gladness fills the world this morn,--
+
+   Blessed morn, the heavens are ringing,
+
+   For the Lord of life is born,
+
+   And the choirs are singing.
+
+
+   Angel-bands whose harps resound
+
+   With the joy that thrills in glory;--
+
+   Sons of men, let praise abound,
+
+   For the wondrous story.
+
+
+   Now fulfilled what seer and sage
+
+   Spoke to men through ages hoary;--
+
+   What was writ upon the page,
+
+   Now appears in glory.
+
+
+   From the love of God He came,
+
+   Born true Man, yet God abiding,
+
+   And Immanuel is His name,
+
+   With His folk residing.
+
+
+   'Alleluia, let us sing,
+
+   For the choirs in light are singing;
+
+   Costly offerings let us bring,
+
+   For the wise are bringing.
+     __________________________________________________________________
+
+II
+
+   8,7,8,3
+
+
+   Hail the morn! Let praises cheerful
+
+   Scatter night and brooding fear;
+
+   Wipe the eyes with sorrow tearful,--
+
+   Christ is here.
+
+
+   Ah, the doubting, faintly hoping
+
+   As the promised time drew near,
+
+   In the darkness blindly groping;--
+
+   Christ is here.
+
+
+   Come, O Christ! our souls with gladness
+
+   Greet Thine Advent with a cheer--
+
+   To a world that scorns its sadness;--
+
+   Christ is here.
+
+
+   Thou, the Father's love revealing,
+
+   Now to loveless men appear
+
+   With Thy gifts of grace and healing;--
+
+   Christ is here.
+
+
+   Hope is ours, and hope is bringing
+
+   To our sky a noontide clear;
+
+   Pardon, peace, and joy are singing,
+
+   Christ is here.
+
+
+   Life is ours, and life undying
+
+   Thrills the soul when Thou art near.
+
+   Up, my heart! enough of sighing,
+
+   Christ is here.
+     __________________________________________________________________
+
+III
+
+   6,5,7,7,5
+
+   Christos o basileus
+
+
+   Now the King immortal
+
+   Comes to claim His own;
+
+   Shepherds at their watch by night
+
+   Hail the glory of the light,--
+
+   They, and they, alone.
+
+
+   Heralds from the heaven-land,
+
+   Tell His advent clear;--
+
+   Where the sound of hurrying feet?
+
+   Where the crowds come forth to greet?
+
+   Where the loyal cheer?
+
+
+   Angels, on the night winds
+
+   Have their carols thrown;--
+
+   Theirs the music rapturous, sweet,
+
+   Theirs the songs the Monarch greet,
+
+   Theirs, and theirs alone.
+
+
+   Ah, the silent night hours,
+
+   Ah, the slumberers, prone!
+
+   Mortals wake, arise, adore!
+
+   Angels, shepherds, honours pour,
+
+   They, and they alone.
+
+
+   Jesu, King immortal,
+
+   Mount Thy rightful throne;
+
+   Loyal hearts their plaudits pour,
+
+   Heaven and earth with songs adore,
+
+   They, not they alone.
+     __________________________________________________________________
+
+PALM SUNDAY TO PENTECOST
+     __________________________________________________________________
+
+  PALM SUNDAY
+     __________________________________________________________________
+
+I
+
+   8,6,8,6
+
+   'Idou, o basileus sou erchetai
+
+
+   Behold the King of Zion rides,
+
+   But not in vain array;
+
+   The people wave their goodly palms,
+
+   With garments strew the way;
+
+   And loud hosannas fill the air
+
+   From crowds that, surging, throng;--
+
+   'Tis meet to honour Him Who rides,
+
+   With cheer, and shout, and song.
+
+
+   O Zion of your God beloved,
+
+   The day of strife is nigh,
+
+   Yet comes He not in armour clad,
+
+   And sword upon His thigh;
+
+   The weapons of our mighty King
+
+   No other hand could wield,
+
+   The might of God is in His arm,
+
+   The will of God His shield.
+
+
+   See, on the Cross without the wall
+
+   The King immortal dies;
+
+   Not now hosannas fill the air,--
+
+   The shouts of hell arise;
+
+   But in that hour of triumph deemed,
+
+   Satanic might is slain,
+
+   For He Who bows the head in death,
+
+   Shall rise to life again.
+
+
+   O Zion, hail your mighty King;
+
+   Your palms around Him wave;
+
+   And strew your garments in the way
+
+   Of Him Who rides to save;
+
+   And when He mounts His regal throne,
+
+   By bloody conflict won,
+
+   Give homage to the King of heaven,
+
+   God's One Eternal Son.
+     __________________________________________________________________
+
+II
+
+   8,8,8,8
+
+
+   Strew palms, strew palms upon the way,
+
+   With loud hosannas fill the air,
+
+   And greet thy King Who comes to-day,
+
+   To wear a crown, O Zion fair.
+
+
+   He mounts a throne with purple spread,
+
+   That issues from His wounded side,
+
+   And prickly thorns encrown His head,
+
+   In mockery of His kingly pride.
+
+
+   O people, blinded are your eyes,
+
+   The Gift of God you have not known;
+
+   And now the hope of ages dies,
+
+   And lo, the guilt is all your own.
+
+
+   Strew palms, strew palms, He comes again,
+
+   A King to reign, and not to die;
+
+   Hosannas shout in loud refrain,
+
+   To rise re-echoing to the sky.
+
+
+   But, not enough, before Him fall,
+
+   His kingly grace repenting claim;
+
+   And He shall hear your humble call,
+
+   Above the shouting and acclaim.
+
+
+   Strew palms, strew palms! O Christ our King,
+
+   To Thee our fealty now we give,
+
+   And all the grateful homage bring
+
+   Of lives that for Thy service live.
+     __________________________________________________________________
+
+  PASSIONTIDE
+     __________________________________________________________________
+
+I
+
+   7,7,7,7
+
+
+   "Watch with Me," the Master said,
+
+   And the night around Him fell,
+
+   While the snares of sin and hell
+
+   On His awful path were spread.
+
+
+   But they slumbered while He prayed;
+
+   They who were His constant care,
+
+   Heard no echo of His prayer,
+
+   When His soul was sore dismayed.
+
+
+   Then He held the cup of woe,
+
+   And the prayer to God was made;--
+
+   Thrice in agony He prayed,
+
+   That He might the draught forgo.
+
+
+   But the will of God was done,
+
+   In the garden, on that night,
+
+   And He rose in all the might
+
+   Of the Well-beloved Son.
+
+
+   Ah, my soul, thy Lord behold;--
+
+   Wake from slumber, hear Him pray,
+
+   All thy griefs are borne away,
+
+   By His agony, untold.
+
+
+   And the strength of God is thine
+
+   When the will of God is done
+
+   In obedience, as a son,
+
+   Conscious of a love divine.
+     __________________________________________________________________
+
+II
+
+   8,8,8,8
+
+
+   Within the garden's sombre shade,
+
+   The Christ of God in anguish prayed;--
+
+   And who that agony could tell,
+
+   As from His brow the blood-drops fell?
+
+
+   "Can ye not watch one hour?" He saith,--
+
+   "My soul is sorrowful to death."
+
+   But He alone the vigil kept,
+
+   While worn disciples slumbering slept.
+
+
+   O dark the cloud that threatening hung,
+
+   And sore the grief His soul that wrung;--
+
+   The hate of man, the guilty name,
+
+   The bitter Cross, the sin and shame.
+
+
+   "If I must drink this cup," He prayed,
+
+   "The burden bear upon Me laid,
+
+   My God, I bow Me to Thy will,
+
+   And meekly Thy behest fulfil."
+
+
+   My soul! when to the garden led,
+
+   And clouds are gathering overhead;
+
+   When none the hour of anguish shares,
+
+   To God direct thy earnest prayers.
+
+
+   "Thy will be done, Thy will is best,"--
+
+   And then the bitter cup is blest,
+
+   If for His will the cup I drain,
+
+   Despite the agony and pain.
+     __________________________________________________________________
+
+III
+
+   6,6,8,6,8,8
+
+
+   The solemn feast was spent,
+
+   And night had spread her pall,
+
+   When Christ with His disciples went
+
+   Beyond the city wall;
+
+   And in the dark He led the way,
+
+   Towards the lone Gethsemane.
+
+
+   He took His chosen three,
+
+   And bowed with grief He saith,
+
+   "Abide ye here, and watch with me,
+
+   I sorrow unto death";
+
+   Then, moving forward still a pace,
+
+   He fell in prayer upon His face.
+
+
+   Ah, ill their watch they keep,
+
+   For soon their eyelids close,
+
+   And when their Lord returned, in sleep
+
+   Those weary men repose;
+
+   "Awake," He said, "make prayerful call,
+
+   Lest ye before the tempter fall."
+
+
+   Thrice did the Master pray,
+
+   That God His Son would save;
+
+   But heaven in silence turned away,
+
+   And earth no comfort gave;
+
+   And still the worn disciples slept
+
+   While Christ alone the vigil kept.
+
+
+   O soul of mine, awake!
+
+   Cast off thy careless sleep;
+
+   To God Thy prayer for succour make
+
+   And earnest vigil keep;
+
+   And learn, whate'er His will may be,
+
+   To do that will is best for thee.
+     __________________________________________________________________
+
+IV
+
+   8,6,8,6,8,8
+
+   Phoberon kai paradoxon Musterion
+   Sticheron Idiomelon from Vespers on Friday of Passion Week
+
+
+   To-day a wonder we behold,
+
+   A Mystery profound,--
+
+   The Great Invisible of old
+
+   Before our eyes is bound:
+
+   And He Who came to set us free,
+
+   Is held in base captivity.
+
+
+   The judge of all, to Whose assize
+
+   The race of man shall wend,
+
+   When He to judgement shall arise,
+
+   And forth the summons send,--
+
+   Behold Him, faultless and alone,
+
+   Before an earthly judgement throne.
+
+
+   And cruel hands are on Him laid,
+
+   And smite Him on the face,
+
+   'Though by Himself the hands were made,
+
+   Thus sullied with disgrace;
+
+   Creation, view the awful sight,
+
+   The creature his Creator smite.
+
+
+   He, Who Immortal Life bestows,
+
+   And hades' might defies,
+
+   Is hurried by relentless hands,
+
+   To Calvary, where He dies;--
+
+   And all is borne,--the scorn, the Cross,
+
+   In love to save our souls from loss.
+     __________________________________________________________________
+
+V
+
+   8,6,8,6
+
+   Ten achranton Eikona proskunoumen agathe
+   Troparion of The Sixth Hour
+
+
+   Before Thy Cross we take our place,
+
+   With all our load of guilt,
+
+   And plead forgiveness of Thy grace,
+
+   Because Thy blood was spilt.
+
+
+   For Thou, to free us from our foes,
+
+   Didst bear that cruel Cross,
+
+   And by its agony and woes
+
+   Bring gain for all our loss.
+
+
+   Therefore we raise with one accord
+
+   Our songs right thankfully;
+
+   For joy and peace, O Christ our Lord,
+
+   We owe in full to Thee.
+     __________________________________________________________________
+
+VI
+
+   8,7,8,7
+
+   To pathei sou, Christi, pathon eleutherothemen
+   Stichera of The Resurrection
+
+
+   Wherefore on the Cross uplifted,
+
+   Bore the Lord our anguish sore?
+
+   That He might from suffering save us
+
+   By those wounds for evermore.
+
+
+   Wherefore from the grave triumphant,
+
+   Came our Lord that radiant day?
+
+   That the bondage of corruption
+
+   Might for ever yield its sway.
+
+
+   Let the heavens resound with gladness,
+
+   Praises ring through all the earth;
+
+   Let the nations all, before Him,
+
+   Clap their hands with joyous mirth.
+
+
+   To the Cross that bore our Saviour,
+
+   Were our sins in mercy bound;
+
+   By the death of Him Who loved us,
+
+   Life for all mankind is found.
+
+
+   Glory unto God the Father,
+
+   Glory unto Christ the Son,
+
+   Glory to the Holy Spirit,
+
+   Now, and while the ages run.
+     __________________________________________________________________
+
+VII
+
+   6,6,8,6,6,6
+
+
+   O Wounded hands and feet!
+
+   O heart, with spear-thrust torn!
+
+   O brow, with blood-drops falling down,
+
+   Beneath the piercing thorn!
+
+   O Jesus, Lord divine,
+
+   Why was such anguish Thine?
+
+
+   The angels were amazed,
+
+   The sun refused his light,
+
+   And they who knew that Christ was God,
+
+   Turned from the woeful sight;
+
+   O Jesus, Lord divine,
+
+   Why was such anguish Thine?
+
+
+   My soul, canst thou not tell
+
+   Why such a sacrifice?
+
+   Hast thou no needs for which the Cross
+
+   Alone can find supplies?
+
+   O Jesus, Lord divine,
+
+   Why was such anguish Thine?
+
+
+   For thee the Cross was reared;
+
+   For thee the Christ was slain;
+
+   For thee He sojourned with the dead,
+
+   And rose to life again;
+
+   O Jesus, Lord divine,
+
+   Thus was the anguish Thine.
+     __________________________________________________________________
+
+VIII
+
+   8,6,8,6
+
+
+   O darkest night that ever fell!
+
+   Before the sun had set,
+
+   The light was blotted from the heavens,
+
+   And death and darkness met.
+
+
+   For God had turned His face away
+
+   From all the sin He bore
+
+   Whom in His love to earth He sent,
+
+   To bear that burden sore.
+
+
+   Ah! darkest night that ever falls
+
+   On soul of human race,
+
+   When God in anger turns away
+
+   The brightness of His face;
+
+
+   Then sun, and moon, and stars are lost,
+
+   Amid our hopeless night;
+
+   And all the radiant bliss of life
+
+   Is curtained from our sight.
+
+
+   O Christ, Thou art our Light and Sun,
+
+   Our Hope 'mid guilty fears;
+
+   No night surrounds Thy presence now,
+
+   Nor threatening cloud appears;
+
+
+   And sin and death no longer reign,
+
+   Nor day to dark declines,
+
+   For, from the Father's face, a light
+
+   Of reconcilement shines.
+     __________________________________________________________________
+
+IX
+
+   8,8,8,8,8,8
+
+
+   O bleeding heart, look up, behold
+
+   He hangs upon a Cross of dread,
+
+   Who bore a load of grief untold,
+
+   And, crowned with sorrow, bowed the head;
+
+   His heart once bled, O bleeding heart;
+
+   His hand can soothe thy cruel smart.
+
+
+   He knows thy grief, He knows it well,
+
+   The cruel loss, the fearful gloom;
+
+   For on His soul an anguish fell,
+
+   Among the mourners at the tomb;
+
+   His heart with sympathy can bless;
+
+   He knows thy sorrow's loneliness.
+
+
+   Bear it to Him, and leave it there,
+
+   And dawn shall chase the night away,
+
+   And all the shadow of thy care,
+
+   Melt as the clouds at opening day;
+
+   And gladness born of fearful night,
+
+   Rise in thy soul with joyous light.
+     __________________________________________________________________
+
+X
+
+   7,7,7,3
+
+
+   Heavy laden with thy grief,
+
+   Do thy tears like raindrops flow?
+
+   Christ hath all thy sorrows borne,
+
+   Long ago.
+
+
+   See Him in the garden prone,
+
+   While He pours His soul to God;
+
+   Then He bore affliction keen,
+
+   And the rod.
+
+
+   Weary, laden with thy sin,
+
+   Dost thou bow beneath the load?
+
+   Cast the burden of thy woe,
+
+   On thy God.
+
+
+   See Him fainting by the way,
+
+   As He bears the ponderous tree;
+
+   Hear His weary spirit sigh,
+
+   All for thee.
+
+
+   Sad and doubting! lo, the sun
+
+   Shines upon a glorious day;
+
+   He is risen, come see the place
+
+   Where He lay.
+
+
+   Glory to our suffering Lord,
+
+   Praise to our exalted King,--
+
+   Source of life and endless bliss,--
+
+   Let us bring.
+     __________________________________________________________________
+
+XI
+
+   6,6,8,6
+
+   'O monogenes &#161;ios kai Logos tou Theou
+   From the Liturgy of St. John Chrysostom
+
+
+   Thou One-begotten Son,
+
+   Eternal Word adored,
+
+   Immortal while the ages run,
+
+   And our Almighty Lord.
+
+
+   To bring Salvation nigh,
+
+   To vanquish death and sin,
+
+   Thou didst in cruel anguish die,
+
+   And life for mortals win.
+
+
+   Save us, O Christ, our God,
+
+   Save by Thy Cross we pray;
+
+   Thou Who didst bear the Father's rod,
+
+   And death, by dying, slay.
+
+
+   Thou art the Eternal Son,
+
+   One in the glorious Three;
+
+   Co-equal praise, Immortal One,
+
+   Shall ever rise to Thee.
+     __________________________________________________________________
+
+  EASTER
+     __________________________________________________________________
+
+I
+
+   8,7,8,7,8,8
+
+   'Epi tes theias phulakes
+
+
+   Watchman from the height beholding,
+
+   Look towards the eastern sky;
+
+   Is the light of heaven unfolding?
+
+   Comes the shining angel nigh,
+
+   Telling to our lost creation
+
+   Christ hath risen for our salvation?
+
+
+   Yea, He came to earth to save us;
+
+   As a lamb the Christ was slain;
+
+   For our Passover He gave us
+
+   His own flesh in direst pain;
+
+   On a Cross of anguish dying,
+
+   Very God, our need supplying.
+
+
+   Watchman, from the height beholding,
+
+   Comes the angel through the gloom,
+
+   Ere the morning light unfolding
+
+   Fills the darkness of the tomb?
+
+   Comes the angel through our sadness,
+
+   Waking souls of men to gladness?
+
+
+   See! the gates of hades shaken;
+
+   Burst asunder is the prison;
+
+   Souls of men from bondage taken,
+
+   Praise the Lord from death arisen;
+
+   Praise the Resurrection morning,
+
+   All our life with hope adorning.
+     __________________________________________________________________
+
+II
+
+   6,6,8,6,8,8
+
+   Tas esperinas emon euchas
+   Stichera of The Resurrection
+
+
+   Our evening prayers attend,
+
+   O Thou that holy art;
+
+   In mercy full forgiveness send
+
+   To every contrite heart;
+
+   For Thou hast risen to set us free,
+
+   And all mankind rejoice in Thee.
+
+
+   Encompass Zion round,
+
+   Ye people, tell His fame;
+
+   Let Resurrection joy abound,
+
+   And glory to His name;
+
+   He is our Lord, Who from the grave
+
+   Arose our sinning souls to save.
+
+
+   With Resurrection lays,
+
+   Ye people, come adore,
+
+   And worship Him with grateful praise,
+
+   Who lives for evermore;
+
+   He is our God, Who from the grave
+
+   Arose our sinning souls to save.
+
+
+   Lord, by Thy Passion Thou
+
+   Sav'st men from passions base,
+
+   And by Thy Resurrection, now
+
+   Dost from corruption raise.--
+
+   Glory to Thee we humbly bring,
+
+   O Christ, Who art our heavenly King.
+     __________________________________________________________________
+
+III
+
+   10,10
+
+   Tetelestai!
+
+(I)
+
+
+   Lo, He is dead! The suffering Christ is dead;
+
+   Closed are His eyes, and bowèd is His head.
+
+
+   Dead, too, in shame! Upon a Cross! and see,
+
+   Thorns crown His brow, in cruel mockery.
+
+
+   O night, and woe! The sun and stars are gone;
+
+   Dark is the world, and hope, despairing, flown.
+
+
+   Art Thou not Christ? The Christ of God, art Thou?
+
+   How then this death? This awful silence, how?
+
+
+   O sin, and death, and victory of the grave!
+
+   Canst Thou, in death, O Christ, Thy people save?
+
+
+   Weep in the night, O mortals at the grave;
+
+   Dead is the Christ, and dead He cannot save.
+     __________________________________________________________________
+
+IV
+
+   10,10
+
+   Christos aneste ek nekron
+
+(II)
+
+
+   Morning awakes, and morn awaking sings;
+
+   Light speeds from heaven to earth with glowing wings.
+
+
+   Haste to the tomb! Ye mourners haste, with glee!
+
+   Christ hath arisen, from death's grim fetters free.
+
+
+   Gone are the night, the terror, and the gloom;
+
+   Christ hath arisen, and left the awful tomb.
+
+
+   Death now is dead, the grave hath lost its power;
+
+   Death and the grave are vanquished at this hour.
+
+
+   Thou art the Christ, victorious Christ art Thou,
+
+   Death hath no sting, and grave no victory now.
+
+
+   Glory to Thee, O Christ, Thy people bring;
+
+   Thou art our God, and our Immortal King.
+     __________________________________________________________________
+
+V
+
+   7,7,7,7
+
+
+   In the dark of early morn,
+
+   Ere the light dispelled the gloom,
+
+   Came the hearts with sorrow, torn,
+
+   Weeping, to the lonely tomb.
+
+
+   Brought they aromatics rare
+
+   Culled from every choicest stem,
+
+   And from gardens blooming fair,
+
+   Round thy slopes, Jerusalem.
+
+
+   Ah, the thoughts that filled the mind,
+
+   As they journeyed all alone;
+
+   For the Blessed Lord was kind,
+
+   And they loved Him as their own.
+
+
+   Glistening in the morning grey,--
+
+   Whence those garments fairer far
+
+   Than the light that hails the day
+
+   In the glorious morning star.
+
+
+   List! their voices, heavenly, sweet,
+
+   As the light-clad angels say,
+
+   Come, behold, in reverence meet,
+
+   Where the risen Master lay.
+
+
+   Hail the gladness, hail the day;
+
+   Bring no spices, bring no tears;
+
+   Death has lost its power to slay,
+
+   And the grave is reft of fears.
+     __________________________________________________________________
+
+VI
+
+   10,10,10,10
+
+   Ge de agalliastho Christos gar egegertai
+
+
+   Sleepers awake! the night's long reign is past;
+
+   Purple and gold adorn the hills at last;
+
+   Songs of delight from myriad hearts arise,
+
+   Borne on the wind that bears them to the skies.
+
+
+   Sleepers awake! The Christ from death awakes;
+
+   Light from the tomb in radiant beauty breaks;
+
+   Song from the heavens to listening earth descends,
+
+   Gladness of earth with heavenly gladness blends.
+
+
+   Sleepers awake! to hope immortal spring,
+
+   Mount to the heights with never-tiring wing;
+
+   Clouds are of earth where linger doubt and fear,
+
+   There, in the light, no threatening clouds appear.
+
+
+   Sleepers awake! No time for slumber now,
+
+   Day shines from heaven with glory on its brow.
+
+   Darkness and night, and clouds are passed away,
+
+   Christ is the Light of our eternal day.
+
+
+   Sleepers awake! the night's long reign is past;
+
+   Purple and gold adorn the hills at last;
+
+   Christ hath arisen. Awake! creation wakes,
+
+   Light everlasting on our darkness breaks.
+     __________________________________________________________________
+
+VII
+
+   8,8,8,8
+
+
+   Light, ere the dawn in beauty broke,
+
+   Sprang from the darkness and the gloom,
+
+   When Christ the King from death awoke,
+
+   And burst the fetters of the tomb.
+
+
+   Light of our souls, a glorious day,
+
+   Rose on the darkness of our world;
+
+   Hell and his hosts, in black array,
+
+   Then from the seat of power were hurled.
+
+
+   Hope of the hearts by anguish wrung,
+
+   Light of the eyes bedimmed by woe,
+
+   When, on the Cross forsaken, hung
+
+   He Who had shared their life below.
+
+
+   All hail, the Christ! Immortal Thou!
+
+   Death and the grave are conquered quite;
+
+   Gone is the power that held us, now,
+
+   Gone are the terrors of the night.
+     __________________________________________________________________
+
+VIII
+
+   10,10,10,10
+
+
+   Awake, arise, and greet the dawning day,
+
+   See, on the hills, the morning beams are shed;
+
+   Wipe from your eyes the tears of grief away,
+
+   For lo, the Christ is risen, Who was dead.
+
+
+   Awake, arise, nor seek the empty tomb,
+
+   He is not there, Who died by cruel men;
+
+   But, as the sun that rises from the gloom,
+
+   He hath arisen, nor sets in night again.
+
+
+   Woeful the day when sin and death assailed,
+
+   Day died at noon, and hope despairing fled;
+
+   Long was the night, but morning hath prevailed,
+
+   Sin is o'erthrown, and death itself is dead.
+
+
+   Awake, arise, and as the angel throng
+
+   Welcomed the Christ on earth, in weakness born,
+
+   Break into praise, and with triumphant song
+
+   Welcome the dawning of a fairer morn.
+     __________________________________________________________________
+
+IX
+
+   7,8,7,6
+
+
+   Christ hath left the dismal tomb;--
+
+   Glory, Glory, He is risen;
+
+   Like a cloud hath passed the gloom,
+
+   As a dream, the prison.
+
+
+   From the Cross they bore Him there,
+
+   Torn and bleeding, and they wound Him
+
+   In soft linen white and fair,
+
+   And sweet fragrance round Him.
+
+
+   Christ hath left the dismal tomb;--
+
+   Glory, glory, death is lying
+
+   In the everlasting gloom,
+
+   From the conflict dying.
+
+
+   And His weeping followers came
+
+   From their hiding, and they sought Him,
+
+   Whither loving hands, in shame,
+
+   Sad and sorrowing, brought Him.
+
+
+   Christ hath left the dismal tomb;--
+
+   Glory, glory, He is risen;
+
+   Death has heard the voice of doom
+
+   In the empty prison.
+
+
+   And they sought the living there;
+
+   Weeping eyes, the morn is waking;
+
+   With the light give wings to care,
+
+   Night and death forsaking.
+     __________________________________________________________________
+
+X
+
+   6,6,8,6,6,6
+
+   Thanato thanaton kathesas
+
+
+   The gate of life stands wide,
+
+   For Christ hath entered in;
+
+   Now fearless mount the upward path,
+
+   Nor dread the power of sin;
+
+   For sin and death are slain
+
+   By Him Who rose again.
+
+
+   'Twas on the Cross He died,
+
+   And death a victory won;
+
+   Short-lived as night that flies before
+
+   The rising of the sun;
+
+   For death by Christ was slain,
+
+   Who died to live again.
+
+
+   The might of sin prevailed,--
+
+   Its cruel hate and scorn;
+
+   It drove the cruel spear and nails,
+
+   And crowned the Christ with thorn;
+
+   The spear was broke in twain,
+
+   By Christ Who rose again.
+
+
+   Up, mortals! life is yours,
+
+   The prize is yours to win;
+
+   For Christ hath vanquished by His might
+
+   The power of death and sin;
+
+   For sin and death were slain,
+
+   By Christ Who rose again.
+
+
+   To Thee, O Christ, be praise,
+
+   Whose power decayeth never;
+
+   To Father, and to Holy Ghost,
+
+   Be laud and glory ever;
+
+   For death by Christ was slain,
+
+   Who died to live again.
+     __________________________________________________________________
+
+XI
+
+   8,8,8,8
+
+
+   Hail, rising morn! for He hath risen;
+
+   Hail light that gilds the eastern skies;
+
+   For, from the bonds of darkest prison,
+
+   Thy first beams saw the Christ arise.
+
+
+   O merciful and gracious One!
+
+   The gates of hades Thou has rent;
+
+   And by Thy rising, Christ the Son,
+
+   The souls were freed in bondage pent.
+
+
+   To-day the lips of Adam sing,
+
+   Eve hails the Christ of mankind born;
+
+   And patriarchs and prophets bring
+
+   Their hymns to greet the wondrous morn.
+
+
+   And Thine the glory, Thine the power,
+
+   By glowing hearts in praise expressed;
+
+   For Thine the triumph of this hour
+
+   By which the sons of men are blessed.
+     __________________________________________________________________
+
+XII
+
+   6,5,6,5,6,5
+
+
+   Crown the Lord of glory,
+
+   Angels, crown your King;
+
+   Saints, whose souls He ransomed,
+
+   Bring your offering;
+
+   Let no voice be silent,
+
+   Laud and honour bring.
+
+
+   Crown the Lord of glory,--
+
+   Once He dwelt below,
+
+   Bore the cross of sorrow,
+
+   Drank the cup of woe;
+
+   Now He reigns triumphant,
+
+   Let your praises flow.
+
+
+   Crown the Lord of glory;--
+
+   On the earth He wore
+
+   Purple robe that mocked Him,
+
+   Thorns His brow that tore;
+
+   Now His griefs are ended,
+
+   Praise Him evermore.
+
+
+   Crown the Lord of glory,
+
+   For His work is done;
+
+   Crown the King of angels,
+
+   God's eternal Son;
+
+   In my life enthroned
+
+   Be Thy reign begun.
+     __________________________________________________________________
+
+XIII
+
+   7,8,7,8
+
+
+   Hail the morn, with gladness crowned;
+
+   Morn of morns, O glad and glorious!
+
+   When the Lord of Life, renowned,
+
+   Brake the bands of death, victorious.
+
+
+   Hades gazed in dread surprise
+
+   As the light the darkness sundered,
+
+   Prisoners raised their weary eyes
+
+   Lit with hope, and mutely wondered.
+
+
+   Wounded was the Victor's brow,
+
+   Where the cruel thorns distressed it;
+
+   But the conqueror's laurel now,
+
+   Winding, on His forehead rested.
+
+
+   Hail! The Man from death arisen;
+
+   Hail! The Christ a victor glorious,
+
+   Thou hast broken hades' prison,
+
+   Jesus, Son of Man, victorious.
+     __________________________________________________________________
+
+XIV
+
+   7,7,7,7,7,7
+
+
+   Light more glorious than the sun
+
+   Dawns upon our fearful night,
+
+   And the longed-for day begun,
+
+   Pours its everlasting light;
+
+   Christ is risen, with gladness then
+
+   Hail His rising, sons of men.
+
+
+   Women came at early gloom,
+
+   Sad at heart, and full of fears,
+
+   Bearing to the dismal tomb,
+
+   Spices, mingled with their tears;
+
+   "Wherefore weep?" the angel said,
+
+   "Christ is risen from the dead."
+
+
+   Lone disciples all amazed
+
+   Sought the place where He had lain,
+
+   And they knew not as they gazed,
+
+   That their Lord had risen again
+
+   Mortals, hail the day begun,
+
+   Christ hath risen, our glorious Sun.
+
+
+   Mortals, lo! the Christ hath risen,
+
+   God-man He, and Lord of life;
+
+   Broken now is hades' prison,
+
+   Sin is wounded in the strife;
+
+   Lo, we hail Thy rising, now,
+
+   Christ, the King immortal, Thou.
+     __________________________________________________________________
+
+XV
+
+   8,8,6,8,8,6
+
+   Ai murophoroi gunaikes, orthrou batheos
+
+
+   At early dawn, with pious thought,
+
+   The holy women spices brought,--
+
+   For Christ their Lord, was dead;--
+
+   But lo! the stone was rolled away:
+
+   "Where are the seals?" they wondering say,
+
+   "The guard, where He was laid?"
+
+
+   "Why with your ointments mix your tears?
+
+   Why all this sighing, and these fears?"
+
+   An angel near declares:
+
+   There lies the stone that barred the tomb:
+
+   No longer now its solemn gloom
+
+   Your Lord and Master shares.
+
+
+   "Haste, haste, with joy the tidings tell,
+
+   The Lord hath vanquished death and hell,
+
+   For He, the death of death,
+
+   Hath burst asunder hades' prison,
+
+   And, first-born from the dead hath risen,
+
+   Even as afore He saith."
+
+
+   Honour to Thee, O Christ, we bring;
+
+   Thy glorious rising now we sing,
+
+   Victorious is Thy strife;
+
+   Our Hope, our Trust,--on Thee we call,--
+
+   Our Joy, our Strength, our God, our All,
+
+   And our Immortal Life.
+     __________________________________________________________________
+
+XVI
+
+   7,7,7,7,7,7
+
+
+   Glorious to our watching eyes,
+
+   On the blessed first of days,
+
+   See the radiant sun arise,
+
+   Clad in glowing garb of praise;
+
+   And the angel's words have given
+
+   Hope to earth, and joy to heaven.
+
+
+   Ah, the darkness of the night;
+
+   Ah, the sighing, and the pain;
+
+   But the Rising of the Light,
+
+   Bids us dry our tears again;
+
+   For our Light, ascending brings
+
+   Joy and healing in His wings.
+
+
+   He is risen, even as He said,--
+
+   Great the joy the vision gives;
+
+   Tell the soul to gladness dead,
+
+   That the Lord Immortal lives;
+
+   And the dead to hope shall spring
+
+   Heavenward, as on tireless wing.
+     __________________________________________________________________
+
+XVII
+
+   7,8,7,8
+
+   Anastaseos emera
+   From the Canon for Easter--
+   JOHN OF DAMASCUS
+
+
+   Hail the Resurrection day,
+
+   Let the people shout for gladness;
+
+   'Tis a Passover of joy,
+
+   Therefore banish every sadness;
+
+   For, from death to endless life,
+
+   Christ our Lord His people bringeth;
+
+   As from earth to heaven we rise,
+
+   Each his song of triumph singeth.
+
+
+   From our eyes the veil remove,
+
+   That we may, in light transcending,
+
+   See the Risen Lord of Life,
+
+   Life to all in grace extending;
+
+   Let our ears His voice perceive--
+
+   To its accents kind attending
+
+   We would hear "All hail" and sing,
+
+   Every voice in gladness blending.
+
+
+   Let the heavens above rejoice,
+
+   Earth unite with heaven in praising;
+
+   All the world, and all therein,
+
+   Join in triumph, heavenward raising
+
+   All things visible unite
+
+   With invisible in singing,
+
+   For the Christ is risen indeed,
+
+   Everlasting gladness bringing.
+     __________________________________________________________________
+
+XVIII
+
+   7,7,7,7
+
+
+   Light is dawning 'mong the hills,--
+
+   Light of lights Thy beams display,
+
+   All the darkness chase away,
+
+   Light that dawned upon our ills.
+
+
+   Dark the day the Cross was raised
+
+   By the hands of cruel men;
+
+   Great Thy load of sorrow then;
+
+   Angel hosts were sore amazed.
+
+
+   Dark the world while in the tomb,
+
+   Lone in death, the Saviour lay,
+
+   Till the stone was rolled away,
+
+   And His Rising quelled the gloom.
+
+
+   Fadeless now, O Light of light,
+
+   Glory of the Father Thou,
+
+   Shine upon Thy people now,
+
+   Rise upon their darkest night.
+     __________________________________________________________________
+
+XIX
+
+   6,6,8,6
+
+
+   Awake! the morn is here,
+
+   The long, dark night is past;
+
+   The gladness and the light appear,
+
+   And beauty shines at last.
+
+
+   Awake! the morning sings,
+
+   The clouds have passed away;
+
+   The rising sun triumphant brings
+
+   The long-expected day.
+
+
+   Awake! the Christ arose
+
+   The first faint dawn to greet;
+
+   The smiling world in sweetness strews
+
+   Its flowers among His feet.
+
+
+   Awake, my soul, awake!
+
+   Arise on buoyant wings,
+
+   The sordid and the sin forsake,
+
+   And mount to better things.
+
+
+   Immortal Christ, all hail!
+
+   Thy power hath triumphed quite;
+
+   Sin can no more our souls assail,
+
+   Nor death, nor grave, nor night.
+     __________________________________________________________________
+
+XX
+
+   7,7,7,7
+
+
+   Morn of beauty, joyous morn
+
+   Hails the Resurrection day,
+
+   All our fears are borne away,
+
+   Hope into our world is born.
+
+
+   See, the stone is rolled away,
+
+   Empty stands the silent tomb,
+
+   Death is dead, and gone the gloom
+
+   Where the risen Saviour lay.
+
+
+   Women bare the spices, sad,
+
+   In the early morning grey,
+
+   But they wiped their tears away,
+
+   For the angel made them glad.
+
+
+   Tell the tidings far abroad,
+
+   "He is risen even as He said,"
+
+   Life immortal from the dead
+
+   Is the gift of Christ our God.
+
+
+   Glory, glory evermore,
+
+   To the Christ Who died to save,
+
+   Wresting victory from the grave,--
+
+   To the Christ we now adore.
+     __________________________________________________________________
+
+  ASCENSION
+     __________________________________________________________________
+
+I
+
+   7,7,7,7,7,7
+
+
+   Open wide the gate of heaven,
+
+   Let the glorious Victor in,
+
+   For to Him alone 'tis given,
+
+   Who hath quelled the boast of sin--
+
+   To ascend the azure height,
+
+   Girt with an all-conquering might.
+
+
+   Night and darkness flew before Him,
+
+   Sin and death before Him fell;
+
+   Angel hosts in bliss, adore Him!
+
+   Who hath spoiled the depths of hell,
+
+   And ascends the azure height,
+
+   Girt with an all-conquering might.
+
+
+   Ah, the mocking and deriding,
+
+   Ah, the Cross on which He hung,
+
+   And the night, God's presence hiding,
+
+   While the darts of hell were flung,--
+
+   Now He mounts the azure height,
+
+   Girt with an all-conquering might.
+
+
+   Hail Him now, His task completed,
+
+   All He strove for man to win;
+
+   Victor, Who the foe defeated--
+
+   Death, and hell, and vaunting sin,
+
+   For He mounts the azure height,
+
+   Girt with an all-conquering might.
+
+
+   Jesus, Lord of life undying!
+
+   From the throne where Thou art set,
+
+   Heed Thy followers who are sighing,
+
+   But can ne'er Thy love forget,
+
+   And beyond the azure height,
+
+   Raise them by Thy saving might,
+     __________________________________________________________________
+
+II
+
+   8,8,8,8
+
+
+   Lord, Thou art lifted very high
+
+   Above the clouds, and azure skies,
+
+   Yet Thou to every soul art nigh,
+
+   Whose trustful prayers to Thee arise.
+
+
+   Lord, let me know that distance ne'er
+
+   Can check the outflow of Thy grace;
+
+   That they, Thy Blessed Name that fear,
+
+   May aye behold Thy loving face.
+
+
+   Nor time, nor space, can bar the way,
+
+   If I would mount to where Thou art;
+
+   And Thou canst bow Thy heavens, and pay
+
+   A gracious visit to my heart.
+
+
+   Then lift me up, O Gracious Lord,--
+
+   Yea, come and bless me where I dwell;
+
+   And speak to me Thy blessed Word,
+
+   And all my loneliness dispel.
+     __________________________________________________________________
+
+III
+
+   8,7,8,7
+   Idiomelic Stichera of The Ascension
+
+
+   When the Christ, His mission ended,
+
+   To the mount of Olives went,
+
+   He from earth in power ascended,
+
+   Far above the firmament.
+
+
+   Clouds His chariot, bright and glorious,
+
+   Bore Him far from human ken,
+
+   Who to heaven returned victorious,
+
+   Leaving gifts for sinful men.
+
+
+   "Lift your heads, ye gates supernal,"
+
+   Sang the choirs of angels bright,
+
+   "For He comes, the King eternal,
+
+   Crowned with majesty and might."
+
+
+   Hear the prayer from earth ascending
+
+   From our hearts bereft and lorn;
+
+   Let the Holy Ghost, descending,
+
+   Come to soothe our souls that mourn.
+     __________________________________________________________________
+
+IV
+
+   4,6,4,6,8,8
+
+   'Arate pulas
+
+
+   Lift up the gates,
+
+   The Lord of heaven appears;
+
+   Thrust wide the doors,
+
+   The King of glory nears;
+
+   The throne is His Whose arm of might
+
+   O'erthrew the tyrant in the fight.
+
+
+   Lift up the gates;--
+
+   The gates of hades fell;
+
+   Thrust wide the doors,
+
+   He burst the doors of hell,
+
+   And prisoners in the dark abode,
+
+   Exulting, hailed the Son of God.
+
+
+   Lift up the gates,
+
+   No power His might can meet;
+
+   Thrust wide the doors,
+
+   The foe is at His feet;
+
+   The path is cleared, the prize is won,
+
+   Enter, Thou all-victorious Son.
+
+
+   Lift up the gates;--
+
+   They come who welcome win;
+
+   Thrust wide the doors,
+
+   And let His followers in;
+
+   They come from toil and conflict long,
+
+   Ten thousand times ten thousand strong.
+
+
+   Lift up the gates;--
+
+   Still valiant deeds are done;
+
+   Thrust wide the doors,
+
+   For laurels yet are won;
+
+   And when the victor sheathes his sword,
+
+   Receive the follower of his Lord.
+     __________________________________________________________________
+
+V
+
+   7,8,7,8
+
+
+   He Who made the earth His home,
+
+   Infant holy, 'Alleluia!
+
+   Now ascends the azure dome;--
+
+   Praise Him, 'Alleluia!
+
+
+   Long on rugged ways He trod,
+
+   Footsore, weary, 'Alleluia!
+
+   Calling wanderers back to God;--
+
+   Praise Him, 'Alleluia!
+
+
+   Gone from earth, His wanderings o'er,
+
+   Toil is ended, 'Alleluia!
+
+   See Him upward, heavenward soar;--
+
+   Praise Him, 'Alleluia!
+
+
+   He Who bare the Cross in woe,
+
+   Faint, and falling, 'Alleluia!
+
+   Seeks the path where sunbeams go;--
+
+   Praise Him, 'Alleluia!
+
+
+   On the awful cross He hung,
+
+   Faint, and bleeding, 'Alleluia!
+
+   Death and hell their arrows flung;--
+
+   Praise Him, 'Alleluia!
+
+
+   'Alleluia! all is past,--
+
+   Death and dying, 'Alleluia!
+
+   Life immortal's won at last;--
+
+   Praise Him, 'Alleluia!
+
+
+   'Alleluia! all is ended,
+
+   All He came for, 'Alleluia!
+
+   And our Victor hath ascended;--
+
+   Praise Him, 'Alleluia!
+     __________________________________________________________________
+
+VI
+
+   6,6,6,6,8,8
+
+
+   Borne on the wings of light,
+
+   Behold the Lord ascend,
+
+   Up to the portals bright
+
+   Where heavenly powers attend,
+
+   And fling the gates of glory wide,
+
+   While praises rise like flowing tide.
+
+
+   Back to the Father's bliss
+
+   From war and strife below;
+
+   From toil and loneliness
+
+   'Mid scenes of sin and woe;
+
+   Loud plaudits hail the Victor now,
+
+   Who comes with triumph on His brow.
+
+
+   Lord, in the peace of heaven,
+
+   Far from our toil and pain,
+
+   Think of the promise given,
+
+   And come to us again;
+
+   Remember Thou the toilsome road,
+
+   That brought Thee to Thy blest abode.
+
+
+   And see the toils we bear,
+
+   And hear the prayers we send;
+
+   In answer to our prayer
+
+   Our needy souls befriend;
+
+   We need not languish in the night,
+
+   Though heaven receive Thee from our sight.
+
+
+   O, Promised Spirit, come,
+
+   And fill the empty place,
+
+   Till in our heavenly home
+
+   We look upon His face,
+
+   Who fought with us in earthly strife,
+
+   And won for us immortal life.
+     __________________________________________________________________
+
+VII
+
+   8,8,8,8
+
+
+   Borne on the clouds the Christ arose
+
+   To where the light celestial glows,
+
+   Till, farther than the eye could view,
+
+   He passed the heavenly portals through.
+
+
+   Ended the weary life below,
+
+   The painful toil, the grief, the woe;
+
+   The conflict of the cross is past,
+
+   And sin and death are slain at last.
+
+
+   Now list, the heavenly song begun
+
+   By hosts in garments like the sun;
+
+   Lift up, lift up your heads, ye gates!
+
+   The glorious King an entrance waits.
+
+
+   Ascended Christ! in mercy yet,
+
+   Think of the hearts on Olivet,
+
+   And in Thy wondrous grace restore
+
+   Thy living presence gone before,
+
+
+   And let the Spirit's aid revive
+
+   Our waiting souls that faithful strive,
+
+   Till from our Olivet we soar,
+
+   To dwell with Thee for evermore.
+     __________________________________________________________________
+
+  PENTECOST
+     __________________________________________________________________
+
+I
+
+   6,6,8,6
+
+
+   Come, Holy Ghost, in might,
+
+   And make our weakness strong;
+
+   Renew our valour in the fight
+
+   Against the power of wrong.
+
+
+   Come, Holy Ghost, restore
+
+   The zeal our lives have lost;
+
+   And on our fainting spirits pour
+
+   The grace of Pentecost.
+
+
+   Come, Holy Ghost, in light,
+
+   Our hearts and minds to cheer,
+
+   And pierce the darkness of our night
+
+   Of ignorance and fear.
+
+
+   Come, Holy Ghost, in love,
+
+   Reveal the Love divine
+
+   That stooped to earth from heaven above,
+
+   In sympathy benign.
+
+
+   And while the ages run,
+
+   Our praise shall rise to Thee;
+
+   And to the Father and the Son,
+
+   One God, eternally.
+     __________________________________________________________________
+
+II
+
+   7,7,7,3
+
+
+   Like the beams that from the sun
+
+   Pierce the blackness of the night,
+
+   Come to us, O Promised One,
+
+   Spirit, Light.
+
+
+   Pure as saints that have attained,
+
+   Clad in brightness for attire,
+
+   Cleanse our souls by vileness stained,
+
+   Spirit, Fire.
+
+
+   Stronger than uplifted arm
+
+   In the tumult of the fight,
+
+   Shield our timid souls from harm,
+
+   Spirit, Might.
+
+
+   Soothing as the calm that falls
+
+   When the winds and billows cease,
+
+   Comfort us when fear appals,
+
+   Spirit, Peace.
+
+
+   Come, O Gracious Spirit, come,
+
+   We would have Thee for our guest;
+
+   Make our souls Thy chosen home,
+
+   Spirit, Blest.
+     __________________________________________________________________
+
+III
+
+   8,8,8,8,8,8
+
+   'Agios athanatos, to parakleton Pneuma
+
+
+   The promise which the Saviour made
+
+   When His disciples sorrowed most,
+
+   That He would send to comfort them
+
+   The life-inspiring Holy Ghost,
+
+   Found its fulfilment when they met
+
+   Upon the hallowed Pentecost.
+
+
+   And ever through the linkèd years,
+
+   From then till now the Gift is sure;
+
+   And they who sorrow for their sin,
+
+   Or trial's bitter pangs endure,
+
+   And they who mourn, and they who weep,
+
+   Find in the Gift a peace secure.
+
+
+   Vainly we mourn our absent Lord,
+
+   If Thou, the Comforter be near;
+
+   For it is Thine to take of His,
+
+   And make us feel that He is here;
+
+   We still may joy when others grieve,
+
+   And hope when threatening clouds appear.
+
+
+   Come, Holy Ghost, with us reside,
+
+   Let Thy sweet presence fill our soul;
+
+   And make us strong to fight and win;
+
+   And all our wayward wills control;
+
+   To give us comfort when we weep,
+
+   And bind our hearts, and make them whole.
+     __________________________________________________________________
+
+IV
+
+   8,7,8,7
+
+   Deute laoi, ten trisupostaton Theoteta proskunesomen
+
+
+   Come, ye people, come, adore Him,
+
+   God in Holy Trinity;
+
+   God the Father, Son, and Spirit,
+
+   Ever blessed Unity.
+
+
+   Thine the glory, God Almighty,
+
+   To the Son and Spirit given,
+
+   Ere upon the world's creation
+
+   Dawned the new-born light of heaven.
+
+
+   Holy, holy, we adore Thee,
+
+   One in power, in nature one;
+
+   God the Father, God the Spirit,
+
+   God the Co-Eternal Son.
+
+
+   By the Son the wide creation
+
+   Rose where chaos held its sway;
+
+   By the Spirit, God Almighty
+
+   Swept eternal night away.
+
+
+   Son, the Father's love revealing,
+
+   Son, through Whom the Spirit came,
+
+   Blessed Godhead! endless glory
+
+   Be to Thine exalted name.
+     __________________________________________________________________
+
+V
+
+   7,8,7,8
+
+
+   O Holy Spirit, one in power,
+
+   With God Who reigns in highest heaven;
+
+   Come to our waiting souls this hour,
+
+   And let Thy heavenly aid be given.
+
+
+   Our souls are dark, for sin is there;
+
+   We strive, and find our striving vain;
+
+   For night afflicts us everywhere,
+
+   And all is loss, and nought is gain.
+
+
+   But Thou art Light of radiant glow,
+
+   And Thou canst fill our souls with cheer;
+
+   Come then, Thy glorious Gift bestow,
+
+   And with Thy presence bless us here.
+
+
+   Then, far from us shall night depart,--
+
+   Our sin, and sadness, doubt, and pain;
+
+   And comfort shall sustain the heart,
+
+   And peace our warring lusts restrain.
+
+
+   O, One with Christ, Thou Spirit blest,
+
+   As one with God Thou truly art;
+
+   Great Triune! be Thy power confest,
+
+   And Thou enthroned in every heart.
+     __________________________________________________________________
+
+VI
+
+   8,8,8,8,8,8
+
+
+   Thou Spirit of Almighty God,
+
+   Of Whom the Christ in promise spoke,
+
+   When sorrow cast its gloom abroad,
+
+   And throbbing hearts the stillness broke;
+
+   They know Thy power who sorrow most,
+
+   Come then to soothe, O Holy Ghost.
+
+
+   Thou cam'st to fill the vacant place,
+
+   Lest heedless souls should Christ forget,
+
+   To show His deeds and words of grace,
+
+   When He had risen from Olivet;
+
+   To close the links by parting riven,
+
+   And bind their souls to His, in heaven.
+
+
+   Thy power is in the souls of men
+
+   To burn their dross with heavenly flame,
+
+   To rouse the faint to life again,
+
+   The erring from their ways reclaim;
+
+   Thy calm the troubled soul pervades,
+
+   And night before Thy rising fades.
+
+
+   Almighty God, Thou Holy Ghost,
+
+   Our hearts refresh, our souls inspire
+
+   Come as Thou cam'st at Pentecost,
+
+   As rending wind, or tongues of fire;
+
+   And when our lips are moved to praise,
+
+   Thy grace shall be their theme always.
+     __________________________________________________________________
+
+VII
+
+   8,8,8,8
+
+
+   O Holy Ghost, Thou Lord of Light,
+
+   Remove our ignorance, we pray,
+
+   And shine upon the 'wildering night,
+
+   That leads our darkened souls astray.
+
+
+   O Holy Ghost, convince of sin,
+
+   And in our blindness let us see
+
+   The fleshly power that lurks within,
+
+   The loves that turn our hearts from Thee.
+
+
+   O Holy Ghost, Thou Lord of Life,
+
+   Revive our souls with needed strength,
+
+   That we may stand amid earth's strife,
+
+   And win the victory at length.
+
+
+   O Holy Ghost, Thy comfort bring,
+
+   That, when the heart with sorrow sighs,
+
+   Our lips the praise of Christ may sing,
+
+   And tears no longer cloud our eyes.
+
+
+   O Holy Ghost, our faith renew,
+
+   Our doubting minds with hope inspire;
+
+   And may Thy love our hate subdue,
+
+   And warm our souls with heavenly fire.
+     __________________________________________________________________
+     __________________________________________________________________
+
+FAITH AND PENITENCE
+     __________________________________________________________________
+
+I
+
+   7,7,7,7,7,7
+
+
+   Ah, the trembling of that day,
+
+   Ah, the terror, and the dread;
+
+   When the heavens are rolled away,
+
+   And the Judge of quick and dead
+
+   In the judgement shall not fail;--
+
+   Who shall not his sin bewail?
+
+
+   Spare me, Lord, Thy creature spare,
+
+   When to judgement I am borne;
+
+   I have sinned, but, Lord forbear,
+
+   Every sin I humbly mourn;
+
+   Thou alone art sinless! Save:
+
+   Grant the mercy that I crave.
+
+
+   Yea, my tears refuse to flow,
+
+   True repentance I have none;--
+
+   Were I contrite, I should know
+
+   All the evil I have done;
+
+   In my blindness mercy give,
+
+   Speak the word and I shall live.
+     __________________________________________________________________
+
+II
+
+   6,6,6,6,6,6
+
+
+   I cannot lift mine eyes,
+
+   For O, my sin is great,--
+
+   High as the hills that rise
+
+   Up, up to heaven's gate;--
+
+   I cannot lift mine eyes,
+
+   So great my sin, so great.
+
+
+   But I would smite my breast,
+
+   And bow me at the Cross;
+
+   And well He knows the rest,
+
+   My sense of shame, and loss;
+
+   Yea, I would smite my breast,
+
+   And bow me at His Cross.
+
+
+   Mayhap when I have told
+
+   The burden of my sin,
+
+   He'll make my spirit bold,
+
+   And speak, and soothe, and win;--
+
+   All this when I have told
+
+   The burden of my sin.
+
+
+   Then shall I lift mine eyes,
+
+   And see the sin removed,
+
+   And in the cloudless skies
+
+   Behold the Well-Beloved;--
+
+   Then shall I lift mine eyes,
+
+   And see my sin removed.
+     __________________________________________________________________
+
+III
+
+   8,6,8,6,8,8
+
+
+   My heart was sad because of sin,
+
+   And lo, the night came down,
+
+   And dark without, and dark within
+
+   I shrank before Thy frown;
+
+   Now pity, Lord, my woeful state,
+
+   And save me in Thy mercy great.
+
+
+   I lift mine eyes to where the Christ
+
+   My awful burden bore,
+
+   And see the offering that sufficed,--
+
+   His stripes and anguish sore;
+
+   The riven side, the thorny crown,
+
+   The wounds from which His blood flowed down.
+
+
+   O Love no loving heart e'er gave!
+
+   Like light from heaven it flows;
+
+   And now for Him Who died to save,
+
+   My love responsive glows;
+
+   And joy resounds my heart within,
+
+   That once was sad because of sin.
+     __________________________________________________________________
+
+IV
+
+   6,6,8,6,8,8
+
+
+   O, I have wandered far,
+
+   Good Lord Thou knowest well
+
+   The heights of pride my feet have trod,
+
+   The awful depths of hell;
+
+   Now sore at heart, and sick of sin,
+
+   O Lord in mercy take me in.
+
+
+   I thought when shone the day
+
+   The light would cloudless last,
+
+   That stars would shine when darkness fell,
+
+   And morn when night was past;
+
+   But foolish hopes were quenchèd soon,
+
+   And starless night came on at noon.
+
+
+   But I have found Thy gate,
+
+   All footsore and distressed,
+
+   And lo, I stand and boldly knock,
+
+   For fain I'd be at rest;
+
+   Good Lord, in mercy take me in,
+
+   All sore at heart and sick of sin.
+     __________________________________________________________________
+
+V
+
+   6,6,6,6,8,8
+
+
+   Lord, I have strayed afar
+
+   And I can find no rest;
+
+   Above, no guiding star,
+
+   No hope within my breast,
+
+   But night within and night without,
+
+   And anxious fear and gloomy doubt.
+
+
+   O, parched the desert land,
+
+   And drear the lonely wild.
+
+   O, that some loving hand
+
+   Would save a wandering child,
+
+   Who cast a Father's love aside,
+
+   And left his home in sinful pride.
+
+
+   Yea, I have heard the name
+
+   Of One Whose heart is kind;
+
+   Upon my night it came
+
+   As perfume on the wind;
+
+   It fills my soul, with trouble toss'd:
+
+   The name of One Who seeks the lost.
+
+
+   O, that His love would come
+
+   To where I mourn distressed,
+
+   And take a wanderer home
+
+   To be for ever blest,
+
+   Where I might see the Father's face,
+
+   Nor ever wander from His grace.
+
+
+   O Jesus Christ, to Thee
+
+   My mournful prayer I send:
+
+   Thy name can succour me,
+
+   O Thou, the sinner's Friend;
+
+   Incline my wayward heart, I pray,
+
+   That I no more from home may stray.
+     __________________________________________________________________
+
+VI
+
+   8,8,8,8
+
+
+   O Jesus, Lord of mercy great,
+
+   Look down upon my woeful state
+
+   And, as my soul repentance brings,
+
+   Forgive my sinful wanderings.
+
+
+   O Jesus, Lord, surpassing kind,
+
+   For this Thou cam'st, the lost to find;
+
+   To Thee I cry, O Lord attend,
+
+   I claim Thy help,--Thou art my Friend.
+
+
+   Didst Thou not leave Thy home above?
+
+   Didst Thou not die to tell Thy love?
+
+   Yea, Lord, and love so great shall bless
+
+   The sinner in his helplessness.
+
+
+   I lift mine eyes--O Lord of grace,
+
+   I hear Thy voice, I see Thy face;
+
+   I clasp Thy wounded hand in mine,
+
+   And trust my soul to Love divine.
+     __________________________________________________________________
+
+VII
+
+   8,6,8,6
+
+
+   I lift my hands, and with my heart
+
+   My prayer ascends to Thee;
+
+   In mercy take a sinner's part;
+
+   Lord, send Thy help to me.
+
+
+   Lo, in the mire of sin I lie,
+
+   My raiment all defiled;
+
+   O come, and set me up on high,
+
+   And save Thy fallen child.
+
+
+   I cannot cleanse the filthy stains,--
+
+   I can but mourn and sigh;
+
+   For all I do, the guilt remains,
+
+   I fail oft as I try.
+
+
+   In mercy, Lord, Thy mercy send,
+
+   For merciful art Thou;
+
+   And prove Thyself the sinner's Friend;--
+
+   O, come and help me now,
+
+
+   And let my life be ordered quite,
+
+   As Thou wouldst have it be;
+
+   When I am wrong, then set me right;--
+
+   Lord, come and succour me.
+
+
+   And hold me up, lest to the mire
+
+   Of sin My soul return;
+
+   Let Thy pure love my spirit fire,
+
+   And base affection burn.
+     __________________________________________________________________
+
+VIII
+
+   10,10,10,10
+
+
+   Now with my weeping would I cleanse my soul,
+
+   And with my grief would shame my sin away;
+
+   But tears no virtue have to make me whole,
+
+   Nor sorrow power to end sin's hateful sway.
+
+
+   But yet the heart in sore distress that sighs,
+
+   Looks to the Christ His succour to impart;
+
+   And God receives the pleasing sacrifice,
+
+   A broken spirit, and a contrite heart.
+
+
+   Nailed to the Cross I see my Saviour bleed;
+
+   This is the sacrifice my soul requires,
+
+   Here is the cleansing, and the strength I need,
+
+   To quell the rising of my vain desires.
+
+
+   Speak to my heart, O Jesus Christ Who came
+
+   Fired by Thy love, an offering for sin;
+
+   And by a love enkindled at that flame,
+
+   Win me for ever from the self within.
+     __________________________________________________________________
+
+IX
+
+   8,8,8,8
+
+
+   I will arise and seek Thy face,
+
+   For I have wandered far from Thee;
+
+   O Blessed Lord, extend Thy grace,
+
+   And in Thy mercy pity me.
+
+
+   Thou knowest my wanderings in the wild,
+
+   The longings of my soul that burn;
+
+   Wilt Thou not seek Thy erring child,
+
+   Who fain from waywardness would turn?
+
+
+   Thou knowest the paths my feet have trod,
+
+   And Thou alone canst bring me back;
+
+   My hungering soul cries out to God,
+
+   Within Whose home there is no lack.
+
+
+   O Jesus, Shepherd of my soul,
+
+   Didst Thou not come to seek and find?
+
+   To lead the lost by wise control,
+
+   And tend with love surpassing kind?
+
+
+   I will arise and seek Thy face;
+
+   Yea, Lord, arise and seek Thou me,
+
+   And bring me in Thy plenteous grace,
+
+   Where I shall safely dwell with Thee.
+     __________________________________________________________________
+
+X
+
+   8,6,8,6
+
+
+   Forgive me, Lord, my wayward will,
+
+   My selfish, worldly thought;
+
+   Incline me to abhor the ill,
+
+   And choose the things I ought.
+
+
+   It is not in my power to choose
+
+   And seek the better part;
+
+   I fear the things of earth to lose,
+
+   And bind them to my heart.
+
+
+   O Gracious Christ, to me reveal
+
+   The riches that are sure;
+
+   And I shall shun the base, unreal,
+
+   And grasp what shall endure.
+
+
+   Yea, with Thyself enrich my heart,
+
+   And make Thy will mine own;
+
+   Then I shall have the better part,
+
+   And joy in Thee alone.
+     __________________________________________________________________
+
+XI
+
+   6,6,6,6,8,8
+
+   Kai klausomen, kai praxomen
+
+
+   I have no tears to shed,
+
+   For grief my soul hath none;
+
+   My heart hath never bled
+
+   For aught of ill I've done;
+
+   I weep not when I hear Thee say
+
+   That sin hath carried me away.
+
+
+   I have no tears to shed;
+
+   Wilt Thou not touch my heart,
+
+   And bid sin's wounds run red,
+
+   And throb with bitter smart?
+
+   Then shall I lift my prayer, and say,
+
+   "Lord take my many sins away."
+
+
+   For Thou, O Lord, dost will
+
+   That all should seek Thy face,
+
+   That Thou mayest well fulfil
+
+   The promise of Thy grace.--
+
+   Who ever sought Thy love in vain,
+
+   Or failed Thy pardon to obtain?
+     __________________________________________________________________
+
+XII
+
+   8,6,8,6
+
+   Pater oiktirm?n
+
+
+   Have pity, Lord, for Thou art great,
+
+   And greatness pity knows;
+
+   I mourn my poor and worthless state,
+
+   With all its wants and woes.
+
+
+   Have pity, Lord, for Thou art great;--
+
+   I would from sin be free,
+
+   And seek Thy face, 'though coming late,
+
+   For Thou wilt welcome me.
+
+
+   Have pity, Lord, for Thou art great,
+
+   And give me strength to win,
+
+   That I may gain the heavenly gate
+
+   And freely enter in.
+
+
+   Have pity, Lord, for Thou art Love,
+
+   And by Thy grace alone,
+
+   I hope in Thy pure house above
+
+   To serve before Thy throne.
+     __________________________________________________________________
+
+XIII
+
+   6,6,8,6
+
+   'Exagoreuso kat emou ten anomian mou t? Kurio
+
+
+   My sin was very great,
+
+   Its burden bore me down;
+
+   I dared not lift my eyes to God,
+
+   So much I feared His frown;
+
+   And sore my conscience smote,
+
+   And all was sad within,
+
+   For I had turned away from God
+
+   Who loved me in my sin.
+
+
+   I said "I'll tell it all,
+
+   The sin, the grief, the pain,
+
+   Mayhap He'll pardon my offence,
+
+   And take me back again."
+
+   And then my heart was glad,
+
+   To think it might be done,
+
+   If I but cast myself upon
+
+   The merits of His Son.
+
+
+   I said "Ah, God, receive
+
+   The sacrifice I bring,--
+
+   A broken and a contrite heart,
+
+   That is my offering;
+
+   And for His sake Who came
+
+   To bear the Cross of pain,
+
+   Forgive the error of my life,
+
+   And take me back again."
+
+
+   'Twas then the heart of love
+
+   That I had wounded sore,
+
+   In loving accents spake to me,
+
+   And bade me sin no more;
+
+   And spake the word of grace
+
+   That made my spirit whole;
+
+   And now the pain and grief are gone,
+
+   For gladness fills my soul.
+     __________________________________________________________________
+
+XIV
+
+   8,6,8,6
+
+
+   O, touch my heart, and bring to mind
+
+   The sin I should deplore:
+
+   And give me grace, Thou God most kind,
+
+   That I may sin no more.
+
+
+   O, touch my heart till tears run fast,
+
+   In penitence sincere;
+
+   And may the memories of the past
+
+   Teach me to walk in fear.
+
+
+   For I have strayed, and Thou hast sought,
+
+   And I have strayed again;
+
+   O, may the wanderer Thou hast brought,
+
+   Within the fold remain.
+
+
+   O, touch my heart, till love arise,
+
+   And claim me for Thine own;
+
+   Then shall I learn with sweet surprise
+
+   That I am Thine alone.
+
+
+   For love knows no divided heart,
+
+   Nor grudges service given;
+
+   But gives the life in every part,
+
+   And serves in earth and heaven.
+     __________________________________________________________________
+
+XV
+
+   8,8,8,4
+
+
+   O Jesus, Trust of needy souls,
+
+   A Saviour from their sins, confessed;
+
+   Thy pardoning love our fear controls,
+
+   And we are blest.
+
+
+   Thou art our joy in sorrow's day,
+
+   To fill with cheer when sore distressed,
+
+   To wipe the tears of grief away,--
+
+   And we are blest.
+
+
+   A Peace to still the troubled life,
+
+   To soothe the mind, and give it rest;
+
+   Our refuge in the midst of strife;--
+
+   And we are blest.
+
+
+   Our Hope, when earthly hopes have fled,
+
+   And, lost in night, we sink oppressed;
+
+   Our shield, and Lifter of our head,--
+
+   And we are blest.
+
+
+   O Jesus Christ, our Trust and joy,
+
+   The Peace, and Hope in which we rest;
+
+   Be Thou for song our soul's employ,
+
+   And we are blest.
+     __________________________________________________________________
+
+XVI
+
+   6,6,8,4
+
+
+   Teach me Thy gracious will,
+
+   O Jesus, Lord, I pray,
+
+   And make me ready to respond
+
+   From day to day.
+
+
+   Thou hadst no will but one,
+
+   The will Thy God imposed;
+
+   Teach me, O Lord, to rest my soul
+
+   Where Thine reposed.
+
+
+   Then life with all its ills
+
+   Will be no task to bear,
+
+   For what is best Thy hand will give,
+
+   And soothe my care.
+
+
+   I am not wise nor good,
+
+   I must not risk to choose;
+
+   I grasp the thing my heart desires;
+
+   The best, I lose.
+
+
+   So let Thy will be mine,
+
+   That I may quietly rest;
+
+   For, what Thy love and wisdom plan,
+
+   Must aye be best.
+     __________________________________________________________________
+
+XVII
+
+   10,10,10,4
+
+
+   This be our prayer, O Saviour of our souls,
+
+   When night is dark, and muttering thunder rolls,
+
+   For none but Thee the power of hell controls,--
+
+   Have mercy, Lord.
+
+
+   There is no help, if Thou no help wilt bring,
+
+   No heavenly messenger on speedy wing;
+
+   Hope gilds the morn, if to Thy Cross we cling,--
+
+   Have mercy, Lord.
+
+
+   Woeful the threats that flash from Sinai's hill;
+
+   Dark are the fears our guilty souls that fill;
+
+   Help we have none,--O then of Thy sweet will,
+
+   Have mercy, Lord.
+
+
+   Strong is the arm that in our cause was raised;--
+
+   Christ, be Thy name to endless ages praised,
+
+   Who at the hands of sinners was abased;--
+
+   Have mercy, Lord.
+
+
+   Doomed to our death, the God-man bowed the head;
+
+   Pierced for our sins, upon the Cross He bled;
+
+   Life is His gift Who liveth, and was dead;--
+
+   Have mercy, Lord.
+
+
+   Life, and to live amid the bliss beyond,
+
+   Where souls beloved to loving souls respond,
+
+   Free from all bondage in Thy gentle bond;--
+
+   Have mercy, Lord.
+     __________________________________________________________________
+
+XVIII
+
+   6,6,6,6,8,8
+
+
+   I lift my heart to Thee,
+
+   And with my heart, my love;
+
+   O Christ, remember me,
+
+   In Thy fair home above;
+
+   And take the gift my offering gives,
+
+   A heart that loves Thee while it lives.
+
+
+   I lift my heart to Thee,
+
+   No meaner gift be mine,
+
+   For Thou didst give to rne
+
+   That loving heart of Thine
+
+   Yea, love to love responsive glows,
+
+   The gift I give Thy love bestows.
+
+
+   I lift my heart to Thee,--
+
+   Then I am all Thine own,
+
+   To give Thee service free,
+
+   And live for Thee alone,-
+
+   My will to bend to Thine alway,
+
+   My life to serve Thee every day.
+     __________________________________________________________________
+
+XIX
+
+   8,8,8,8
+
+
+   O God of light, when morn awakes,
+
+   And tipped with gold the hills appear,
+
+   My voice, attuned, the silence breaks
+
+   With heart-borne praise, for Thou art near,
+
+
+   When clouds like curtains drape the sky,
+
+   And threatening fills my soul with fear;
+
+   As from the rifts the arrows fly
+
+   My praise ascends, for Thou art near.
+
+
+   Yea, when the night all unrelieved,
+
+   In ebon blackness rules the sphere,
+
+   Up, then, my soul! all undeceived
+
+   Thy praises tell, for God is near.
+
+
+   O God of Light, in weal or woe,
+
+   By clay and night, in hope and fear,
+
+   From heart attuned my song shall flow
+
+   In praise of Thee, for Thou art near.
+     __________________________________________________________________
+
+XX
+
+   10,10,10,10,10,10
+
+
+   Lord of the hills, where earliest dawn appears,
+
+   Ere earth and sky the rule of night disown;
+
+   Where rise in bright array the gilded spears
+
+   That thrust the ebon monarch from his throne;
+
+   Lord of the hills! Who art the Lord of Light,
+
+   When morning dawns, dispel my inward night.
+
+
+   Lord of the hills, where massive strength abides,
+
+   From age to age, broad based, and towering high;
+
+   Where thunders roll, and livid lightning glides,
+
+   And storms descend from cloud-enmantled sky;
+
+   Lord of the hills! Who art the Lord of Strength,
+
+   Frail, I would find my power in Thee at length.
+
+
+   Lord of the hills, where hope aspiring wings
+
+   Her course to heaven, from peaks that heavenward rise,
+
+   Looks down in wonder on the clouds, and sings
+
+   Of cloudless realms beyond the farthest skies;
+
+   Lord of the hills! with hope my soul inspire,
+
+   To leave my earth-bound hopes, and mount to higher.
+
+
+   Lord of the hills! O Christ, Thou art my Light,
+
+   My darkened soul like morning to illume;
+
+   Lord of the hills! O Christ, Thou art my might,
+
+   To vanquish death, and triumph o'er the tomb;
+
+   Lord of the hills! my hope when sore distressed,
+
+   My soul looks up to Thee, and finds her rest.
+     __________________________________________________________________
+
+XXI
+
+   8,8,8,8
+
+
+   Thou art my Hope, O Christ my Lord,
+
+   Inspiring, bright, and full of cheer;
+
+   Clouds deck themselves with silver sheen
+
+   And gloom departs when Thou art near.
+
+
+   No burden rests to crush my soul,
+
+   For Thou art wings wherewith to rise;
+
+   And from the care of life I soar
+
+   To realms of peace, with cloudless skies.
+
+
+   When backward on my path of life
+
+   I cast my vision with alarm,
+
+   Where spectres grim my footsteps dog,
+
+   With one intent,--to do me harm.
+
+
+   I lift mine eyes to where Thou art,
+
+   O Christ my Hope, and lo! Thy cheer,
+
+   Comes like the morning to my soul,
+
+   To scatter dread, and banish fear.
+
+
+   For to Thy Cross my sins are nailed,
+
+   And from Thy tomb I deathless rise,
+
+   Borne on the wings of living hope
+
+   Inspired by Thy great Sacrifice.
+
+
+   Thou art my Hope, O Christ my Lord,
+
+   In life, in death, to ages long;
+
+   And when her Hope my soul hath won,
+
+   Thou, Christ, shalt be my endless song.
+     __________________________________________________________________
+
+XXII
+
+   8,8,8,8
+
+
+   Thou art my strength, O God my Lord,
+
+   Weak is my arm, and faint my heart;
+
+   Thou dost inspire me by Thy word,
+
+   And to my life Thy power impart.
+
+
+   The might of evil bars the way,
+
+   And towering ramparts threatening frown;
+
+   Then sinks my heart in sore dismay,
+
+   Then fall my arms in weakness down.
+
+
+   Shorn of my strength I lift my cry,
+
+   But God in pity hears my plaint;
+
+   And lo, the promised help is nigh,--
+
+   His power is given to the faint.
+
+
+   This I have found, Thou dost not fail;
+
+   No pleading eye looks up in vain;
+
+   Though weak my arm, I must prevail,
+
+   If Thou, O Lord, my strength remain.
+     __________________________________________________________________
+
+XXIII
+
+   8,8,8,8
+
+
+   Ask, and thy prayer with arrow's speed
+
+   Shall bear to God thy present need;
+
+   And for thy help from heaven shall bring
+
+   Love's best, and gracious offering.
+
+
+   Seek, and the grace of God most kind
+
+   Thy needy soul shall surely find;
+
+   Light shall break forth, and treasures rare
+
+   Shall sparkle round thee, everywhere.
+
+
+   Knock, and the gate of God shall spring
+
+   Wide, for thy soul's free entering,
+
+   And in the bliss by pilgrims shared,
+
+   Thou shalt receive a place prepared.
+
+
+   Rest in thy God, in quietness rest,
+
+   He is thy Friend, He loves thee best;
+
+   Heaven has a store, its wealth endures,
+
+   Faith in thy God His grace secures.
+     __________________________________________________________________
+
+XXIV
+
+   6,6,6,6,8,8
+
+
+   O Christ, Thou art my King,
+
+   Thy cause I make mine own,
+
+   All that I have I bring,
+
+   To lay before Thy throne;
+
+   The oath of fealty now I take,
+
+   To live and suffer for Thy sake.
+
+
+   Less could no loyal soul
+
+   In true devotion gift;--
+
+   My sacrifice the whole,
+
+   Not part to Thee I lift:--
+
+   Lord, at Thy kingly throne I bow,
+
+   Receive my heart's devotion now.
+
+
+   Thou didst not count the cost,
+
+   O Christ my heavenly king,
+
+   When Thou didst save the lost
+
+   By Thy great offering;
+
+   Thou laid'st Thine ageless glory by,
+
+   And cam'st to earth for man to die,
+
+
+   O Christ, Thou art my King,--
+
+   Thy kingdom come, I pray,
+
+   Till endless praise shall ring
+
+   Throughout an endless day,
+
+   And tribute fill the courts of heaven
+
+   By loyal hearts in fealty given.
+     __________________________________________________________________
+
+XXV
+
+   6,6,8,6
+
+
+   O God, in mercy hear,
+
+   I lift my cry to Thee;
+
+   And let Thy gracious help be sent,
+
+   In my perplexity;
+
+   But Thou art far away,
+
+   And I am filled with shame,
+
+   I cannot see Thy blessed face,
+
+   And fear to name Thy name.
+
+
+   And now, a sense of guilt
+
+   Inspires me with dismay;
+
+   I know that none on earth can take
+
+   That grievous load away;
+
+   'Tis mine the sin, 'tis mine,
+
+   And mine the guilt to bear,
+
+   The awful burden of the blame,
+
+   The cloud of dark despair.
+
+
+   Is there no balm to heal?
+
+   No pity that can bless?
+
+   O God, Who art so far away,
+
+   Come near to my distress;
+
+   And heed the tears I shed,
+
+   And hear my woeful cry,
+
+   And since there is no hand to help,
+
+   Come Thou in mercy nigh.
+
+
+   'Twas then a voice I heard,
+
+   It came in winning tone,
+
+   Across my night, from far away,
+
+   To where I prayed alone;
+
+   It told me of a love,
+
+   That sought me long ago,
+
+   And on the Cross my burden bore,
+
+   Of sin, and guilt, and woe.
+
+
+   O blessed Cross of Christ!
+
+   Thou hast my need supplied;
+
+   For, there upon thine outstretched arms,
+
+   I see the Crucified;
+
+   And He has sin to bear,
+
+   That none can call His own;
+
+   O, Christ, the sin and guilt Thou bar'st,
+
+   Are mine, are mine alone.
+     __________________________________________________________________
+
+XXVI
+
+   8,8,8,8
+
+
+   It is not lost what I have given
+
+   To Him Who gave Himself for me;
+
+   I have an offering in heaven,
+
+   And I am rich in poverty.
+
+
+   The empty heart in sorrow pines,
+
+   And darkness blinds my tear-filled eyes;
+
+   But round my soul the light entwines
+
+   That tells me that the morn shall rise.
+
+
+   I have not lost what I have given;
+
+   Yea, Lord, but well Thou knowest the pain,
+
+   When gladness from the heart is driven,
+
+   And threatening clouds succeed the rain.
+
+
+   But by the grievous pain of loss,
+
+   Thy soul was filled with bliss untold;
+
+   And from the offering of the Cross,
+
+   More wealth was Thine than purest gold.
+
+
+   It is not lost what I have given
+
+   To Him Who gave Himself for me;
+
+   The gift awaits my soul in heaven,
+
+   Mine own to all eternity.
+     __________________________________________________________________
+
+XXVII
+
+   8,8,8,4
+
+
+   O Lord of life, when mortals call,
+
+   And freedom seek from earthly thrall,
+
+   Hear Thou in heaven, and save us all,
+
+   In mercy, Lord.
+
+
+   O Full of Mercy! when we groan,
+
+   Because of sin our spirits own,
+
+   Hear, Who for sinners did atone,
+
+   In mercy, Lord.
+
+
+   O Full of Pity! when we bear
+
+   To Thy blest feet our carking care,
+
+   Take of our weary load a share,
+
+   In mercy, Lord.
+
+
+   O Full of Grace! when sufferers tell
+
+   The grief Thou knowest, Lord, so well,
+
+   Come, with the broken-hearted dwell,
+
+   In mercy, Lord.
+
+
+   When lured by hope our spirits rise,
+
+   To where Thou beckon'st from the skies,
+
+   Then be eternal life the prize,
+
+   In mercy, Lord.
+     __________________________________________________________________
+
+XXVIII
+
+   11,10,11,10
+
+   Ph?s ek photos
+
+
+   O Light of lights! when other light is fading,
+
+   Then in my soul with heavenly brightness shine;
+
+   Let there be light! the night and fear upbraiding,
+
+   Speak Thou the word and send the Light divine.
+
+
+   O Joy of joys! when other joy is sighing,
+
+   Sing to my soul and bid its sadness flee;
+
+   And when the songs my bitter tears are drying,
+
+   Come with Thy gladness, and rejoice with me.
+
+
+   O Love of loves! When other love is dying,
+
+   And hearts grow cold, and eyes that lured me frown,
+
+   Come to my heart, thou Love, all hate defying,
+
+   Full of all pity to our world come down.
+
+
+   O Bliss of bliss! when earth with all its treasures
+
+   Shrinks from my grasp, and leaves me poor and sad;
+
+   May I with Christ, fill up my empty measures,
+
+   And in His presence reap the hopes I had.
+     __________________________________________________________________
+
+XXIX
+
+   6,6,6,6
+
+
+   I mused within my heart,
+
+   Sin-stricken and forlorn;
+
+   I felt the cruel dart,
+
+   By which my heart was torn.
+
+
+   I longed to tell my grief,
+
+   Where I could well confide;
+
+   But ah, no calm relief
+
+   Came to my wounded pride.
+
+
+   I heard a knock without:
+
+   A voice in kindness spake,
+
+   That banished all my doubt,
+
+   And bade my hope awake.
+
+
+   I drew the bolt aside,
+
+   Forthwith my Lord came in,
+
+   He spake not to deride,
+
+   Nor looked to shame my sin.
+
+
+   But at my humble board,
+
+   He sat and supped with me,
+
+   So gracious is my Lord,
+
+   And full of sympathy.
+
+
+   Lord, on Thy lonesome way,
+
+   Ne'er pass my humble door,
+
+   Come in and sup, I pray,
+
+   As Thou didst heretofore.
+     __________________________________________________________________
+
+XXX
+
+   8,8,8,4
+
+
+   "Have faith in God," the Master said;--
+
+   Lord give me faith that I may rest,
+
+   In calm content, my weary head
+
+   Upon His breast.
+
+
+   A faith like Thine, strong, brave, and sure,
+
+   Not weak, nor easily dismayed;
+
+   That through all trials shall endure,
+
+   Aye unafraid.
+
+
+   Then shall I cleave through clouds of doubt,
+
+   And pass from darkness into day;
+
+   Put all the muttering hosts to rout,
+
+   That crowd my way.
+
+
+   And I shall make my heart's request,--
+
+   Even mountains shall not bar my way;
+
+   O God, Thou'lt give whate'er is best,
+
+   Nor long delay.
+     __________________________________________________________________
+     __________________________________________________________________
+
+  THE GREAT COLLECT
+     __________________________________________________________________
+
+   '&#161;per tes anothen eirenes kai tes soterias t?n psuch?n em?n, tou
+   Kuriou deeth?men
+
+   8,8,8,4
+   Ektene or Great Collect
+
+
+   O Lord of peace, in mercy hear,
+
+   The prayer of those Thy name that fear,
+
+   And bring Thy great Salvation near;
+
+   Have mercy, Lord.
+
+
+   May peace within our world reside;
+
+   Thy Church her cause to Thee confide,
+
+   And all, as one, in Thee abide;
+
+
+   Here let Thy people Thee revere;
+
+   In faith, and piety draw near,
+
+   And worship Thee in holy fear;
+
+
+   Thy priests within this holy place
+
+   Dispense the bounties of Thy grace,
+
+   As those who serve before Thy face.
+
+
+   Our Sovereign Lord with wisdom dress,
+
+   With hands unstained his council bless;
+
+   Upbuild his throne in righteousness.
+
+
+   In time of war, with strength endue,
+
+   Our hearts possess with courage true;
+
+   Our foes against the right subdue.
+
+
+   May earth her flowers and blossoms yield;
+
+   May fruits encrown the harvest field;
+
+   From waste, and want, Thy people shield.
+
+
+   The sailor on the restless deep,
+
+   The homeless in their wandering, keep;
+
+   The suffering soothe with kindly sleep.
+
+
+   Keep Thou our souls, O God, from harm,
+
+   From wrath, and danger, and alarm,
+
+   Safe in Thy strong, encircling arm.
+
+   Have mercy, Lord.
+     __________________________________________________________________
+
+  LITANY OF THE DEACON
+     __________________________________________________________________
+
+   8,8,8,4
+
+   Kurie eleeson, antilabou, s?son, eleeton kai diaphulaxon emas
+   Litany of the Deacon
+
+
+   Lord, let our evening prayer ascend,
+
+   Thy servants by Thy grace defend,
+
+   Save, guard, and keep us to the end;
+
+   Have mercy, Lord.
+
+
+   When in the night our eyelids close,
+
+   Lord, may our souls in Thee repose,
+
+   Safe from the danger of their foes;
+
+   Grant this, O Lord.
+
+
+   Thy angel, peace, with us abide,
+
+   Nor ever leave Thy servants' side,
+
+   Our souls to guard, our steps to guide.
+
+   Grant this, O Lord.
+
+
+   Lord, let the sins--our souls' distress,
+
+   Which we in penitence confess--
+
+   Be pardoned in Thy faithfulness.
+
+
+   Our souls in Thee, O Lord, are blest;
+
+   Send what Thou knowest to be best;
+
+   We would not crave Thee for the rest.
+
+
+   Our time remaining, Lord, control;
+
+   Our sin, like clouds, far from us roll,
+
+   And give Thy peace within our soul.
+
+
+   And when we leave the world behind,
+
+   May we, unshamed and fearless, find
+
+   The Christ, our Judge, surpassing kind.
+
+   Grant this, O Lord.
+     __________________________________________________________________
+
+  TRANSFIGURATION
+     __________________________________________________________________
+
+   8,8,8,8
+
+
+   When glory crowned the mountain top,
+
+   And Christ was decked in garments fair,
+
+   The prophets of the Lord appeared,
+
+   And talked with the Redeemer there.
+
+
+   "Let us make this our dwelling place,"
+
+   'Twas thus His followers made request;
+
+   "For it is good to linger here,
+
+   And they who dwell with Thee are blest."
+
+
+   Then from a cloud a voice was heard,
+
+   While each in terror held his breath,--
+
+   "This is My well-beloved Son,
+
+   Hear ye what the Beloved saith."
+
+
+   O Jesus, when Thy glory gilds
+
+   The mount of God on which we meet,
+
+   May we the voice from heaven discern,
+
+   And bow expectant at Thy feet.
+     __________________________________________________________________
+
+  COMMUNION
+     __________________________________________________________________
+
+I
+
+   7,8,7,8,7,7
+
+
+   Let Thy blood in mercy poured,
+
+   Let Thy gracious body broken,
+
+   Be to me, O gracious Lord,
+
+   Of Thy boundless love the token;
+
+   Thou didst give Thyself for me,
+
+   Now I give myself to Thee.
+
+
+   Thou didst die that I might live;--
+
+   Blessed Lord, Thou cam'st to save me;
+
+   All that love of God could give,
+
+   Jesus by His sorrows gave me;--
+
+   Thou didst give Thyself for me,
+
+   Now I give myself to Thee.
+
+
+   By the thorns that crowned Thy brow,
+
+   By the spear-wound and the nailing;
+
+   By the pain and death, I now
+
+   Claim, O Christ, Thy love unfailing;
+
+   Thou didst give Thyself for me,
+
+   Now I give myself to Thee.
+
+
+   Wilt Thou own the gift I bring?
+
+   All my penitence I give Thee;
+
+   Thou art my exalted King,
+
+   Of Thy matchless love forgive me;--
+
+   Thou didst give Thyself for me,
+
+   Now I give myself to Thee.
+     __________________________________________________________________
+
+II
+
+   8,6,8,6
+   From the Office of Holy Communion
+
+
+   O Jesus Christ, my soul contains
+
+   The sweetness of Thy love,
+
+   And all its pleasure now obtains
+
+   From springs that rise above.
+
+
+   And Thou hast changed my thought of Thee,
+
+   And all my heart's desire;
+
+   Now make my soul from vileness free
+
+   By love's consuming fire.
+
+
+   But how can I, where saints are met,
+
+   Make bold to enter in?
+
+   I cannot all the past forget
+
+   Of wilfulness and sin.
+
+
+   With garments rent, and vile with sin,
+
+   Behold me, clothed in shame;
+
+   Wilt Thou, O Bridegroom, me attire
+
+   That I may bless Thy name?
+
+
+   O Jesus, Who hast filled my soul
+
+   With sweetness, let me wear
+
+   The wedding robe, all pure and whole,
+
+   Where Thy redeemed appear.
+     __________________________________________________________________
+
+III
+
+   8,7,8,7
+
+   Sigesato pasa sarx broteia
+   From the Liturgy of St. James
+
+
+   Let all human flesh be silent,
+
+   Stand in awe and holy fear,
+
+   Cast all earthly thought behind it,
+
+   For the King of heaven is near.
+
+
+   Lo, He cometh, King Eternal,
+
+   Christ our God, He comes to die;
+
+   And His flesh as food He giveth,
+
+   To the Faithful who draw nigh.
+
+
+   Hosts angelic go before Him,
+
+   Decked in dazzling pomp of state,
+
+   Cherub, seraph, winged and watchful,
+
+   Heavenly Prince, and Potentate.
+
+
+   And they bow in lowly worship
+
+   'Neath the covering of their wings,
+
+   While they chant thrice 'Alleluia,
+
+   To the mighty King of kings,
+     __________________________________________________________________
+
+IV
+
+   6,6,6,6,8,8
+
+   Chit?na moi paraschou photeinon
+
+
+   God, Thou art clothed with light,
+
+   As with a garment fair;
+
+   And, in Thy holy sight,
+
+   The saints Thy beauty wear;
+
+   The heavens, and all therein, express
+
+   The glory of Thy holiness.
+
+
+   Give me a robe of light
+
+   That I may walk with Thee;
+
+   Bright as the stars are bright,
+
+   Pure as their purity;
+
+   Whose texture sin shall never stain,
+
+   But undefiled for aye remain.
+
+
+   But can a sinner dare,
+
+   In rags, and sore ashamed,
+
+   Lift to his God the prayer
+
+   Which now my lips have framed,
+
+   While glowing seraphs fold their wings,
+
+   And pour their sinless offerings?
+
+
+   O Christ, I lift mine eyes;
+
+   Thy love for me I own;
+
+   In Thy great sacrifice
+
+   Abides my hope alone;
+
+   The robe is mine, my soul to dress,
+
+   Of everlasting righteousness.
+     __________________________________________________________________
+
+V
+
+   8,8,8,8
+
+
+   O Love divine, my spirit sighs
+
+   To dwell with Thee and share Thy love;
+
+   But Thou art far beyond the skies,
+
+   And with the Father dwell'st above.
+
+
+   My lovelorn soul would break the ties
+
+   That bind to earth, and earthly things,
+
+   And as the eagle upward flies,
+
+   Would mount to Thee on soaring wings.
+
+
+   O Love divine, wilt Thou come down,
+
+   And make Thy dwelling place with me?
+
+   My empty heart would be Thy home,
+
+   And all my life would cling to Thee.
+
+
+   Thou knowest the path that leads to earth,
+
+   For Thou didst sojourn once with men;
+
+   Thou didst not scorn the lowly birth,
+
+   Nor yet our humble dwelling then.
+
+
+   'Twas love that brought Thee then, and now
+
+   Thy love retains its fervent glow;
+
+   O Lord, Thy heavens in mercy bow,
+
+   And seek my longing soul below.
+
+
+   Come Thou, O Gracious Love divine,
+
+   With all Thy heavenly ardour come,
+
+   And fill this lovelorn heart of mine,
+
+   And make it Thy abiding home.
+     __________________________________________________________________
+
+VI
+
+   6,4,6,4,6,6
+
+
+   Rest of the weary heart,
+
+   Soothing and calm;
+
+   Love to the wounded heart,
+
+   Healing and balm;
+
+   Jesus, how sweet Thou art!
+
+   Rest to the weary heart.
+
+
+   Peace to the troubled mind:
+
+   Tempests are still;
+
+   Light to the doubting mind,
+
+   Teaching Thy will;
+
+   Jesus, Thou art most kind!
+
+   Peace to the troubled mind.
+
+
+   Joy to the pilgrim heart,
+
+   Song by the way;
+
+   Guide to the seeking heart,
+
+   Fearful to stray;
+
+   Jesus, how good Thou art!
+
+   Joy to the pilgrim heart.
+
+
+   Dower of the needy soul,
+
+   Brother and Friend;
+
+   Heaven of the trusting soul,
+
+   Life without end;
+
+   Jesus, my all control,
+
+   Dower of the needy soul.
+     __________________________________________________________________
+
+VII
+
+   8,8,8,8
+
+
+   I have a thought that fills my mind,
+
+   And fires my heart with fond desire;
+
+   That speaks in accents soft and kind,
+
+   And lifts my soul to regions higher.
+
+
+   It comes in silence as the light,
+
+   And as the light, in silence grows;
+
+   It fills my soul with radiance bright,
+
+   And o'er my life its beauty throws.
+
+
+   It finds expression day by day,
+
+   In words that cheer, and deeds that aid,
+
+   It makes me ready to obey,
+
+   And bear the tasks upon me laid.
+
+
+   I have a thought that fills my mind;
+
+   Ah, wouldst thou know its hidden spring?
+
+   No peering eye its source can find,
+
+   No ear perceive its whispering.
+
+
+   It springs from love, from love divine;--
+
+   O Christ, it is a thought of Thee,
+
+   And all the love that made me Thine,
+
+   Awakes this thought of love in me.
+     __________________________________________________________________
+
+  OFFICE FOR BURIAL
+     __________________________________________________________________
+
+I
+
+   8,7,8,7
+
+
+   Home at last, thy journey ended,
+
+   Weary pilgrim, take thy rest,
+
+   Safe from all thy ills defended
+
+   In the City of the blest.
+
+
+   Now, no more, the sun shall smite thee,
+
+   Clouds no more thy soul affright,
+
+   For the Christ Himself shall light thee,
+
+   And in heaven there is no night.
+
+
+   Safe from harm, no foes await thee,
+
+   Trimming darts to wound thee sore;
+
+   And the snares of those that hate thee,
+
+   Lie not on thy pathway more.
+
+
+   Doubts distressing, fears deriding,
+
+   Trials, sorrows, all are o'er;
+
+   Hope rejoicing, trust confiding,
+
+   These thy guerdon evermore.
+
+
+   Pilgrim, rest, from ill defended,
+
+   Strife and striving now are past;
+
+   Sheathe thy sword, the war is ended,
+
+   Thine the victory,--home at last!
+     __________________________________________________________________
+
+II
+
+   10,10,10,10
+
+   Kurie, anapauson to nepion
+   From the Office of the Burial of a Child
+
+
+   Lord, rest the child, cut off at morning hour;
+
+   Crushed as a bud before it came to flower;
+
+   Gone as a star that lent its feeble ray,
+
+   Ere yet the morn had brightened into day.
+
+
+   Lord, rest the child. No bliss on earth was thine;
+
+   Drink now the pleasures of the life divine;
+
+   Here streams that gladden, when the sun is high,
+
+   Shrink in their channels 'neath a burning sky.
+
+
+   Lord, rest the child. Within the heavenly place,
+
+   Thine angel ever sees the Father's face;
+
+   Thine is the kingdom, and to claim His own,
+
+   Christ left the glory of a kingly throne.
+
+
+   Lord, rest the child. We will not weep for thee,
+
+   Death is not death to those with Christ that be;
+
+   Mourn we with weeping, that the sin is ours,
+
+   To blight the beauty of earth's fairest flowers.
+     __________________________________________________________________
+
+  STILLING THE TEMPEST
+     __________________________________________________________________
+
+I
+
+   8,8,8,8
+
+
+   Dark billows bound across the deep,
+
+   And threatening clouds the stars conceal,
+
+   While lightnings flash, and thunders peal,
+
+   And fearful souls their vigils keep.
+
+
+   O Christ, Thy voice can still the waves
+
+   That toss my soul on angry sea;
+
+   The tempest ceased on Galilee,
+
+   And Thine is still the power that saves.
+
+
+   And Thou art still the Christ Who guides
+
+   The life that ploughs through storm and strife,
+
+   And all the battling ills of life,
+
+   To where thy endless peace abides.
+
+
+   O Gracious Lord, keep calm my soul;
+
+   And on my course where tempests break,
+
+   And bounding waves my life o'ertake,
+
+   The winds and threatening waves control.
+
+
+   And in Thy fair, calm haven, blest,
+
+   Where storm-tossed lives in quiet repose,
+
+   Far from the rage of angry foes,
+
+   Give me, O Christ, eternal rest.
+     __________________________________________________________________
+
+II
+
+   10,10
+
+
+   Night, and a storm, and hearts with sore affright,
+
+   Quail in their fears before the tempest's might.
+
+
+   Blindly the waves with crested summits roll;
+
+   The thunders crash, and terrify the soul.
+
+
+   Calmly He sleeps; O Christ, art Thou not Lord?
+
+   Speak to the winds, and let them hear Thy word.
+
+
+   Thou hast a power to quell the surging sea,
+
+   The waters know Thy voice at Galilee.
+
+
+   Wake from Thy sleep! How can the Master sleep,
+
+   While danger threatens from the frenzied deep?
+
+
+   Tempest, and strife, and angry waves are still;
+
+   The waters hear Thy voice, and do Thy will.
+
+
+   Lord of our life, wake to our help, we pray,
+
+   And still the storm that compass our life's way.
+     __________________________________________________________________
+
+  THE NEW YEAR
+
+   All-embracing as the Greek service books are, curiously enough they
+   contain, strictly speaking, no Thanksgiving services. It has been left
+   for the Russian Church to make them for the Greeks to imitate.
+
+   The models of the Ektene and Litanies are found in the Euchologion, at
+   vespers, but adaptations of their petitions to every eventuality in
+   human life, are the work of Russians, whose names, however, have not
+   been preserved. Here is an example from the Thanksgiving service for
+   the New Year.
+     __________________________________________________________________
+
+   8,8,8,4
+
+
+   Lord, let us feel that Thou art near,
+
+   And while we pray, in mercy hear;
+
+   Crown with Thy love the opening year;--
+
+   Have mercy, Lord.
+
+
+   Of Thy benignity, we pray,
+
+   Thy gracious Spirit grant alway,
+
+   Our strife and discord to allay;--
+
+   Have mercy, Lord.
+
+
+   May peace our inmost soul possess,
+
+   And in our lives our converse bless,
+
+   With unaffected kindliness;--
+
+   Have mercy, Lord.
+
+
+   Our sinful past we here repent,
+
+   With tears our wayward course lament,
+
+   Now, let Thy pardoning grace be sent;--
+
+   Have mercy, Lord.
+
+
+   As seasons come, Good Lord, ordain
+
+   That we the fruits of earth obtain,
+
+   Send us the sunshine and the rain;--
+
+   Have mercy, Lord.
+
+
+   With strength Thy Holy Church endue,
+
+   The anger of her foes subdue,
+
+   The offerings of Thy grace renew;--
+
+   Have mercy, Lord.
+     __________________________________________________________________
+
+  MISCELLANEOUS
+     __________________________________________________________________
+
+I
+
+   8,8,8,8
+
+
+   O Jesus Christ, when Thou didst dwell
+
+   On earth with mortals long ago,
+
+   The heavy-laden knew Thee well,
+
+   And Thou didst heed their cry of woe.
+
+
+   And Thou didst hear the humble prayer
+
+   That told the sorrow of the soul;
+
+   And to the spirit crushed by care
+
+   Thou gav'st the word that made it whole.
+
+
+   The darkened mind with heavenly light
+
+   Thou, from Thy presence, didst illume;
+
+   And day returning after night,
+
+   Dispelled their dismal clouds of gloom.
+
+
+   And eyes with sorrow filled were made
+
+   To shine with hope like early morn;
+
+   Enduring joys for those that fade,
+
+   Thou gav'st their sadness to adorn.
+
+
+   And Thou, O Christ, art still the same,
+
+   Time hath not chilled Thy loving heart;
+
+   Come then, as Christ in mercy came,
+
+   And now, as then, Thyself impart.
+
+
+   We need Thee still; O gracious Lord,
+
+   In all our sin, and grief, and pain,
+
+   Come then, and let Thy living word
+
+   Enrich our needy lives again.
+     __________________________________________________________________
+
+II
+
+   7,5,7,5,7,7
+
+
+   Go, ye saints, to Bethlehem,
+
+   Ere the morning breaks,
+
+   Hear the song the angels sing
+
+   While the earth awakes,--
+
+   Go, and put your harps in tune,
+
+   For the praise of the Triune.
+
+
+   Go, ye saints, to Galilee,
+
+   When the noon is high,
+
+   Hear the voice of Wisdom speak
+
+   To the passers by,
+
+   See the work of mercy wrought,
+
+   Learn to labour as ye ought.
+
+
+   Go, and seek Gethsemane,
+
+   In its darkest shade;
+
+   See the sorrowing God-man there,
+
+   Sighing, prostrate laid;
+
+   Go, and pray "Thy will be done,"
+
+   With the agonizing Son.
+
+
+   Go, ye saints, to Calvary,
+
+   Where the flesh is torn;
+
+   See the power of sin o'erthrown
+
+   'Mid its shouts of scorn;
+
+   And, before the awful Cross,
+
+   Count the gain that comes from loss.
+     __________________________________________________________________
+
+III
+
+   8,6,8,6
+
+
+   He climbed the slopes of Olivet
+
+   When came the hour of prayer,
+
+   And in the stillness, Christ with God
+
+   Held close communion there.
+
+
+   Then all the noise of life was still,
+
+   And all the tongues that pain,
+
+   And peace His troubled heart possessed,
+
+   Which waiting spirits gain.
+
+
+   Then sank life's tumult like the waves
+
+   On Galilee that frowned,
+
+   And in the depths of love divine,
+
+   The hate of man was drowned.
+
+
+   Lord, when my soul by carking care
+
+   Has lost its needful rest,
+
+   Lead me to where the voice is heard
+
+   That comforts the distressed.
+
+
+   That even now, in distant days,
+
+   My longing soul may share
+
+   The rich supplies of grace divine,
+
+   In answer to my prayer.
+     __________________________________________________________________
+
+IV
+
+   8,6,8,4
+
+
+   O Light serene of heavenly birth,
+
+   No dawn Thy glory knew;
+
+   No night shall chase Thy beams from earth,
+
+   Nor clouds pursue.
+
+
+   Eternal day, where Thou dost shine
+
+   Illumes the hallowed place,
+
+   And souls reflect Thy light divine,
+
+   O Lord of Grace.
+
+
+   O, from Thy dazzling throne come down,
+
+   To gild our darkness here,
+
+   And rend the clouds that threatening frown,
+
+   And chase our fear.
+
+
+   Unfading in our souls abide,
+
+   To give more beauties rare,
+
+   Than paint the earth in Summer time
+
+   When flowers are there.
+
+
+   O Christ, our Lord, here clouds obscure,
+
+   And beauty fades from sight;
+
+   But bring us where Thy joys endure,
+
+   In lasting light.
+     __________________________________________________________________
+
+V
+
+   6,6,6,6,6,6
+
+
+   Lord of the brave and strong,
+
+   Armed for the ceaseless fight,
+
+   Fired with the love of right,
+
+   Filled with a hate of wrong,--
+
+   Thine is the might they wield,
+
+   Lord of the brave and strong.
+
+
+   Lord of the weak and faint,--
+
+   Faint yet pursuing still,
+
+   Bowing to Thy sweet will,
+
+   Bearing without complaint;
+
+   Thine is their power to bear,
+
+   Lord of the weak and faint.
+
+
+   Lord of the good and true,
+
+   Souls, that the rays entwine
+
+   Shot from the Orb divine,
+
+   Lives that their tasks pursue;
+
+   Thine is the life they live,
+
+   Lord of the good and true.
+
+
+   Lord of the souls that love,
+
+   Seeking the lives that roam,
+
+   Bringing the wanderers home,
+
+   Pointing to bliss above;
+
+   Thine is the love, O Christ,
+
+   Lord of the souls that love.
+
+
+   Lord of all souls that live!
+
+   Grant us Thy grace, we pray,
+
+   Humbly from day to day,
+
+   Ever our best to give;--
+
+   Thou wilt our souls befriend,
+
+   Lord of all souls that live.
+     __________________________________________________________________
+
+VI
+
+   6,6,8,6
+
+
+   I will not yield my sword,
+
+   I will not bow the knee,
+
+   But I would hear the blessed word
+
+   That calls my soul to Thee;
+
+   And through the din of war,
+
+   And in the midst of strife,
+
+   That word shall be the guiding star
+
+   To lead me on to life.
+
+
+   And in the midst of snares
+
+   Which subtle fingers lay,
+
+   I shall not stumble unawares
+
+   Upon the upward way;
+
+   But keep before my eyes
+
+   The goal before me set,
+
+   Lest I should miss the glorious prize
+
+   Which loyal victors get.
+
+
+   O Christ, Who art my King,
+
+   Thy cause I make mine own,
+
+   Till proud rebellious foes shall bring
+
+   Their homage to Thy throne;
+
+   Till then my heart revive
+
+   With courage brave and strong,
+
+   And steel my feeble arm to strive
+
+   Against the power of wrong.
+
+
+   When from the fateful field
+
+   I hail my rightful king,
+
+   To Him my trusty sword I'll yield,
+
+   And all my trophies bring;
+
+   And He shall crown my head
+
+   With honours richer far,
+
+   Than trophies from the conquered dead,
+
+   And all the spoils of war.
+     __________________________________________________________________
+
+VII
+
+   10,10,10,10
+
+
+   Come with your praises, a sacrifice meet,
+
+   Blending with theirs who adore at His feet;
+
+   Pour forth your hearts in a glorious song,
+
+   Praising the Christ, to Whom praises belong.
+
+
+   Ye, who have trod on a burdensome way,
+
+   Doing life's tasks in the heat of the day;
+
+   Strong to endure in the conflict of life,
+
+   Braving the foe in the thick of the strife.
+
+
+   Ye, who have stood when temptation was strong,
+
+   Doing the right in the face of the wrong,
+
+   Holding the banner of truth in the breeze,
+
+   Honoured to bear it, nor careful to please.
+
+
+   Ye, who have walked in the valley of night,
+
+   Straining the eye for the dawning of light;
+
+   Weeping the tears that in silence are shed,
+
+   Burdened with grief for the lost and the dead.
+
+
+   Praise Him for help in the years that are past;
+
+   Praise Him for grace in the time that shall last;
+
+   Praise Him for faith to endure to the end,
+
+   Hope to illumine, and love to befriend.
+
+
+   Glory to God! at the close of the day,
+
+   Freed from the burden and toil of the way,
+
+   Angel, archangel, with saint shall unite,
+
+   Praising the Christ for His love infinite.
+     __________________________________________________________________
+
+VIII
+
+   10,10,10,10
+
+
+   These are the jewels all glorious that shine
+
+   High in the crown of the Monarch divine;
+
+   Circling the brow like a rainbow of light,
+
+   Brighter than stars in an Orient night.
+
+
+   They who have dwelt in the darkness below,
+
+   Cheering its sadness, and healing its woe;
+
+   Seeking the wanderers and pointing the way
+
+   Out of the night to the glories of day.
+
+
+   They who had ears for the penitent's plaint,
+
+   Stretching their hands to the weak and the faint;
+
+   Aiding the weary who toil for their bread,
+
+   Wiping the tears that in sorrow are shed.
+
+
+   Holding as gain what the world deems but loss;
+
+   Bearing with meekness the weight of the Cross;
+
+   Counting it glory to suffer the shame
+
+   Linked to the servant who honours His name.
+
+
+   Cherubim, seraphim, glowing and bright,
+
+   Stand in the Holy place girded with light;
+
+   Ah, but the jewels more glorious that shine,
+
+   Flash from the crown of the Monarch divine.
+     __________________________________________________________________
+
+IX
+
+   6,6,8,6,8,8
+
+
+   Wave, wave your banners high,
+
+   The day of strife is done,
+
+   On blood-red field the foemen lie,
+
+   And victory is won;
+
+   The march, the toil, the fight are o'er,
+
+   Now sheathe the sword for evermore.
+
+
+   Ah, long the strife endured,
+
+   And hard the foemen pressed,
+
+   But now the garland is secured,
+
+   And weary warriors rest;
+
+   Now hear your Captain's voice, "Well done,"
+
+   And take the prize your valour won.
+
+
+   O peace, when strife is past,
+
+   O rest, when toil is o'er,
+
+   O City of the King, at last,
+
+   And bliss for evermore;
+
+   Now to the footstool of the King,
+
+   Your spoils of war and triumphs bring.
+     __________________________________________________________________
+
+X
+
+   8,8,8,8
+
+
+   Arise, my soul, and gaily sing
+
+   The praise of Thine immortal King;
+
+   The heavens His matchless power adore,--
+
+   Arise, and sing for evermore.
+
+
+   The morning dawns at His command,
+
+   And lights the world o'er sea and land;
+
+   And upwards, see, the sun arise
+
+   To shed its glories from the skies.
+
+
+   And falls the twilight o'er our heads,
+
+   When night its sable curtain spreads,
+
+   For all His Kingly words obey,--
+
+   The dark of night, the light of day.
+
+
+   O, heavenly King, in every soul
+
+   The darkness of our night control,
+
+   And in the blackness of that night,
+
+   Speak Thou the word "Let there be light."
+
+
+   And as the morn from darkness springs,
+
+   And speeds to earth on silent wings,
+
+   A dawn more glorious shall awake,
+
+   And bright upon our spirits break.
+
+
+   O, Sun of Righteousness, arise!
+
+   And fill our souls with glad surprise,
+
+   Nor into dark of night decline,
+
+   But aye at noon-tide brightly shine.
+     __________________________________________________________________
+
+  SECOND ADVENT
+     __________________________________________________________________
+
+I
+
+   8,7,8,7,8,8
+
+
+   Watchers, let your lights be burning,
+
+   Soon the Bridegroom will be here;
+
+   List! the footsteps now returning,
+
+   Rise to greet Him, He is near;
+
+   See your lamps are trimmed and burning,
+
+   For the Lord at His returning.
+
+
+   Wake, awake, no time for sleeping,
+
+   Though the midnight hour be dark;
+
+   Faithfully your vigil keeping,
+
+   You shall greet Him;--watchers, hark!
+
+   Footsteps tell your Lord's returning,
+
+   See your lamps are trimmed and burning.
+
+
+   Ah, the shame when He appeareth,--
+
+   Sleeping watchers, flickering light;
+
+   Ah, the sorrow when He neareth,
+
+   In the middle of the night;--
+
+   Drowsy, in the dark reclining,
+
+   While a myriad lamps are shining.
+
+
+   Ah, my soul, bestir, awake thee,
+
+   Day is passing, soon 'tis night;
+
+   If the midnight hour o'ertake thee,
+
+   Will thy lamp send forth its light?
+
+   Wake, awake, thy Lord returneth,
+
+   See thy lamp is trimmed, and burneth.
+     __________________________________________________________________
+
+II
+
+   8,6,8,6
+
+
+   The King shall come when morning dawns,
+
+   And light triumphant breaks;
+
+   When beauty gilds the eastern hills,
+
+   And life to beauty breaks.
+
+
+   Not as of old, a little child
+
+   To bear, and fight, and die,
+
+   But crowned with glory like the sun,
+
+   That lights the morning sky.
+
+
+   O, brighter than the rising morn,
+
+   When He victorious rose,
+
+   And left the lonesome place of death,
+
+   Despite the rage of foes;--
+
+
+   O, brighter than that glorious morn,
+
+   Shall this fair morning be,
+
+   When Christ, our King, in beauty comes,
+
+   And we His face shall see.
+
+
+   The King shall come when morning dawns,
+
+   And earth's dark night is past;--
+
+   O, haste the rising of that morn,
+
+   That day that aye shall last.
+
+
+   And let the endless bliss begin,
+
+   By weary saints foretold,
+
+   When right shall triumph over wrong,
+
+   And truth shall be extolled.
+
+
+   The King shall come when morning dawns,
+
+   And light and beauty brings;--
+
+   Hail! Christ the Lord; Thy people pray,
+
+   "Come quickly, King of kings."
+     __________________________________________________________________
+
+III
+
+   8,8,8,8
+
+
+   A halo rests upon Thy brow,
+
+   O Saviour of the sons of men;
+
+   For Thou art crowned a Victor now;--
+
+   But Thou wilt come to us again.
+
+
+   Thou hast a thought for those who tread
+
+   The steeps of life, and often fail[
+
+   The weak in faith lift up the head,
+
+   And in Thy strength, O Christ, prevail.
+
+
+   Thou art not far removed from those,
+
+   That yearn for Thee, and seek Thy grace;
+
+   Who in Thy tender love repose,
+
+   May hear Thy voice, and see Thy face;--
+
+
+   And know the love that giveth rest,
+
+   And share its strength, and feel its glow;
+
+   As he who leaned upon Thy breast,
+
+   When Thou wert with us, long ago.
+
+
+   But hearts are sad, and lives are lone,
+
+   They long for Thee, who love Thee most;
+
+   Even when Thy promised Gift they own,--
+
+   The comfort of the Holy Ghost.
+
+
+   Thou art our Faith, our Hope, our Love,
+
+   O Lover of the souls of men;
+
+   Bow down Thy heavens, and from above,
+
+   Come, Blessed Lord, to us again.
+     __________________________________________________________________
+
+IV
+
+   8,8,6,6,8,8,8,8
+
+   'Anothen, parthenoi, boes egersinekros echos
+
+   St. Methodius, 3rd Century
+
+
+   Behold the Bridegroom! Hark the cry,
+
+   The dead awaking, rends the sky!
+
+   Go, virgins, He is near,
+
+   Your lamps all burning clear;
+
+   He enters where the rising light
+
+   Asunder bursts the gates of night.
+
+   In holy garb, with lamp aglow,
+
+   To meet the Bridegroom forth I go.
+
+
+   The smiles of earth that turn to tears,
+
+   Its empty joys and foolish fears
+
+   I leave, for Thou dost call,--
+
+   Thou art my Life, my All;
+
+   I would Thy beauty ever see,
+
+   Then let me, Blessed, cling to Thee.
+
+   In holy garb, with lamp aglow,
+
+   To meet the Bridegroom forth I go.
+
+
+   For Thee I leave the world behind,--
+
+   Thou art my Bliss, O Bridegroom kind;
+
+   My beauty's not mine own--
+
+   'Tis Thine, O Christ, alone;
+
+   The bridal chamber I would see,
+
+   In perfect happiness to be.
+
+   In holy garb, with lamp aglow,
+
+   To meet the Bridegroom forth I go.
+
+
+   O God, exalted on Thy throne,
+
+   Who dwell'st in purity unknown,
+
+   Lo, now we humbly wait,
+
+   Throw wide the heavenly gate,
+
+   And with the Bridegroom, of Thy grace,
+
+   Give us at Thy right hand a place.
+
+   In holy garb, with lamp aglow,
+
+   To meet the Bridegroom forth I go.
+     __________________________________________________________________
+
+V
+
+   i
+
+
+   Awake, my soul, bestir thee, for the hour is drawing nigh,
+
+   When the trump of God shall blazon from the silence of the sky,
+
+   And He shall come a second time, Who came at first to die.
+
+
+   It may be in the morning, when the hills are bathed in light,
+
+   Or at the hour of noontide, when the sun is at his height;
+
+   But it may be in the darkness, in the middle of the night.
+
+
+   Be sure the hour is coming, and repenting seek His face,
+
+   For He Who comes to judge the world, is still the Lord of grace,
+
+   His throne shall be a Mercy seat, His love a hiding place.
+
+
+   O Christ, in mercy save us, ere that day of dread appear,
+
+   When sinners from Thy judgement seat their awful doom shall bear;
+
+   Awake, my soul, bestir thee, for the time is drawing near.
+     __________________________________________________________________
+
+  JUDGEMENT
+     __________________________________________________________________
+
+   6,6,6,6,6,6
+   Ode from the Penitential Office at Matins
+
+
+   The time is drawing nigh,
+
+   Even now the day is near,
+
+   When Christ from heaven high
+
+   To judgement shall appear;
+
+   Keep watch, my soul, in fear,
+
+   The Judge of men is near.
+
+
+   Then kings and princes great,
+
+   The rich and poor shall meet;
+
+   And high and low estate
+
+   Shall gather round His feet;
+
+   Keep watch, my soul, in fear,
+
+   The Judge of men is near.
+
+
+   No crafty words shall mar,
+
+   Nor sophistry distract;
+
+   No parrying counsel jar
+
+   With the eternal fact;
+
+   Keep watch, my soul, in fear,
+
+   The Judge of men is near.
+
+
+   O Christ, in mercy then,
+
+   Forbid my soul should go
+
+   With lost and ruined men,
+
+   Down to the place of woe;
+
+   Keep watch, my soul, in fear,
+
+   The Judge of men is near.
+     __________________________________________________________________
+
+                                    Indexes
+     __________________________________________________________________
+
+Index of Greek Words and Phrases
+
+     * Agios athanatos, to parakleton Pneuma: [1]1
+     * Ai murophoroi gunaikes, orthrou batheos: [2]1
+     * Anastaseos emera: [3]1
+     * Anothen, parthenoi, boes egersinekros echos: [4]1
+     * Arate pulas: [5]1
+     * Ge de agalliastho Christos gar egegertai: [6]1
+     * Deute laoi, ten trisupostaton Theoteta proskunesomen: [7]1
+     * Ektene: [8]1
+     * Exagoreuso kat emou ten anomian mou t? Kurio: [9]1
+     * Epi tes theias phulakes: [10]1
+     * Thanato thanaton kathesas: [11]1
+     * Idou o Numphios erchetai en ta meso tes nuktos: [12]1
+     * Idou, o basileus sou erchetai: [13]1
+     * Kai klausomen, kai praxomen: [14]1
+     * Kurie eleeson, antilabou, s?son, eleeton kai diaphulaxon emas:
+       [15]1
+     * Kurie, anapauson to nepion: [16]1
+     * O monogenes &#161;ios kai Logos tou Theou: [17]1
+     * Orthrios didomi t? The? dexias: [18]1
+     * Pater oiktirm?n: [19]1
+     * Sigesato pasa sarx broteia: [20]1
+     * Soi nux me pherei ton aoidon, anax: [21]1
+     * Tas ano Dunameis mimoumenoi oi epi ges: [22]1
+     * Tas esperinas emon euchas: [23]1
+     * Tetelestai: [24]1
+     * Ten achranton Eikona proskunoumen agathe: [25]1
+     * To pathei sou, Christi, pathon eleutherothemen: [26]1
+     * Phoberon kai paradoxon Musterion: [27]1
+     * Ph?s ek photos: [28]1
+     * Chit?na moi paraschou photeinon: [29]1
+     * Christos aneste ek nekron: [30]1
+     * Christos o basileus: [31]1
+     * exapostello: [32]1
+     * theotokos: [33]1
+     * kathizo: [34]1
+     * trepo: [35]1
+     * &#161;per tes anothen eirenes kai tes soterias t?n psuch?n em?n,
+       tou Kuriou deeth?men: [36]1
+     __________________________________________________________________
+
+Index of Pages of the Print Edition
+
+   [37]iii  [38]v  [39]vii  [40]viii  [41]ix  [42]x  [43]xi  [44]xii
+   [45]xiii  [46]xiv  [47]xv  [48]xvi  [49]xvii  [50]xviii  [51]1  [52]2
+   [53]3  [54]4  [55]5  [56]6  [57]7  [58]8  [59]9  [60]10  [61]11
+   [62]12  [63]13  [64]14  [65]15  [66]16  [67]17  [68]18  [69]19  [70]20
+   [71]21  [72]22  [73]23  [74]24  [75]25  [76]26  [77]27  [78]28  [79]29
+   [80]30  [81]31  [82]32  [83]33  [84]34  [85]35  [86]36  [87]37  [88]38
+   [89]39  [90]40  [91]41  [92]42  [93]43  [94]44  [95]45  [96]46  [97]47
+   [98]48  [99]49  [100]50  [101]51  [102]52  [103]53  [104]54  [105]55
+   [106]56  [107]57  [108]58  [109]59  [110]60  [111]61  [112]62  [113]63
+   [114]64  [115]65  [116]66  [117]67  [118]68  [119]69  [120]70  [121]71
+   [122]72  [123]73  [124]74  [125]75  [126]76  [127]77  [128]78  [129]79
+   [130]80  [131]81  [132]82  [133]83  [134]84  [135]85  [136]86  [137]87
+   [138]88  [139]89  [140]90  [141]91  [142]92  [143]93  [144]94  [145]95
+   [146]96  [147]97  [148]98  [149]99  [150]100  [151]101  [152]102
+   [153]103  [154]104  [155]105  [156]106  [157]107  [158]108  [159]109
+   [160]110  [161]111  [162]112  [163]113  [164]114  [165]115  [166]116
+   [167]117  [168]118  [169]119
+     __________________________________________________________________
+
+            This document is from the Christian Classics Ethereal
+               Library at Calvin College, http://www.ccel.org,
+                   generated on demand from ThML source.
+
+References
+
+   1. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h62-p0.6
+   2. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h47-p0.6
+   3. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h49-p0.6
+   4. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h126-p0.6
+   5. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h56-p0.6
+   6. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h38-p0.6
+   7. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h63-p0.6
+   8. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_1.h97-p0.7
+   9. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h79-p0.6
+  10. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h34-p0.6
+  11. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h42-p0.6
+  12. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_4.h15-p0.5
+  13. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_1.h21-p0.6
+  14. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h77-p0.6
+  15. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_2.h98-p0.5
+  16. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_5.h108-p0.6
+  17. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h33-p0.6
+  18. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h3-p0.6
+  19. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h78-p0.6
+  20. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h102-p0.6
+  21. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_3.h12-p0.6
+  22. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h7-p0.6
+  23. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h35-p0.6
+  24. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h36-p0.6
+  25. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h27-p0.6
+  26. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h28-p0.6
+  27. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h26-p0.6
+  28. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h94-p0.6
+  29. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h103-p0.6
+  30. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h36a-p0.5
+  31. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect2.sect2_2.h20-p0.6
+  32. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-p19.2
+  33. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-p19.1
+  34. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-p18.1
+  35. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-p17.1
+  36. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_1.h97-p0.4
+  37. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#titlepag-Page_iii
+  38. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#titlepag-Page_v
+  39. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_vii
+  40. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_viii
+  41. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_ix
+  42. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_x
+  43. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_xi
+  44. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_xii
+  45. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_xiii
+  46. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_xiv
+  47. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_xv
+  48. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#intro-Page_xvi
+  49. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#contents-Page_xvii
+  50. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#contents-Page_xviii
+  51. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1-Page_1
+  52. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h1-Page_2
+  53. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h2-Page_3
+  54. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h3-Page_4
+  55. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h5-Page_5
+  56. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h6-Page_6
+  57. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h7-Page_7
+  58. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h8-Page_8
+  59. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h9-Page_9
+  60. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_1.h10-Page_10
+  61. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_2.h11-Page_11
+  62. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_3.h12-Page_12
+  63. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_3.h14-Page_13
+  64. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect1.sect1_4.h15-Page_14
+  65. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect2-Page_15
+  66. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect2.sect2_1.h16-Page_16
+  67. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect2.sect2_2-Page_17
+  68. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect2.sect2_2.h19-Page_18
+  69. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect2.sect2_2.h20-Page_19
+  70. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3-Page_20
+  71. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_1.h21-Page_21
+  72. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_1.h22-Page_22
+  73. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h23-Page_23
+  74. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h24-Page_24
+  75. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h25-Page_25
+  76. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h26-Page_26
+  77. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h27-Page_27
+  78. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h28-Page_28
+  79. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h29-Page_29
+  80. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h30-Page_30
+  81. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h32-Page_31
+  82. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_2.h33-Page_32
+  83. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h34-Page_33
+  84. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h35-Page_34
+  85. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h36-Page_35
+  86. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h36a-Page_36
+  87. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h37-Page_37
+  88. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h39-Page_38
+  89. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h40-Page_39
+  90. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h41-Page_40
+  91. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h42-Page_41
+  92. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h43-Page_42
+  93. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h44-Page_43
+  94. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h46-Page_44
+  95. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h47-Page_45
+  96. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h48-Page_46
+  97. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h49-Page_47
+  98. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h50-Page_48
+  99. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_3.h52-Page_49
+ 100. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h53-Page_50
+ 101. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h54-Page_51
+ 102. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h55-Page_52
+ 103. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h56-Page_53
+ 104. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h57-Page_54
+ 105. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h58-Page_55
+ 106. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_4.h59-Page_56
+ 107. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h60-Page_57
+ 108. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h61-Page_58
+ 109. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h62-Page_59
+ 110. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h63-Page_60
+ 111. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h64-Page_61
+ 112. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect3.sect3_5.h65-Page_62
+ 113. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4-Page_63
+ 114. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h68-Page_64
+ 115. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h69-Page_65
+ 116. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h70-Page_66
+ 117. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h71-Page_67
+ 118. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h72-Page_68
+ 119. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h73-Page_69
+ 120. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h75-Page_70
+ 121. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h76-Page_71
+ 122. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h77-Page_72
+ 123. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h79-Page_73
+ 124. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h79-Page_74
+ 125. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h81-Page_75
+ 126. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h82-Page_76
+ 127. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h83-Page_77
+ 128. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h84-Page_78
+ 129. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h86-Page_79
+ 130. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h87-Page_80
+ 131. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h88-Page_81
+ 132. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h89-Page_82
+ 133. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h90-Page_83
+ 134. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h91-Page_84
+ 135. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h92-Page_85
+ 136. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h93-Page_86
+ 137. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h94-Page_87
+ 138. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect4.sect4_1.h95-Page_88
+ 139. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5-Page_89
+ 140. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_1.h97-Page_90
+ 141. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_2.h98-Page_91
+ 142. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_3.h99-Page_92
+ 143. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h100-Page_93
+ 144. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h101-Page_94
+ 145. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h103-Page_95
+ 146. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h104-Page_96
+ 147. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h105-Page_97
+ 148. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_4.h106-Page_98
+ 149. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_5.h107-Page_99
+ 150. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_5.h108-Page_100
+ 151. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_6.h109-Page_101
+ 152. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_7-Page_102
+ 153. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_7.h111-Page_103
+ 154. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h112-Page_104
+ 155. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h113-Page_105
+ 156. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h115-Page_106
+ 157. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h116-Page_107
+ 158. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h117-Page_108
+ 159. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h117-Page_109
+ 160. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h118-Page_110
+ 161. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h120-Page_111
+ 162. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_8.h121-Page_112
+ 163. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h122-Page_113
+ 164. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h124-Page_114
+ 165. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h125-Page_115
+ 166. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h126-Page_116
+ 167. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h126-Page_117
+ 168. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_9.h127-Page_118
+ 169. file:///ccel/b/brownlie/russianhymns/cache/russianhymns.html3#sect5.sect5_a.h128-Page_119

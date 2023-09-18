@@ -1,0 +1,6528 @@
+     __________________________________________________________________
+
+        Title: Songs and Hymns of the Earliest Greek Christian Poets
+   Creator(s):
+               Chatfield, Allen W. (1808-1896) (Translator)
+  Print Basis: Fifth Edition: London
+       Rights: Public Domain
+   LC Call no: BV467.C1 1876
+  LC Subjects:
+
+               Practical theology
+
+               Worship (Public and Private) Including the church year, Christian
+               symbols, liturgy, prayer, hymnology
+
+               Hymnology
+
+               Hymns in languages other than English
+     __________________________________________________________________
+
+                                SONGS AND HYMNS
+                                       OF
+                         Earliest Greek Christian Poets
+                               BISHOPS AND OTHERS
+                         Translated into English Verse
+
+BY
+ALLEN W. CHATFIELD, M.A.
+VICAR OF MUCH MARCLE
+
+   RIVINGTONS
+   WATERLOO PLACE, LONDON
+   Oxford and Cambridge
+   1876
+     __________________________________________________________________
+
+PREFACE
+
+   Four years ago the Anthologia Graeca Carminum Christianorum (Leipsic,
+   1871) was put into my hands by a friend, to look for hymns, Eucharistic
+   especially, which, when rendered into English, might be suitable for
+   the general use of the Church. Of Eucharistic hymns I did not find one
+   in the volume. But I lighted frequently on detached passages here and
+   there, which might form the groundwork of useful and popular hymns for
+   general Christian worship. I did not then know that the late [1]Dr. J.
+   M. Neale had applied his magic wand to several of such passages which
+   are to be found in the later portion of the Anthologia.
+
+   My attention, however, was at once arrested by the beauty and majesty
+   of the earlier portion of the volume, which contains the Odes of
+   Synesius, the Hymns and Songs of Gregory Nazianzen, a Hymn of Clement
+   of Alexandria, and the Bridal Song of the earlier Methodius. In my
+   humble opinion there is nothing in the second, the later, and by far
+   the larger portion at all comparable in point of spirit or originality
+   with what I have specified in the first short portion of the book.
+   Moreover, all, or almost all, the later Greek Church poetry, or
+   harmonious prose, which gradually took the place of the old poetry, is
+   full of Mariolatry, of which I find nothing in the older portion
+   referred to.
+
+   Such is the marvellous versatility of the Greek language and its power
+   of wort-bilden, or compounding of words, that in or before the sixth
+   century such words as theotokos, theometor, theogennetor, came into
+   general use; grammatically and beautifully formed, and logically too,
+   so far as school logic is concerned; for if the Blessed Virgin is the
+   mother of Him who is also God, she is, says such logic, the mother of
+   God. Thus, by the genius of the language, aided by miserable school
+   logic, the Blessed Virgin, the mother of the Man Christ Jesus, is made
+   the mother of God; and as darkness and ignorance rapidly prevailed, so
+   the worship of the Blessed Trinity is literally capped by the worship
+   of the theotokos, the prayer or doxology to the Virgin in each case
+   forming the grand climax. [1]
+
+   Rome, as always in the old times, borrowed from Greece, and then
+   stamped these and other monstrous departures from primitive truth with
+   the seal of her own falsely assumed authority, and it became law like
+   that of the Medes and Persians, which altereth not.
+
+   But let the descendants of the once noblest people on earth, the
+   inheritors also of the glorious and divine treasures preserved in the
+   old language--the finest ever spoken--let the Greek people and the
+   Greek Church think and act with the mind unfettered; let them go back
+   to the pure fountain and drink for themselves. The eye of the mind will
+   be enlightened; they will see that neither Mariolatry, nor saint
+   worship, nor angel worship, has any place in God's own truth. "See thou
+   do it not," said the angel to St. John, [2] when he was about to fall
+   down and worship (only proskunesai) before his feet. Oh that in
+   obedience to such divine injunction the great Eastern Church would
+   arise and shake itself from the dust; would cast to the moles and to
+   the bats such relics of past darkness and idolatrous practice!
+
+   I was attracted also to the first part of the volume by the grand old
+   Greek metres. To me they are vastly to be preferred to the later
+   metrical or harmonious prose, or the mediaeval and modern jingle. This
+   last form of poetry may be required by the English and other modern
+   languages which have not the metrical perfection natural to the old
+   Greek and Latin tongues; but to adopt the modern fashion in reference
+   to the ancient Greek and Latin seems to me an unnecessary and miserable
+   distortion. That the old metres can express sublime thought and divine
+   truth is abundantly attested by the Anacreontics of Synesius and
+   Gregory. The dactylics also of the latter, his hexameters and
+   pentameters, as well as his iambics, bear the same evidence.
+
+   How the change gradually took place in Greek poetry, how accent
+   strangled quantity, and how harmonious prose succeeded to the grand old
+   poetry, is elaborately set forth in the preface of the learned editors
+   of the Greek Anthology. The same contains also a masterly essay on the
+   music of the Greek Church.
+
+   I follow their order as convenient, though chronologically the reverse
+   of what it ought to be, and place Synesius first.
+
+   MUCH MARCLE VICARAGE,
+     September 1, 1876.
+     __________________________________________________________________
+
+   [1] See, for example, throughout the "Great Canon," by St. Andrew of
+   Crete, the last stanza of each of the nine Odes, pp. 147-157.
+
+   [2] Rev. xxii. 9.
+     __________________________________________________________________
+     __________________________________________________________________
+
+SYNESIUS
+BISHOP OF PTOLEMAÏS
+
+   (Born circ. A.D. 375, Died 430).
+
+   Synesius was a man of mark in his day, and would have been a man of
+   mark in any day.
+
+   To begin with the advantages which belonged to him by birth, he could
+   boast a pedigree such as, says Gibbon, "could not be equalled in the
+   history of mankind," of seventeen centuries from earliest heroic times,
+   down through the kings of Sparta, and the founders of Cyrene: "all the
+   names recorded in the public registers of Cyrene;" and he was well
+   worthy of his "pure and illustrious pedigree." [3]
+
+   As a philosopher, his merits, measured by the standard of the age in
+   which he lived, are of high order. Otherwise, it is easy, in our age,
+   to condemn the whole Neoplatonic philosophy as "tumid, inflated, and
+   false."
+
+   As a statesman and patriot, he deserves the highest praise. For three
+   years (A.D. 397-400) he toiled, as he himself tells us in his third
+   Ode, and strove and wept at the court of Arcadius, endeavouring to
+   stimulate his degraded and degenerate countrymen to worthy efforts
+   against the Goths, who were threatening not only his own beloved Libya,
+   but the whole empire. His noble appeal, and his continued exertions,
+   called forth abundant commendation and praise, but no permanent
+   results. "The court of Arcadius indulged the zeal, applauded the
+   eloquence, and neglected the advice of Synesius."
+
+   But there must have been some lull in the rising storm, or some partial
+   success; for Synesius expresses, in the ode referred to, his heartfelt
+   thankfulness for the same. Certainly within the three following years
+   considerable victories were gained by Stilicho in Italy. Hence may have
+   arisen relief to Libya. And Synesius may have composed the Ode, or
+   added the part referred to, after those events.
+
+   With regard to his Christianity and theological views, it seems to me
+   Synesius has had scant justice done to him. The learned editors of the
+   Anthologia (see Prolegomena, p. x, lib. i., where sex must be a
+   misprint for quinque) think that he had not yet even professed
+   Christianity when he wrote five (viz. I. Il. III. IV. VI.) out of the
+   ten hymns or odes; that in the third, the very long one, he speaks of
+   going round to pagan temples in supplication to the gods. But I would
+   ask, had not pagan temples been put down finally, at least some years
+   before Synesius visited Thrace? Whatever new life paganism may have
+   received during the short reign of Julian (A.D. 360-363), it was
+   crushed out during the reign of Theodosius the Great (A.D. 382-395).
+   His sons divided the empire, Honorius reigning in the West, Arcadius in
+   the East. It was to the court of Arcadius that Synesius went as a
+   deputy from Cyrene. Again, may not Synesius be understood as speaking
+   of Christian churches or temples, Christian ministers or guardian
+   saints (in the growing notion of the day), and Christain rites and
+   ceremonies, though employing in his poetry terms that in pagan times
+   might have been applied to pagan worship? I am persuaded that it is so;
+   and that, if not always orthodox, he yet shows himself in all these
+   poems to be a reverent and sincere Christian.
+
+   I cannot enter at length into the famous dispute as to what Synesius
+   held, or did not hold, on the doctrine of the Resurrection. It has been
+   commonly said that he did not accept it at all. Gibbon reiterates the
+   same; and in reply to Bishop Jeremy Taylor and others, who, I believe
+   rightly, qualify this, thinking that Synesius dissembled, or
+   represented his difficulties too strongly, in order that he might not
+   be forced into the holy office, Bingham [4] quotes and interprets, but
+   I think not fully nor fairly, the words of Synesius himself: ten
+   kathomilemenen anastasin ieron ti kai aporreton egemai, kai pollou deo
+   tais tou plethous upolepsesin omologesai . . . . Surely there is much
+   qualification here. "The every-day-talked-of resurrection I have
+   regarded as a sacred thing, and that cannot be spoken of." He does not
+   say that he does not believe it at all, but that, whereas it is in
+   every one's mouth, stated and defined, he has been in the habit of
+   regarding it as a sacred and ineffable mystery; and that he is far from
+   acceding to the notions of the multitude (on it or other points).
+
+   That he held the doctrine itself is to me clear, from what he himself
+   says, both elsewhere, and particularly in his beautiful tenth Ode. He
+   believes in, and adores, the risen Saviour, and looks forward with
+   longing desire in the future state to be with Him, and to "sing His
+   praise who is the Healer of souls and the Healer of limbs, with the
+   Great Father and the Holy Spirit." I know not how Mosheim can call such
+   a man a semi-Christian. [5] Mosheim's translator and annotator [6] does
+   something in the way of correcting or qualifying such judgment.
+
+   It is certain that, when later in life (viz. A.D. 410) he was made
+   Bishop of Ptolemaïs, Synesius acquitted himself nobly and faithfully in
+   the sacred office to which, entirely against his will, he had been
+   appointed. "The philosophic bishop supported with dignity the character
+   which he had assumed with reluctance." [7]
+
+   All admit that he was a man of learning and wisdom, of excellent
+   character, and blameless life. His refinement of mind, his delicacy of
+   feeling, and his loving disposition, as well as his zeal and energy,
+   must strike every attentive reader. I would specially refer to his
+   eighth Ode, in which is presented to us a picture of conjugal,
+   parental, and domestic tenderness, that nowhere can be surpassed.
+
+   His poetry in the original Greek will be allowed by all scholars to be
+   pure, varied, sweet, and beautiful.
+
+   Much must be lost in any translation whatever. If I may have had only
+   slight success in attempting to reproduce to the English reader the
+   mind of this good and great man, I shall indeed be thankful.
+
+    Odes: [2][1] [3][2] [4][3] [5][4] [6][5] [7][6] [8][7] [9][8] [10][9]
+    [11][10]
+     __________________________________________________________________
+
+Synesius.
+I.
+
+   'Age moi, ligeia phorminx,
+
+   (Anacreontic: Dimeter ionic.)
+
+
+   Wake, wake, I pray thee, shrill-toned lyre!
+
+   No more to fan the Teïan [8] fire,
+
+   No more the Lesbian [9] strain to raise,
+
+   Wake, wake to hymn of nobler praise!
+
+   Sound Dorian [10] ode, in other guise,
+
+   Than once to maid with laughing eyes,
+
+   Or youth whose form and golden tresses
+
+   Might woo the wanton air's caresses!
+
+   A better theme inspires my song,
+
+   10And bears my soul far hence along.
+
+   A Virgin's God-conceiving throes,
+
+   Wisdom's own cure for mortal woes--
+
+   This bids me now my harp-strings ply,
+
+   And earth's black loves and miseries fly.
+
+   For what is strength, or beauty's sway,
+
+   Or gold, or fame--what doth it weigh--
+
+   Or royal honours--in the scale?
+
+   What these 'gainst search for God avail?
+
+   Let this man urge the well-horsed car,
+
+   20That shoot the true-aimed arrow far;
+
+   Another watch o'er golden heap,
+
+   And safe his hoarded treasure keep;
+
+   To one be pride of glossy hair
+
+   Flowing o'er neck in wavelets fair;
+
+   Another court the favouring glances
+
+   Of boys and girls in hymns and dances.
+
+   Not such for me! But this I pray,
+
+   Unknown to spend life's quiet day;
+
+   To this vain world unmarked, unknown,
+
+   30But God's truth knowing as my own.
+
+   Wisdom present herself to me!
+
+   Good guide of youth and age is she,
+
+   Of wealth good stewardess and queen,
+
+   Alike in poverty serene;
+
+   Beyond earth's sorrows smiling gay,
+
+   To calm content she points the way.
+
+   That priceless wisdom first I ask,
+
+   To guide and sweeten all life's task,
+
+   And then sufficient humble store
+
+   40To keep me from my neighbour's door;
+
+   That I may ne'er, oppressed with need,
+
+   Harbour dark thoughts of selfish greed.
+
+
+   Hark! 'tis the sweet cicada's song:
+
+   He drinks the dew, and chirps along.
+
+   And, lo! my strings unbidden sound,
+
+   And here and there a voice around!
+
+   What in the world--what melody
+
+   Will pang divine bring forth to me?
+
+
+   'Tis so! Self-sprung Beginning He,
+
+   50Father and Lord of all that be:
+
+   Not made, not born, on high alone
+
+   He hath o'er lofty heaven His throne.
+
+   There glory changeless He displays,
+
+   And sceptre there eternal sways;
+
+   Of unities pure Unity,
+
+   And Sole of sole existence He!
+
+   High ether pure He did combine,
+
+   And quicken into Life Divine.
+
+   He then, ere yet the ages ran,
+
+   60In mode ineffable to man,
+
+   The Godhead through the Firstborn poured: [11]
+
+   Hence Three, yet One, the Triune Lord.
+
+
+   And now the heavenly fount around
+
+   Behold, with children's beauty crowned,
+
+   Forth from the centre as they spring,
+
+   Or round it flow in joyous ring.
+
+
+   But stop, rash lyre, thy lofty flight,
+
+   Nor touch things hid from mortal sight!
+
+   To men below it is not given
+
+   70To tell high mystic rites of heaven.
+
+   The things beneath do thou reveal;
+
+   The things above let silence seal.
+
+
+   But Mind now cares for worlds alone,
+
+   In which reflected mind is shown:
+
+   A good beginning this we sing,
+
+   For thence man's spirit hath its spring:
+
+   For now to matter came there down
+
+   Mind incorruptible, high crown,
+
+   Severed in each, and fragment small,
+
+   80Yet true descent from God of all.
+
+   This whole, in every part one-centred,
+
+   Whole into whole as it hath entered,
+
+   Takes station at the eternal poles,
+
+   And heaven's resplendent circle rolls.
+
+   Divided next, to those again,
+
+   In given form who yet retain
+
+   Their dowry unimpaired of mind,
+
+   There are high offices assigned;
+
+   The chariot race of stars one guides,
+
+   90One o'er the angelic choir presides.
+
+   But, ah! another, empty, vain,
+
+   Self-dragged by down-inclining chain,
+
+   Hath found a form of lower earth,
+
+   Deep fallen from his heavenly birth:
+
+   From home apostate far he flew,
+
+   And cups of Lethe's darkness drew;
+
+   Of eyeless soul and murky mind,
+
+   To heaven's true joy and glory blind;
+
+   Fain he to joyless earth repaired,
+
+   100A god by mortal things ensnared.
+
+   All dark! yet, lo! to mortal eyes
+
+   A ray of cheering light doth rise!
+
+   A door of hope is opened high,
+
+   And helping hand is stretched out nigh,
+
+   To lift the fallen here on earth
+
+   Back to the honours of their birth,
+
+   When they, emerging from the strife
+
+   And din and cares of storm-tossed life,
+
+   To holy paths have turned indeed,
+
+   110Which to their Father's palace lead.
+
+   Blest he who from the entangling mesh
+
+   Of matter and of greedy flesh
+
+   Hath fled, and on with springing bound
+
+   The upward way to God hath found!
+
+   Blest he who, after fates severe,
+
+   And toils and many a bitter tear,
+
+   And all the crowd of anxious cares
+
+   Which earth to all her votaries shares,
+
+   To mind's true course at length restored,
+
+   120Hath God's own shining depth explored!
+
+
+   A task it is, to lift above
+
+   Whole outstretched soul in new-born love
+
+   Yet only make determined start,
+
+   With wings of mind and honest heart,
+
+   And nigh to thee will He appear
+
+   With stretched-forth hands, thy Father dear.
+
+   Before will run a shining light,
+
+   And all thy upward paths make bright:
+
+   Fields of sweet thought thou now shalt tread,
+
+   130Pledge of true beauty, for thee spread!
+
+   Come, O my soul, and drink of this,
+
+   A fountain flowing with all bliss;
+
+   And to thy Father, lifting prayer,
+
+   Without delay, up-mount the air.
+
+   Leaving to earth the things of earth,
+
+   In God assert thy godlike birth;
+
+   And mingling with thy Father, Friend,
+
+   Taste joys above that never end.
+     __________________________________________________________________
+
+   [8] Anacreon was of Teos.
+
+   [9] Sappho of Lesbos.
+
+   [10] The Dorian dialect was generally used for graver and sublimer
+   subjects.
+
+   [11] Lit.: The Sole Unity poured forth through the first-sown Form in
+   an ineffable way had a threefold supreme help.
+     __________________________________________________________________
+
+Synesius.
+II.
+
+   Pali phengos, palin aos,
+
+   (Anacreontic: Dimeter ionic.)
+
+
+   Again we hail the opening morn,
+
+   Again breaks forth the day new-born,
+
+   Which, rising in victorious might,
+
+   Chases away black-wandering night!
+
+   Again, my mind, in early songs
+
+   Praise Him to whom all praise belongs;
+
+   Who gave to morning dawn the light
+
+   Who gave the glittering stars to night,
+
+   Which to their Maker and their King
+
+   10Around the world in chorus sing.
+
+   For o'er prolific matter, high,
+
+   Moves ether pure in fiery sky;
+
+   Where glides the moon in glorious trim,
+
+   Cutting the last encircling rim:
+
+   For to the eighth revolving stream
+
+   The star-borne courses brightly gleam.
+
+   But now beyond the starry poles
+
+   A counter sea of glory rolls,
+
+   Unbosomed; and with dance divine
+
+   20Doth the Eternal Mind enshrine,
+
+   Which covered hath with hoary wings
+
+   The palace of the King of kings.
+
+   What is beyond none may relate,
+
+   Nor mind of man can penetrate:
+
+   Eternal severance restrains,
+
+   And happy silence ever reigns.
+
+   From Root, or Spring, or Fountain one
+
+   A threefold lighted Form hath shone:
+
+   For where the Father dwells above,
+
+   30There dwelleth too His own heart's love,
+
+   His glorious Son, wisdom perfèct,
+
+   And of all worlds the Architect:
+
+   And in the Unity combined
+
+   The Spirit's holy Light hath shined.
+
+   One Root of Good, one Fount of Love,
+
+   Whence sprung the bliss supreme above:
+
+   And the bright holy lamps divine
+
+   In equal glory ever shine.
+
+   And thence in this fair world of ours,
+
+   40With high-born intellectual powers,
+
+   A chorus now of deathless kings
+
+   The Triune glory ever sings.
+
+   And near the Fount of Love and Truth
+
+   Angelic band in changeless youth,
+
+   Guided by holy Wisdom's mind,
+
+   Immortal wreath of beauty find.
+
+   But some with dark averted eyes
+
+   Fall mindless from the lofty skies
+
+   Downward the gloomy depths among,
+
+   50And bring the higher world along;
+
+   Down, down to Matter's utmost bound,
+
+   Where, settling in the depth profound,
+
+   Nature assigns them birth and place,
+
+   A God-like, [12] though God-fallen race.
+
+
+   Hence giant heroes took their birth,
+
+   The mighty conquerors of earth;
+
+   And hence Breath sown o'er all the ground
+
+   Each varying type of life hath found.
+
+   But all things to Thy counsel hold,
+
+   60Things past, or present, new or old:
+
+   Whate'er we have, whate'er we share,
+
+   Of all from Thee the sources are.
+
+   The Father and the Mother Thou,
+
+   Male, female, unto Thee we bow:
+
+   Or voice be heard, or all be still,
+
+   'Tis just as ordered by Thy will.
+
+   'And Thou or Nature Thyself art,
+
+   Or Nature is Thy counterpart:
+
+   And Thou art King; and ages all
+
+   70Within Thine age unmeasured fall.
+
+   May I my song aright renew,
+
+   O Thou! the Root whence all things grew!
+
+   Hail! Thou, the world's Original;
+
+   Hail! Thou, the Spring, First Cause of all.
+
+   All numbers blending into one,
+
+   The Uncreated, God alone!
+
+   All hail, all hail, [13] Thou One Divine!
+
+   All joy, all happiness be Thine!
+
+   Bend Thou, O bend propitious ear,
+
+   80And this my hymn of praises bear,
+
+   Speed on true Wisdom's opening day,
+
+   Pour blessings down in rich array:
+
+   Yea, grace-distilling streams pour down,
+
+   That I may win contentment's crown
+
+   In life's sweet calm; the happy mean
+
+   Give me, riches and want between.
+
+   Off from my limbs diseases ward,
+
+   My soul from stormy passions guard:
+
+   Let no dark thoughts my steps attend:
+
+   90My life from biting cares defend;
+
+   Lest, mind, borne down by earthly ill,
+
+   To soar should find nor time nor will.
+
+   But grant me with free wing to rise,
+
+   And join the chorus of the skies,
+
+   And there with Thine for ever sing
+
+   The glories of my God and King!
+     __________________________________________________________________
+
+   [12] Lit: A much-talking and much-plotting crowd of demons (i. e.
+   demigods).
+
+   [13] chaire--chairois--chairein. We cannot imitate in English the
+   beautiful play on these words.
+     __________________________________________________________________
+
+Synesius.
+III. [14]
+
+   'Age moi psucha
+
+   (Anapaestic monometer.)
+
+I. (1-11).
+
+II. (11-22).
+
+III. (23-36).
+
+IV. (37-50).
+
+V. (51-67).
+
+VI. (68-75).
+
+VII. (76-85).
+
+VIII. (86-94).
+
+IX. (95-107).
+
+X. (108-117).
+
+XI. (118-125).
+
+XII. (126-137).
+
+XIII. (138-146).
+
+XIV. (147-157).
+
+XV. (158-165).
+
+XVI. (166-173).
+
+XVII. (174-183).
+
+XVIII. (184-190).
+
+XIX. (191-198).
+
+XX. (199-209).
+
+XXI. (210-216).
+
+XXII. (217-224).
+
+XXIII. (225-231).
+
+XXIV. (232-240).
+
+XXV. (241-253)
+
+XXVI. (254-265).
+
+XXVII. (266-275).
+
+XXVIII. (276-285).
+
+XXIX. (286-300).
+
+XXX. (301-311).
+
+XXXI. (312-319).
+
+XXXII. (320-328).
+
+XXXIII. (329-334).
+
+XXXIV. (335-342).
+
+XXXV. (343-357).
+
+XXXVI. (358-367).
+
+XXXVII. (368-374).
+
+XXXVIII. (375-380).
+
+XXXIX. (381-391).
+
+XL. (392-400).
+
+XLI. (402-409).
+
+XLII. (410-416).
+
+XLIII. (417-427).
+
+XLIV. (428-440).
+
+XLV. (441-454).
+
+XLVI. (455-462).
+
+XLVII. (463-473).
+
+XLVIII. (474-489).
+
+XLIX. (490-497).
+
+L. (498-505).
+
+LI. (506-523).
+
+LII. (524-532).
+
+LIII. (533-543).
+
+LIV. (544-553).
+
+LV. (544-563).
+
+LVI. (564-574).
+
+LVII. (575-585).
+
+LVIII. (586-592).
+
+LIX. (593-602).
+
+LX. (603-611).
+
+LXI. (612-627).
+
+LXII. (628-635).
+
+LXIII. (636-645),
+
+LXIV. (646-653).
+
+LXV. (654-661).
+
+LXVI. (662-670).
+
+LXVII. (672-683).
+
+LXVIII. (684-693).
+
+LXIX. (694-703).
+
+LXX. (704-713).
+
+LXXI. (714-725).
+
+LXXII. (726-734).
+
+
+   Lift up thyself, my soul,
+
+   Above this world's control!
+
+   Spend and be spent in holy hymns of praise:
+
+   Be armed with pure desire,
+
+   Burn with celestial fire:
+
+   Unto the King of gods our voice we raise:
+
+   To Him a crown we weave, and bring
+
+   A sacrifice of words, a bloodless offering.
+
+
+   Thee on the troubled deep,
+
+   Thee o'er the islands steep,
+
+   Thee through the mighty continents of land,
+
+   Thee in the city's throng,
+
+   Or mountain tops along,
+
+   Or when in celebrated plains I stand,
+
+   Thee, Thee, O blessed One, I sing,
+
+   Thee, Thee, O Father of the world, Eternal King!
+
+
+   Thy praise I hymn by night,
+
+   Thy praise at morning light,
+
+   Thy praise by day, Thy praise at eventide.
+
+   This know the hoary stars,
+
+   And moon with silver bars,
+
+   And chiefly he that doth on high preside
+
+   O'er all the host of heaven, the sun,
+
+   Who measuring time for holy souls his course doth run.
+
+
+   Fain to thy folds I sped,
+
+   And to Thy bosom fled,
+
+   Winging my steps from Matter's wide-spread rule:
+
+   Now on famed mountain peak,
+
+   Thy face alone to seek;
+
+   Now on the plain I hailed thy vestibule.
+
+   A suppliant thus to many a shrine
+
+   Of sacred rites I came, and mysteries divine.
+
+
+   And now to southern land,
+
+   And Libya's desert strand
+
+   I roamed, where neither godless spirit reigns,
+
+   Nor teeming cities' strife
+
+   Calls men to busy life;
+
+   That so my soul, from woeful toils and pains
+
+   And passions' war and groans set free,
+
+   And all the ills of fate, might harmonize with Thee.
+
+
+   And might, in blest relief,
+
+   Unshackled now from grief,
+
+   With lips and tongue all cleansed, and hallowed mind,
+
+   Repay the hymn to Thee,
+
+   The hymn full due from me.
+
+   Be Earth and Ether holily combined
+
+   And Air and Sea with one accord
+
+   Be still, and join in adoration to the Lord!
+
+
+   Swift breath of winds, be still,
+
+   And whirling pool and rill,
+
+   And floods that are at rivers' mouths forth hurled;
+
+   And streams from fountain-heads
+
+   That rush down rocky beds:
+
+   And hushed be ye, deep hollows of the world;
+
+   While breath in holy hymns is spent,
+
+   And sacrifice of praise in upward strains is sent.
+
+
+   Down sink the serpent's trail!
+
+   Nor let their craft prevail!
+
+   Down sink the wingèd dragon underground;
+
+   Who loves to cloud the soul,
+
+   The god who doth control
+
+   This lower world, and idol-worship found,
+
+   And urgeth on the dogs of hell
+
+   Against God's praying people, His true Israel!
+
+
+   O blessèd Father, Friend,
+
+   My soul do Thou defend.
+
+   From soul-devouring dogs; defend my prayer,
+
+   Defend my deeds, my life,
+
+   From their destructive strife
+
+   And charge Thy holy angels, that they bear
+
+   To Thee this offering of my mind:
+
+   For hymns they carry that with Thee acceptance find.
+
+
+   Now am I borne along
+
+   To lists of sacred song:
+
+   Now holy words in streams spontaneous flow:
+
+   A voice within me rings,
+
+   And toucheth my heart-strings:
+
+   But unto me, O Father, mercy show;
+
+   Forgive, O Blessèd, if I stray,
+
+   In theme divine, and miss the rightful ordered way.
+
+
+   What eye can steadfast gaze,
+
+   When Thy dread beacons blaze?
+
+   What eye so wise, so strong, of mortal man,
+
+   That it unclosed may bear
+
+   Thy vivid lightning's glare?
+
+   E'en of the mighty ones on high none can,
+
+   However strong, however bold,
+
+   The glorious brightness of Thy Majesty behold.
+
+
+   Now aims the mind too far,
+
+   And finds repelling bar,
+
+   Nor can it penetrate by utmost strain
+
+   The depths so dazzling bright,
+
+   Where Thou dost dwell in light:
+
+   So, falling back from efforts feebly vain,
+
+   It courts within its proper scope
+
+   An object known whereon to fix the eye of hope;
+
+
+   That for Thy hymns it might
+
+   Thence pluck fair flowers of light,
+
+   Nor leave to thankless winds an offering:
+
+   But render back to Thee
+
+   Thine own, for Thine they be;
+
+   For what of all things is not Thine, O King?
+
+   O Father of all fathers, Thou!
+
+   To Thine eternal Fatherhood all beings bow!
+
+
+   But Father Thou hadst none;
+
+   Thou art the self-sprung One,
+
+   Before all worlds the sole great Mind existing:
+
+   Germ of whate'er we see,
+
+   Spur of all things that be
+
+   Root of first worlds, by Thee alone subsisting:
+
+   Light of all light, Truth's basis sure;
+
+   And Wisdom's everflowing stream, and fountain pure.
+
+
+   O Mind immutable!
+
+   O Light inscrutable!
+
+   Thine is the eye that guides the lightning fire:
+
+   In Thee the ages live,
+
+   Thou dost their limits give;
+
+   Who can Thy praises reach, Eternal Sire?
+
+   Thou art beyond the dreams of men;
+
+   Beyond the reach of mind, or highest angel's ken.
+
+
+   O'er all Thy rule is spread,
+
+   The living and the dead;
+
+   To minds that be, the parent Mind Thou art;
+
+   All heaven Thou dost control,
+
+   Thou nourishest the soul,
+
+   And dost to spirit energy impart;
+
+   The Spring Thou art whence all things flow,
+
+   And from eternity the Root whence all things grow.
+
+
+   The only One, yet all;
+
+   In Thee all numbers fall;
+
+   The only One, yet countless evermore:
+
+   The self-existent Mind,
+
+   Yet mind with law combined;
+
+   Mind's realm, yet all the realm of mind before:
+
+   Through all, yet all beyond, art Thou:
+
+   To Thee, the Seed of all existing things, we bow.
+
+
+   Thou art the Eternal Root,
+
+   Thou art the spreading Shoot!
+
+   Or male or female Thou be called, 'tis one;
+
+   To mind Thou nature art,
+
+   And dost Thyself impart,
+
+   But mind enlightened ne'er can say, 'tis done;
+
+   But here and there a word outpours,
+
+   While feebly it the unfathomed depth around explores.
+
+
+   Thou art the Parent Tree,
+
+   All have their life from Thee,
+
+   Or stem or branch, whatever is, is Thine.
+
+   Thou art the Light of light,
+
+   The Light of day so bright,
+
+   The Light that shineth evermore Divine:
+
+   Thou art, again, the hidden Light,
+
+   By its own glory hidden far from mortal sight.
+
+
+   Yet one, yet all, one Lord,
+
+   One only, yet forth poured,
+
+   Through all forth poured in holy Mystery:
+
+   Of Thee thus sprung the Son,
+
+   Wisdom, the glorious One,
+
+   Creator of the universe to be.
+
+   The Godhead severed into twain
+
+   By birth ineffable, unsevered doth remain.
+
+
+   Yet One, though Twain, though Three:
+
+   Mysterious Trinity!
+
+   For Thou art One in Three, and Three in One.
+
+   I sing Thee, Unity!
+
+   I sing Thee, Trinity!
+
+   The Triune King, the Father, Spirit, Son!
+
+   The Light divided is not spent,
+
+   The One pervading mind, though parted, is not rent.
+
+
+   Thy holy Will is done,
+
+   'Tis through the Eternal Son;
+
+   And from the outpoured Godhead forth there springs,
+
+   Which cannot be exprest
+
+   In words, the Spirit Blest,
+
+   The Uncreated! we of wondrous things
+
+   Have spoken; but we speak not there:
+
+   We dare not if we could, we could not if we dare.
+
+
+   Who knows the Eternal Laws?
+
+   Who knows the First Great Cause?
+
+   We may not say a Second, or a Third.
+
+   O Birth beyond our reach;
+
+   O Spring defying speech!
+
+   What mortal to the task himself could gird?
+
+   O matchless Holy One, between
+
+   The Father and the Son Thy Light doth intervene.
+
+
+   All reverence to Thee,
+
+   Eternal Spirit, be!
+
+   Thou of the Three the middle rank dost hold.
+
+   And now, most glorious Son,
+
+   Thy praises be begun!
+
+   Thy birth, thy generation, is untold:
+
+   The Father's Son, the Father's Will,
+
+   With Him Thou present wast, and present Thou art still.
+
+
+   Thou with the Father art,
+
+   And ever next His heart;
+
+   Nor can deep flowing Time Thy birth reveal;
+
+   Nor aged Aeon say
+
+   When was Thy natal day;
+
+   He never learned, nor could remove the seal.
+
+   Son with the Father! He the same
+
+   Who should hereafter give to Aeon birth and name.
+
+
+   Who hath adjudged the eye
+
+   Into God's depths to pry?
+
+   The subtle tongue will dare, but man is blind.
+
+   Such daring is in vain,
+
+   'Tis godless, and profane.
+
+   Thou dost to Thine pour light upon the mind,
+
+   And guard their hearts with holy care,
+
+   That they in darkness sink not through gross matter's snare.
+
+
+   To Thee all holy praise
+
+   It well befits to raise;
+
+   For Thou of all art Father, all are Thine:
+
+   Thou all the worlds didst found,
+
+   Thou dost all ages bound,
+
+   Thou framedst all the host of heaven divine;
+
+   To Thee all minds of light do sing,
+
+   And starry spheres intelligent hail thee their King!
+
+
+   While round in holy choir
+
+   Dance their bright orbs of fire,
+
+   The blest ones all do shout and sing before Thee;
+
+   The world within, around,
+
+   They all Thy praise resound,
+
+   All in their stations evermore adore Thee:
+
+   Those in the zones; and those outside,
+
+   Who yet their several posts assigned in wisdom guide.
+
+
+   These come to guard, or tame,
+
+   Earth's helmsmen, sons of fame;
+
+   Of link angelic, and who draw their birth
+
+   From old heroic race;
+
+   Who ever take their place,
+
+   By hidden ways, o'er men and things of earth:
+
+   And though of an unyielding will,
+
+   To dark-rayed worldly glories ever yield they still.
+
+
+   To Thee blithe nature sings,
+
+   And all from her that springs:
+
+   For Thou with heavenly breath dost them renew,
+
+   Forth pouring from above
+
+   Thy stores of grace and love,
+
+   Which ever fresh descend in showers and dew;
+
+   Thou to all nature nature art,
+
+   O Lord of worlds unstained! and dost Thine own impart.
+
+
+   For nature Thou didst train
+
+   And school, that she again
+
+   Might parent be of every mortal thing;
+
+   The faithful counterpart
+
+   Of all that Thyself art,
+
+   Of life and health the everflowing spring!
+
+   That to the world's extremest bound
+
+   Each part in turn with living beauty might be crowned.
+
+
+   For it were never right
+
+   That things should jar and fight,
+
+   Or dregs of earth with excellence contend;
+
+   But all by Thy decree
+
+   Is wrought in harmony;
+
+   Nor aught shall perish, nor the chorus end;
+
+   But each from other takes its share,
+
+   And all through one another taste Thy loving care.
+
+
+   The eternal wheel revolves,
+
+   And the dark riddle solves;
+
+   Things die; Thou sendest forth Thy breath, they live,
+
+   And in fresh glory bloom,
+
+   Renewed from mortal doom.
+
+   Thus nurtured nature nurturing doth give;
+
+   And she doth sing a deathless song
+
+   To Thee by all her children through the ages long.
+
+
+   In colour or in skin,
+
+   Without, or life within,
+
+   And deeds, however varied they may be,
+
+   Yet nature moulds them all
+
+   Obedient to her call;
+
+   And links them fast in holy unity;
+
+   And from all creatures thus doth raise
+
+   Of differing voices one harmonious hymn of praise.
+
+
+   To Thee, their Lord and King,
+
+   All things their tribute bring
+
+   Of ceaseless praise; the night, the morn, the sky,
+
+   The lightning flash, the snow,
+
+   And things that spring and grow;
+
+   All bodies and all spirits; birds that fly,
+
+   And beasts that graze; seeds, plants, and roots;
+
+   The sea with all that swims, and earth with all her fruits.
+
+
+   The waves of trouble roll;
+
+   Look Thou upon my soul,
+
+   To act so powerless, to learn so slow,
+
+   Where on Thy Libyan sands
+
+   The mystic temple stands;
+
+   For hither I, Thy holy will to know,
+
+   Oppressed with grief, my steps have bent,
+
+   On prayer and supplication unto Thee intent.
+
+
+   Before Thy favouring eye
+
+   Earth's gloomy vapours fly:
+
+   Look Thou on me, and bid my sorrows cease.
+
+   'Tis so! e'en now my heart
+
+   Through food Thy hymns impart--
+
+   For Thine they are--hath nourishment of peace,
+
+   And points my mind with keen desire
+
+   To rise afresh to thoughts and words of heavenly fire.
+
+
+   But send, O King, Thy light,
+
+   To quicken my dull sight,
+
+   And guide me on the road that leads to Thee.
+
+   And, Father, grant, I pray,
+
+   That from the body's sway
+
+   My better part, escaping, may be free,
+
+   And not again be downward hurled
+
+   Beneath the floods and eddies of this troubled world.
+
+
+   Yet here, while in the strife
+
+   Of world-enchainèd life,
+
+   O Blessèd, may kind fortune smile on me;
+
+   Nor stormy tempest blow
+
+   To check the holy glow,
+
+   Or rudely break the mind's tranquillity;
+
+   Lest inrush of the worldly flood
+
+   Should leave to me no leisure for the things of God.
+
+
+   And whereto I have striven,
+
+   By grace which Thou hast given,
+
+   (For all good gifts of help and strength are Thine),
+
+   May I the ground retain,
+
+   Nor e'er fall back again.
+
+   For which Thy gifts this humble wreath of mine
+
+   From holy fields to Thee I bring,
+
+   O Thou of all creations pure the Eternal King;
+
+
+   To Thee and to Thy Son,
+
+   Thine own, the only One,
+
+   Alone of Thee begotten, the All-wise,
+
+   Whom from eternity
+
+   Thou hadst, and hast, with Thee,
+
+   Though forth from Thee He came to harmonize
+
+   All things, and fashion, form, and guide,
+
+   By wisdom's breath outpoured, and over all preside.
+
+
+   The hoary ages wake,
+
+   And their due course take,
+
+   At his command; and of His matchless skill,
+
+   And workmanship divine,
+
+   As if by plumb and line,
+
+   This rugged world He mouldeth to His will,
+
+   Whate'er exists above the ground,
+
+   Or on its surface, or within its depths profound.
+
+
+   And merciful and kind
+
+   He shines with holy mind
+
+   On toiling mortals; and doth bring relief;
+
+   For He doth loose the chain
+
+   Of toilsome care and pain;
+
+   Effects their good, and drives away their grief.
+
+   The God who did the world create,
+
+   What marvel that His own He guard from whelming fate?
+
+
+   And hither southward now,
+
+   That I might pay this vow
+
+   To Thee the mighty world's eternal guide,
+
+   I came from northern Thrace,
+
+   Where three years' dreary space
+
+   Near the Imperial Court I did abide,
+
+   In toil, with tears and anguish sore,
+
+   For on my shoulders I my mother country bore,
+
+
+   And well Thou know'st, good Lord,
+
+   How from my limbs was poured
+
+   A sweat of agony from day to day:
+
+   Nor rest had I by night
+
+   In that dire mental fight:
+
+   But watered was the couch on which I lay
+
+   From streaming eyes. Then to and fro,
+
+   To every shrine a suppliant I made haste to go.
+
+
+   To all in turn I bring
+
+   Prayer, chaplet, offering,
+
+   And water with my tears each sacred floor,
+
+   That I might not with pain
+
+   Have journey made in vain,
+
+   But that Thou wouldst wide-open hopeful door.
+
+   Thus in my own and country's need
+
+   I with Thy holy ones through fruitful Thrace did plead;
+
+
+   And who across the main,
+
+   Guard Carthaginian plain,
+
+   I sought them all, if they might succour me,
+
+   Throughout the region round,
+
+   Whom Thou with rays hadst crowned
+
+   Angelic, Thine attendant saints to be.
+
+   The blest ones helped my eager prayers,
+
+   They helped my many toils, and soothed my many cares.
+
+
+   Life did no pleasure yield,
+
+   While my poor country reeled
+
+   Half stunned: but Thou hast righted her, O King!
+
+   The Rock of Ages Thou,
+
+   To whom the world doth bow!
+
+   Crushed were my limbs, my soul a lifeless thing:
+
+   But Thou from Heaven hast breathed at length
+
+   New vigour on my soul, and on my limbs new strength.
+
+
+   For Thou hast-brought relief,
+
+   And stayed o'erflowing grief:
+
+   Toils have an end, the wearied soul hath rest.
+
+   'Twas by Thy wisdom planned,
+
+   'Twas wrought out by Thy hand.
+
+   Thou to my mind hast given refreshment blest.
+
+   Now, O my God, do Thou ordain,
+
+   That to the Libyans these Thine own sweet gifts remain;
+
+
+   Of our long tribulation,
+
+   Of Thy so great Salvation,
+
+   A lasting record! Hear Thy suppliant's prayer;
+
+   And henceforth may my life
+
+   Be safe from harmful strife.
+
+   Loose me from toil, disease, and deadly care.
+
+   Thus to Thy servant bow Thine ear,
+
+   And grant my mental life be ever bright and clear.
+
+
+   I would not showers of wealth
+
+   To try the soul's best health,
+
+   And leave no leisure for the things divine;
+
+   Nor poverty would I,
+
+   With downcast sullen eye,
+
+   Black spectre to the house, prone to repine,
+
+   Bowed down to earth with earthly cares.
+
+   Both grovel on the ground, and both are dangerous snares.
+
+
+   And both forgetful are
+
+   Of better things by far,
+
+   The mind, and all that to the mind doth cling,
+
+   Unless, O heavenly Friend,
+
+   Thou shouldst Thy help extend.
+
+   Yea, Father, wisdom's holy self and spring,
+
+   Upon this faltering soul of mine
+
+   The light of mind from Thine own bosom cause to shine.
+
+
+   And on my heart, I pray,
+
+   Turn Thou blest wisdom's ray,
+
+   With helping hand, and point the holy road
+
+   That leadeth unto Thee;
+
+   And set Thy seal on me,
+
+   And let me have the token of my God;
+
+   And from my life, and from my prayer,
+
+   Drive earthly demons of presumption and despair.
+
+
+   And may my body be
+
+   From all dishonour free,
+
+   As fortress unassailable to foe;
+
+   And may my spirit pure
+
+   Unto the end endure
+
+   By Thine all-saving help. Full well I know,
+
+   That I do bear dark worldly stain,
+
+   And held in bondage am by earthly passions' chain;
+
+
+   But Thou deliverer art,
+
+   And cleanser of the heart.
+
+   From evils circling round escape afford,
+
+   And from diseases all,
+
+   And bonds that fret and gall.
+
+   I bear Thy seed, of noble mind, good Lord,
+
+   A spark that issued forth from Thee,
+
+   And flashing down through depths of matter lit on me.
+
+
+   For in the world, O King,
+
+   Thou mad'st a soul to spring,
+
+   And in the body, through the soul, a mind:
+
+   O pity then Thine own,
+
+   The handmaid from Thy throne:
+
+   From Thee descending, hapless I did bind
+
+   Myself as labourer free to earth:
+
+   Not labourer now, but slave, downfallen from my birth.
+
+
+   For, me the world around
+
+   With witchery hath bound,
+
+   Some little strength may yet remain in me
+
+   Of secret inner light,
+
+   Not yet extinguished quite:
+
+   But o'er my head is rolled a mighty sea,
+
+   That doth make blind the mental eye
+
+   That would its God and things of heavenly worth descry.
+
+
+   O look with pitying eye,
+
+   And hear the mournful cry
+
+   Of Thine own child, O Father good and kind:
+
+   Whom oft when she would rise
+
+   Up to her native skies,
+
+   Impelled by holy efforts of the mind,
+
+   Yet fascination of this world
+
+   Hath choked, and back to earth's dark mazes hurled.
+
+
+   But O! send forth Thy light,
+
+   A beacon fire through night,
+
+   To guide' and cheer me on my upward way;
+
+   And may that seed take root,
+
+   And, striking out its shoot
+
+   From small beginning, bead of flower display.
+
+   O Father, such Thy help divine,
+
+   Enthrone me in the light of life above to shine;
+
+
+   Where nature cannot clasp
+
+   With her resistless grasp:
+
+   And whence no longer earth, or web of fate,
+
+   Can back recall to woe
+
+   And vain desires below.
+
+   Let brood deceitful that I scorn and hate
+
+   Of worldly passions scattered be,
+
+   And leave thy servant, O my God, at peace with Thee!
+
+
+   Me and earth's din betwixt
+
+   Be fiery barrier fixed.
+
+   Thy grace, O Father, to my soul reveal;
+
+   And let thy suppliant find,
+
+   With outspread wings of mind,
+
+   The ascending path, and bear aloft Thy seal,
+
+   A terror to the up-springing foe,
+
+   Who breathe to mortals godless thoughts from depths below;
+
+
+   But badge and token known
+
+   To those about Thy throne,
+
+   The holy ones, who all the heights survey
+
+   Of Thy bright world, and stand
+
+   As guards in high command,
+
+   Bearing the keys of upward fiery way,
+
+   That they may give an entrance free,
+
+   And open wide the gates of heavenly light to me.
+
+
+   But still while creeping here
+
+   Upon this empty sphere
+
+   Of earth, yet not of earth grant me to be;
+
+   But from a better root
+
+   E'en here attesting fruit
+
+   To bear of fire-proved deeds, my God, to Thee;
+
+   And Thy true voice to hear and know,
+
+   And whate'er warms and makes in souls blest hope to grow.
+
+
+   It doth me now repent
+
+   Of life on earth ill-spent:
+
+   Begone, the blear-eyed haze of godless men,
+
+   And built-up cities' strength
+
+   Begone, ye breadth and length
+
+   Of worldly aims, nor harass me again,
+
+   Ye sweet calamities, ye toys
+
+   Of mighty seeming, bootless boons, and joyless joys.
+
+
+   Tranced by your bravery
+
+   The soul in slavery
+
+   To earth is held; and wretched is indeed;
+
+   For of her own good things
+
+   This cup oblivion brings:
+
+   And things, wherewith to satisfy her need
+
+   She hoped, are forthwith snatched away;
+
+   And from vain dream she wakes to envy's shaft a prey.
+
+
+   For fortune here below
+
+   A double face doth show,
+
+   False queen: whom if you haply win and trust,
+
+   And in her livery shine,
+
+   And at her table dine,
+
+   Soon rue your lot with bitter tears you must,
+
+   When down from pedestal so high
+
+   You fall in widespread ruin, and neglected lie.
+
+
+   For here, from adverse sides,
+
+   Now good, now ill, betides:
+
+   To mortals such is life's necessity.
+
+   To God, or what hath birth
+
+   From God, but not to earth,
+
+   Is good unmingled with adversity.
+
+   Did cup of sweets intoxicate?
+
+   Ensnared I learnt by crop of woes a lesson late.
+
+
+   I hate these laws of change
+
+   And hence now upward range,
+
+   With wings expanded, to the peaceful sky:
+
+   To bright ethereal plains,
+
+   Where my dear Father reigns,
+
+   From earth, and earths two-sided gifts I fly.
+
+   O Steward of the life of mind,
+
+   To Thee I look; with Thee may I acceptance find.
+
+
+   My soul doth hang on Thee:
+
+   Heed Thou Thy suppliant's plea,
+
+   Bound here on earth, yet struggling to ascend
+
+   The upward paths of mind:
+
+   As Thou thus far hast shined,
+
+   O shine yet more: light wings of succour lend
+
+   Snap double passions' bond, and chain
+
+   Of earth unloose, and let my soul her freedom gain.
+
+
+   For nature by these chains
+
+   Her treacherous power obtains,
+
+   And binds me down to earth a helpless prey;
+
+   But from the body freed,
+
+   And all its direful need,
+
+   Grant me to take swift flight to realms of day,
+
+   To Thine own halls and Thine own breast,
+
+   Whence flows the Fountain of the soul; and be at rest.
+
+
+   A drop from Fountain Head
+
+   Poured, forth, to earth I sped,
+
+   An exile and a wanderer from Thee;
+
+   Me now, I pray, restore
+
+   To where I was before:
+
+   With light ancestral may I mingled be!
+
+   Tune Thou my mind with Thine own choir
+
+   In holiness to sing the hymns Thou dost inspire.
+
+
+   Once saved from mortal plight,
+
+   Once mingled with the light,
+
+   O Father, grant I never enter more
+
+   Within earth's black domains
+
+   Of penalties and pains;
+
+   But while I yet am chained to this dark shore,
+
+   And bear life's drudgery below,
+
+   Bid Thou that fortune's breezes on me gently blow.
+     __________________________________________________________________
+
+   [14] In the Greek, however short the metre and however long the ode,
+   there is no weariness from monotony; for the interchange of anapaest,
+   dactyl, and spondee, in the lines of from only four to six syllables
+   each, makes a constant and pleasing variety. But this being impossible
+   in an English translation, I have adopted the measure which Milton so
+   beautifully employs in the Hymn of the Nativity. For the convenience of
+   those who may wish to refer to the original, I mark the lines at the
+   head of each stanza.
+     __________________________________________________________________
+
+Synesius.
+IV.
+
+   Se men archomenas,
+
+   (Anapaestic monometer.)
+
+VIII. (68-79).
+
+II. (10-17).
+
+III. (18-27).
+
+IV. (28-37).
+
+V. (38-48).
+
+VI. (49-59)
+
+VII. (60-67).
+
+VIII. (68-79).
+
+IX. (80-88).
+
+X. (89-95).
+
+XI. (96-109).
+
+XII. (110-124).
+
+XIII. (125-135).
+
+XIV. (136-146).
+
+XV. (147-159).
+
+XVI. (160-170).
+
+XVII. (171-180).
+
+XVIII. (181-192).
+
+XIX. (193-212).
+
+XX. (213-226).
+
+XXI. (227-237).
+
+XXII. (238-250).
+
+XXIII. (252-259).
+
+XXIV. (260-274).
+
+XXV. (275-280).
+
+XXVI. (281-290).
+
+XXVII. (291-299).
+
+
+   To Thee at evening gray,
+
+   To Thee at growth of day,
+
+   To Thee at noon, to Thee at vesper hour,
+
+   And when now fades the light,
+
+   And poured forth is the night,
+
+   (Both night and day are Thine, and show Thy power),
+
+   I sing, O Healer of the soul,
+
+   And of the body too: Thou only mak'st it whole.
+
+
+   And wisdom's spring Thou art,
+
+   And dost of it impart;
+
+   And Thou dost drive diseases far away,
+
+   And unto souls dost give
+
+   Untroubled life to live,
+
+   Which earthly care may not stamp down nor sway,
+
+   Who mother is of pain and woe,
+
+   And all the thousand ills that culminate below.
+
+
+   From which O grant to me
+
+   My life be ever free!
+
+   That I may praise in thankful hymn and song
+
+   The hidden Root of all,
+
+   Nor severed be, nor fall
+
+   From God, through ills that to this world belong.
+
+   To Thee, O Father Blessèd, I will sing,
+
+   Who art of this great universe the glorious King.
+
+
+   Hushed be the world, and still,
+
+   While I my task fulfil,
+
+   And lift to Thee, Supreme, the hymn divine;
+
+   And while my prayers I pour,
+
+   Let all on earth adore!
+
+   For earth, and all her workmanship, is Thine.
+
+   Let blustering winds their tumults cease,
+
+   And rustling trees and shrill-voiced birds be all at peace.
+
+
+   Let ether listener be
+
+   To holy psalmody:
+
+   Let air be silent too: and rapid streams
+
+   Adown the earth that pour,
+
+   And waves that lash the shore,
+
+   Let all be stayed, as it in prayer beseems.
+
+   And demon foes to holy strain,
+
+   Who haunt recesses dark, and in the tombs remain;
+
+
+   Fly they--far, far away--
+
+   While I my offerings pay:
+
+   But all the good, throughout creation's range,
+
+   The happy ones who serve,
+
+   Nor from the precepts swerve
+
+   Of the Great Parent, now in interchange
+
+   Of holy thought and mind may they
+
+   Befriend, and upward these my hymns and prayers convey!
+
+
+   The One, the only One,
+
+   The Father Thou alone,
+
+   The One beginning whence all else began;
+
+   The Fount whence all founts flow,
+
+   The Root whence all roots grow;
+
+   The Good whence good in all its channels ran;
+
+   The Star that to all stars gave birth;
+
+   The World whence sprang all worlds from highest heaven to earth.
+
+
+   The Form of all forms known:
+
+   All beauty is Thine own:
+
+   The hidden Seed, the ages' Parent Prop:
+
+   Of worlds intelligent
+
+   The Father, whence forth sent
+
+   Ambrosial Breath, and floating drop by drop
+
+   Upon embodied bulk, combines
+
+   A second world, which in reflected glory shines.
+
+
+   O Blessèd, Thee I praise,
+
+   Or whether voice I raise,
+
+   Or solemn silence keep; for to Thine ear
+
+   Not more the uttered speech
+
+   Than Mind's still voice doth reach:
+
+   Unuttered though the word, yet Thou dost hear.
+
+   With Thee I praise the First-born One,
+
+   The First-sprung Light, Thine own Begotten only Son.
+
+
+   Thou Lord of power and might,
+
+   Light of the Father light,
+
+   Of the Ineffable the glorious Word;
+
+   With the great Father Thee
+
+   I hymn in unity;
+
+   And Holy Spirit too in blest accord,
+
+   Who did Himself divinely spring
+
+   Forth from the Father and through Thee, with Thee I sing.
+
+
+   True counsel He unfolds
+
+   And middle rule [15] He holds:
+
+   Breath holy! Spur of Father, Spur of Son!
+
+   Self-Parent, and Self-Kin,
+
+   Self-nurtured Root within,
+
+   The Uncreated, Unbegotten One.
+
+   The Eternal glory is out-poured
+
+   Upon the Son: through whom forth springs the Spirit Lord.
+
+
+   God and of God is He,
+
+   Mid light in Trinity.
+
+   Thee Trinity and Unity we name;
+
+   For Thou art Three, yet One,
+
+   The Father, Spirit, Son:
+
+   Though severed, yet unsevered, One the same.
+
+   Forth went the Son to do Thy will,
+
+   And yet with Thee the Father He remaineth still.
+
+
+   Thy rule to bear He goes,
+
+   And upon worlds bestows,
+
+   Whence He Himself received, life's happy store.
+
+   The Word! to Thee I raise
+
+   With the Great Father, praise.
+
+   The Mind of the Ineffable, before
+
+   All worlds, did Thee beget; and Thou
+
+   Begotten art the Father's Word, to whom all bow!
+
+
+   Thou first from the first Root
+
+   Didst spring, the glorious Shoot;
+
+   And since Thy birth all things have birth from Thee.
+
+   The Eternal One, the Seed
+
+   Of all things, so decreed,
+
+   That Thou, first-sown, the Seed of all shouldst be.
+
+   For Thou dost all in all fulfil;
+
+   And 'tis by Thee that nature lived and liveth still;
+
+
+   Where she is highest seen,
+
+   Where in the ranks between,
+
+   Where lowest: all good gifts of quickening powers
+
+   From God the Father she
+
+   Doth taste and hold through Thee.
+
+   Guided by Thee, this ageless sphere of ours
+
+   Turns her strong wheels on easy poles,
+
+   And seventh in the dance of stars unwearied rolls.
+
+
+   The many lights on high
+
+   One surface beautify
+
+   In Thy great world: for Thou dost so ordain:
+
+   And Thou, God's glorious Son,
+
+   Didst make the ages run,
+
+   And in unbroken course dost them sustain.
+
+   All in this globe Thou dost survey,
+
+   And all in circuit tend; and all Thy laws obey.
+
+
+   And in the depths of sky
+
+   Unfathomed we descry
+
+   Thy ruling hand and power; for it is there
+
+   That Thou the stars dost lead,
+
+   And in Light's pastures feed
+
+   The glittering host, with a true Shepherd's care.
+
+   To all in heaven, in earth, below,
+
+   Thou dost their tasks assign, and life on all bestow.
+
+
+   To gods and mortal kind,
+
+   Whoe'er have quaffed of mind,
+
+   By kindly fate, the intellectual shower,
+
+   Thou Lord and Steward art:
+
+   And soul Thou dost impart
+
+   To those whose life hath nought but soul for dower,
+
+   And nature's unrestrained control
+
+   For hangs on Thee the growth of even eyeless soul.
+
+
+   And things that lack Thy breath
+
+   Are yet upheld from death;
+
+   For Thou hast linked them to the One Supreme:
+
+   Whence flows to earth by Thee
+
+   Life's channel still kept free
+
+   Through trackless worlds; and the descending stream
+
+   Of good doth mould this world of ours
+
+   To form of unseen world of highest mental powers.
+
+
+   A second sun hath shone
+
+   This lower world upon:
+
+   Parent of later light: and bright-eyed lord
+
+   Of what doth live to-day,
+
+   To-morrow to decay,
+
+   Base matter: he doth yet to us afford
+
+   All world-born good, by Thy decree;
+
+   And is, O Thou God-born, type visible of Thee.
+
+
+   Beyond mind's utmost reach,
+
+   Beyond all power of speech,
+
+   Ineffable, unknown, O Father dread!
+
+   Thou art of mind the Mind,
+
+   Of souls the Soul combined,
+
+   Of natures all Thou art the Fountain-head.
+
+   Behold! Thy servant bends the knee,
+
+   And down on earth a poor blind suppliant falls to Thee.
+
+
+   But Thou the light dost give,
+
+   The light for mind to live;
+
+   To suppliant soul, O Bless'd, pity show:
+
+   Diseases chase away,
+
+   And cares the soul which slay,
+
+   And shameless earthly dog, and fiendish foe:
+
+   Far from my soul and from my prayer,
+
+   Far from my life and deeds, chase every hurtful snare.
+
+
+   Armed may my body be
+
+   Against the enemy,
+
+   And armed my spirit, and whate'er is mine;
+
+   Nor may he entrance find
+
+   Within my heart or mind.
+
+   Out be he cast, and out, by help Divine,
+
+   Remain, and leave me, and take flight,
+
+   The worldly fiend, who gives to passions strength and might.
+
+
+   And who obstructs the road
+
+   Which upward leads to God;
+
+   And quencheth aspiration's holy flame.
+
+   But, O great King, give me,
+
+   Companion meet to be,
+
+   An angel of Thine own, of holy name,
+
+   Of holy aid, an angel friend,
+
+   Who may God-lighted prayer, and all good deeds defend.
+
+
+   A guardian may he be
+
+   Of soul and life to me,
+
+   And to my prayer and deeds protection yield;
+
+   My body may he save
+
+   From trouble's rushing wave,
+
+   And sickness; and from harm my spirit shield,
+
+   And o'er my soul oblivion pour
+
+   Of earthly passions which disturbed my peace before.
+
+
+   So may I spend my life
+
+   All calm and free from strife!
+
+   So may my soul, in hymning Thy high praise,
+
+   Mount up with strengthened wing
+
+   From earth, and heavenward spring!
+
+   So may I cleanse from worldliness my ways,
+
+   Till I, set free from earth-bound chain,
+
+   No longer subject am to Fate's imperious reign;
+
+
+   But gain those halls above,
+
+   And Thy blest folds of love,
+
+   Whence forth doth flow the fountain of the soul!
+
+   But Thou propitious be,
+
+   And helping hand give me!
+
+   Call me, O Blessèd! all my ways control!
+
+   Hear Thou Thy humble suppliant's cry,
+
+   And lift my soul from earth to native realms on high!
+     __________________________________________________________________
+
+   [15] Middle Rule. See note on line 57, Ode V.
+     __________________________________________________________________
+
+Synesius.
+V.
+
+   'Umn?men kouron eumphas,
+
+   (Tetrapod: spondaic: catalect.)
+
+
+   Awake, our lute, the child to sing
+
+   Of bride unwedded, holy maid;
+
+   True Son of the Eternal King,
+
+   4Ere earth's foundations yet were laid.
+
+
+   Ineffable Thy counsels, Lord,
+
+   Father of all, by which was born
+
+   The Christ! a virgin's throes afford
+
+   8The Light of Life to world forlorn!
+
+
+   A Man! and yet of ages gone,
+
+   And of all ages yet to come,
+
+   Throughout eternity, the One
+
+   12Upholder, Perfecter, and Sum.
+
+
+   Thyself, O Christ, art Fount of Light,
+
+   Light of the Father's Light, bright Ray!
+
+   Dark matter thou didst burst; and night
+
+   16To holy souls Thou turn'st to day.
+
+
+   Yea! Founder of the world Thou art,
+
+   And moulder of each starry sphere:
+
+   To earth her spurs Thou dost impart;
+
+   20While men hail Thee their Saviour dear.
+
+
+   For Thee his chariot Titan drives,
+
+   The quenchless fount of morning light.
+
+   From Thee the bull-faced moon derives
+
+   24Her power to loose the gloom of night.
+
+
+   By Thee the year with fruit is crowned:
+
+   By Thee the flocks and herds are fed:
+
+   Productive Thou dost make the ground;
+
+   28And to the poor Thou givest bread.
+
+
+   For Thou from Thine o'erflowing store
+
+   Of grace ineffable and love,
+
+   O'er surface of all worlds dost pour
+
+   32The fertile sunshine from above.
+
+
+   And from Thy bosom forth did spring
+
+   To life both light, and mind, and soul:
+
+   O pity then Thine own offspring
+
+   36Imprisoned under hard control,
+
+
+   By mortal limbs, by flesh and blood,
+
+   Coerced, and measures stern of fate:
+
+   O save Thine own, Thou great and good,
+
+   40Nor let sick mind sick body hate!
+
+
+   Persuasion to my words nod Thou,
+
+   And to my deeds such honest fame,
+
+   That truth I never disavow,
+
+   44Nor Sparta [16] nor Cyrene shame!
+
+
+   But may my soul, unbowed by grief,
+
+   Draw all her nourishment from Thee,
+
+   Stretching both eyes, in calm relief,
+
+   48Up to Thy light, from sorrow free!
+
+
+   That, cleansed from dregs of worldly soil,
+
+   I may by straight course upward mount,
+
+   And 'scaping from earth's care and toil,
+
+   52Be mingled with the soul's own fount!
+
+
+   Life such of pure content and praise,
+
+   Do Thou to Thy poor harper grant,
+
+   While still to Thee the hymn I raise,
+
+   56And glory to the Father chant,
+
+
+   And Spirit, [17] mid-enthroned compeer,
+
+   The Parent Root and Branch between!
+
+   Be such on earth my bright career,
+
+   60Nor sin nor sorrow intervene;
+
+
+   Until, within the courts above,
+
+   The travail of my soul shall cease,
+
+   Still singing hymns of heavenly love
+
+   64In glory and in perfect peace.
+
+
+   Thee, Thee, the Fount of love, we bless,
+
+   O Father, rock and strength of Thine;
+
+   And Thee alike, His form express,
+
+   68And seal, all beauty, Son Divine;
+
+
+   And Holy Breath, of both the crown,
+
+   Whose quickening gifts like billows roll:
+
+   Thou with the Father, send Him down
+
+   72To cheer and fertilize my soul!
+     __________________________________________________________________
+
+   [16] Synesius was a native of Cyrene, which was an ancient colony of
+   Sparta.
+
+   [17] Here, as elsewhere, Synesius represents the Holy Spirit as seated
+   between the Father and the Son, or holding the middle rank; cf. Ode
+   III. l. 220; Ode IV. l. 97, in which latter place, as if to mend
+   Synesius' theology, some sciolist has made additions contrary to the
+   context, which additions I follow the learned editors in rejecting. In
+   the New Testament the sacred order given in Matt. xxviii. 19, is not
+   strictly or always followed; e. g. 2 Cor. xiii. 14, 1 Pet. i. 2, Rev.
+   i. 4, 5. May this help to explain the difficult passage Heb. xii. 23,
+   24?
+     __________________________________________________________________
+
+Synesius.
+VI.
+
+   Meta magas agias autolocheutou
+
+   (Trimeter ionic.)
+
+
+   Thee, with the holy self-sprung Fount, we sing,
+
+   Who art from all eternity great King,
+
+   God and of God, immortal, glorious One,
+
+   The, only Father's true and only Son!
+
+   To Thee, with Him, our praises all belong;
+
+   Thee will we crown with choicest flowers of song.
+
+   Son of the Father, Thou by birth Divine!
+
+   In Thee all bright the Father's glories shine.
+
+   And from the Father and through Thee, behold!
+
+   10The spirit issues--mystery threefold!
+
+   And takes the middle place [18] of light and mind,
+
+   In Trinity and Unity combined.
+
+   Poured was the sacred Fountain into Thee;
+
+   Yet One it was, and is eternally.
+
+   The Father's Wisdom, Mind, and beauteous Ray,
+
+   Eternal Son, Thou dost to all display.
+
+   Of hidden Deity the outstanding light,
+
+   In Thee the purposes Divine are bright;
+
+   For thus the Eternal Father did decree,
+
+   20That Thou Beginning to all worlds shouldst be;
+
+   And bring to bodies shape and form combined
+
+   With powers, from highest source, of thought and mind.
+
+   The orb of heaven in wisdom Thou dost guide,
+
+   And shepherd o'er the flock of stars preside.
+
+   Thou leader art of angels' choir and band;
+
+   Thou dost the phalanx of God's hosts command.
+
+   And Thou too dost the mortal race befriend,
+
+   And all their paths and wandering steps attend.
+
+   The Spirit undivided Thou dost spread
+
+   30O'er earth, and gather back to fountain-head
+
+   Thy gifts unwasted; for Thou dost unchain
+
+   Death's captives, bringing them to life again.
+
+   Accept, my King, this wreath of hymns, from me;
+
+   And O! propitious to Thy servant be!
+
+   Grant Thou calm life: and stay the wandering tide,
+
+   And bid the flood through worldly straits subside;
+
+   From soul and limbs diseases dire repel;
+
+   And all pernicious rush of passions quell.
+
+   Or wealth or poverty extreme forefend;
+
+   40And to just deeds fame honourable send.
+
+   Among the people good report accord;
+
+   And with persuasion crown the gentle word;
+
+   That waveless thus my mind may reap repose,
+
+   And I ne'er groan oppressed with earth's dark woes;
+
+   But watered from thy heavenly-flowing rill,
+
+   My mind I may with wisdom's produce fill.
+     __________________________________________________________________
+
+   [18] See note on Ode V. 1. 57.
+     __________________________________________________________________
+
+Synesius.
+VII.
+
+   Protos nomon euroman
+
+   (Logaoedic.)
+
+
+   I first invented in Thy praise,
+
+   O Blessèd, these new metric lays.
+
+   Immortal Thou! of virgin mild
+
+   The holy ever glorious Child:
+
+   Hope of the world, salvation's stem,
+
+   O Jesus of Jerusalem!
+
+   To Thee I raise the song on high;
+
+   To Thee my harp-strings joyful ply.
+
+   O show me favour, heavenly King!
+
+   10Accept the music which I bring
+
+   Of holy melodies; for Thou
+
+   Art He to whom my soul doth bow,
+
+   God over all, God's mighty Son,
+
+   The ever blest Immortal One!
+
+   The Eternal Father gave Thee birth;
+
+   Birth Thou hast given to heaven and earth.
+
+   All worlds are Thine; all nature Thine;
+
+   And wisdom infinite, divine.
+
+   In heaven, as God, Thy fame is spread;
+
+   20Below, as mingled with the dead.
+
+   But when the blessèd day had shone
+
+   That Thou shouldst mortal flesh put on
+
+   Of virgin mother, then the star,
+
+   Seen by the magi from afar
+
+   In eastern clime, perplexed their mind
+
+   And varied skill; nor could they find
+
+   Or who, or what, the child might be,
+
+   Or what the hidden deity;
+
+   No answer could their wisdom bring;
+
+   30Or God, or doomed to die, or king.
+
+   'Tis well! meet be your offerings:
+
+   Bring myrrh for death's last sufferings:
+
+   Bring royal presents of fine gold;
+
+   And gifts of frankincense unfold.
+
+   My God! here frankincense behold!
+
+   My King! deign to receive the gold!
+
+   And O! Thou Saviour born to die,
+
+   Myrrh, for Thy tomb let me supply!
+
+   And cleansèd was the earth by Thee,
+
+   40And cleansèd were the waves of sea;
+
+   And all the paths which upward bear,
+
+   In slender element of air;
+
+   And dark recesses underground,
+
+   In succour to the dead there bound,
+
+   By Thee, great Conqueror, were trod;
+
+   And Hades stood aghast at God.
+
+   But O! propitious be, great King!
+
+   Smile on the tribute which I bring
+
+   Of tuneful songs and measured lays
+
+   50Designèd for Thy holy praise.
+     __________________________________________________________________
+
+Synesius.
+VIII.
+
+   'Upo dorion armogan
+
+   (Logaoedic.)
+
+
+   O! 'Tis no theme of common things
+
+   That wakes my ivory-fastened strings!
+
+   To Thee, in solemn Dorian [19] strain,
+
+   I lift my heart and voice amain,
+
+   O blessèd, O Immortal One,
+
+   The holy Virgin's glorious Son!
+
+   But, O great King, save Thou my life
+
+   From cares and woes and worldly strife,
+
+   That from calamity all free
+
+   10Both night and day I may praise Thee.
+
+   And to my mind mayst Thou convey
+
+   From mind's own fount, a clear bright ray.
+
+   Unto my youth mayst Thou impart
+
+   Soundness of limbs and manly heart:
+
+   And may my deeds reflect Thy light
+
+   In honour, truth, and glory bright.
+
+   And on the ripeness of mine age
+
+   Mayst Thou the wisdom of the sage
+
+   Bestow, with health, the blessed mead
+
+   20Of harvest rich from well-sown seed.
+
+   And on that darling son of mine
+
+   May Thy preserving mercy shine,
+
+   Whom, when just passing gate of death,
+
+   Thou didst restore to vital breath.
+
+   O Lord of life, 'twas Thou didst wrench
+
+   From Death's firm grasp, his prey, and quench
+
+   My burning grief in floods of joy;
+
+   For Thou didst give me back my boy;
+
+   And tears, O Father, Thou didst dry,
+
+   30In answer to Thy suppliant's cry!
+
+   May son and daughter, much loved pair,
+
+   Thy kind protection ever share,
+
+   And all my house, in happy calm,
+
+   Be sheltered by Thine hand from harm!
+
+   And, O my Saviour King, bless Thou
+
+   The partner of my wedded vow;
+
+   From sickness and from sorrow free,
+
+   Faithful, one-minded, may she be,
+
+   Preserved by Thee from thought of sin,
+
+   40All bright without, all pure within!
+
+   Untouched by roving passions' tide,
+
+   My honoured wife, my love, my pride!
+
+   Loose Thou my soul from baneful chains
+
+   Of worldly life, its cares and pains,
+
+   And floods of dismal grief and woe,
+
+   Which overwhelm this earth below.
+
+   O! thus prepared may I be found
+
+   With holy worshippers around
+
+   To lead the choir, and chants to raise
+
+   50To Thy all-glorious Father's praise;
+
+   And to Thy majesty, great King,
+
+   Loud hymns again I hope to sing;
+
+   Again in voice of praise Thy name
+
+   To bless, Thy honours to proclaim;
+
+   May be, my harp I shall again
+
+   Tune all-unhurt to highest strain.
+     __________________________________________________________________
+
+   [19] He uses the epithet Dorian in a general sense, to express that
+   which is grave and sublime.
+     __________________________________________________________________
+
+Synesius.
+IX.
+
+   Poluerate, kudime,
+
+   (Logaoedic.)
+
+
+   To Thee, much loved, be honour paid,
+
+   O glorious Child of Hebrew maid!
+
+   To Thee I raise the hymn anew,
+
+   Who didst the serpent's wiles subdue,
+
+   And drive afar the infernal foe
+
+   That filled e'en Paradise with woe:
+
+   For, subtle with forbidden fruit,
+
+   Of woeful knowledge nurse and root,
+
+   Our primal founder he o'ercame,
+
+   10And smote the world with death and shame.
+
+   All-glorious Thou with many a crown!
+
+   Thou didst to wretched earth come down,
+
+   To dwell with man by death assailed,
+
+   Thyself in mortal body veiled;
+
+   And Thou dark Tartarus didst tread,
+
+   Midst countless nations of the dead,
+
+   Then Hades, ancient-born, amazed,
+
+   Did shudder as on Thee he gazed;
+
+   And the all-devouring savage hound [20]
+
+   20Backward recoiled with frightened bound.
+
+   But lo! to holy souls, oppressed
+
+   With direful woes, Thou gavest rest,
+
+   That they in chorus led by Thee,
+
+   To praise the Father might be free.
+
+   And from below when Thou didst rise,
+
+   The demon-hosts beneath the skies,
+
+   Unnumbered, quaked, O mighty King,
+
+   To hear the judgment Thou shouldst bring.
+
+   Then did the stars, immortal band,
+
+   30Gazing at Thee, astonished stand.
+
+   But Ether laughed, the father he--
+
+   The father wise--of harmony;
+
+   And mingled from his seven-toned lyre
+
+   Bright notes of music's holy fire,
+
+   Raising to Lord of earth and sky,
+
+   The song of victory on high.
+
+   And Lucifer, the guide of day,
+
+   With smiling countenance was gay;
+
+   And golden Hesperus afar
+
+   40Shot beams, the Cythereïan star.
+
+   And shepherdess of right, the Moon
+
+   Filled her bright crescent with festoon,
+
+   And flowering wreath of liquid fire,
+
+   And led her peers in joyous choir.
+
+   And through the trackless paths of air
+
+   Titan spread out his flaming hair:
+
+   For God's own Son, the master Mind
+
+   Which did all things create and bind
+
+   In mutual law, full well he knew,
+
+   50From whom his primal fire he drew.
+
+   But Thou, as plying heavenly oar,
+
+   Or wing of bird, didst upward soar
+
+   With holy feet; and o'er the skies
+
+   And dark-blue-vaulted heaven didst rise,
+
+   Up-mounting to the spheres of light,
+
+   The realms of Mind for ever bright.
+
+   There goodness from the Fountain-head
+
+   In bliss through silent heaven is spread;
+
+   There nor deep-flowing restless Time
+
+   60Drags earthborn children through the slime
+
+   Of coarser matter, nor hard fates
+
+   Roll turbid floods o'er mortal states;
+
+   But Age himself, the ancient-sprung,
+
+   Is ageless, old at once, and young;
+
+   And in the unfading courts of love
+
+   is steward to the blest above.
+     __________________________________________________________________
+
+   [20] The fabled Cerberus, Janitor Orci.
+     __________________________________________________________________
+
+Synesius.
+X. [21]
+
+   Mnoeo Christe,
+
+   (Anapaestic monometer.)
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+
+   Lord Jesu, think on me;
+
+   And this poor offering,
+
+   Which I do humbly weave for Thee,
+
+   Accept, O Christ, my King.
+
+
+   Lord Jesu, think on me,
+
+   And purge away my sin:
+
+   From earthborn passions set me free,
+
+   And make me pure within.
+
+
+   Lord Jesu, think on me,
+
+   With care and woe oppressed;
+
+   Let me Thy loving servant be,
+
+   And taste Thy promised rest.
+
+
+   Lord Jesu, think on me
+
+   Amid the battle's strife:
+
+   In all my pain and misery
+
+   Be Thou my Health and Life.
+
+
+   Lord Jesu, think on me,
+
+   Nor let me go astray:
+
+   Through darkness and perplexity
+
+   Point Thou the heavenly way.
+
+
+   Lord Jesu, think on me,
+
+   When flows the tempest high:
+
+   When on doth rush the enemy,
+
+   O Saviour, be Thou nigh.
+
+
+   Lord Jesu, think on me,
+
+   That when the flood is past,
+
+   I may the Eternal Brightness see,
+
+   And share Thy joy at last.
+
+
+   Lord Jesu, think on me,
+
+   And grant me my desire,
+
+   That I, with mind and limbs set free,
+
+   May join the heavenly choir.
+
+
+   Lord Jesu, think, on me,
+
+   That I may sing above
+
+   Praise to the Father, and to Thee,
+
+   And to the Holy Dove.
+     __________________________________________________________________
+
+   [21] In translating this ode I have given my spirit more liberty. It
+   may be considered as a paraphrase or amplification, rather than an
+   exact translation of the original. A brief form of it appears in Hymns
+   Ancient and Modern.
+     __________________________________________________________________
+
+   [3] See The Decline and Fall of the Roman Empire. Oxford edition, 1827,
+   vol. ii. p. 446, and the foot notes. Also vol. iv. pp. 38, 39.
+
+   [4] Christian Antiquities, vol. i. pp. 464-5, London edition, 1843.
+
+   [5] See Ecclesiastical History. London edition, 1845, vol. i. pp. 310,
+   439.
+
+   [6] See the Notes, ibid.
+
+   [7] Gibbon, Decline and Fall, vol. ii. p. 446.
+     __________________________________________________________________
+
+GREGORY
+BISHOP OF NAZIANZUS
+
+   (Born A.D. 325. Died, 389).
+
+   This eminent man needs no introduction from my humble pen. His praises
+   are, and always have been, in the Church. Born near Nazianzus in
+   Cappadocia, he succeeded his father in that episcopate. He cultivated
+   his natural gifts, and increased his learning, at Athens. Thence he
+   went forth to be a champion of the Christian faith, and a luminary in
+   the great Church constellation of the fourth century. After the
+   deliverance from the last effort of paganism contrived and led by the
+   Emperor Julian, who had once been his friend and fellow-collegian, he
+   displayed his great talents and eloquence at Constantinople, of which
+   great Eastern capital for a time he became bishop. But soon he retired
+   to the solitary cell, which he bad before loved and frequented, near
+   his native place, Nazianzus; and there renewed and exercised his gift
+   of sacred poetry, of which, to name but one, his Hymn to God is an
+   undying record, and may bear comparison with any similar composition in
+   any age.
+     __________________________________________________________________
+
+Gregory Nazianzen.
+
+I.
+HYMN TO CHRIST.
+
+   Se ton aphthiton monarchen
+
+   (Dimeter ionicus.)
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+
+   O Thou, the One Supreme,
+
+   O thou, the deathless King,
+
+   Be Thou my only theme:
+
+   Grant me Thyself to sing.
+
+   To Thee the hymn, to Thee the praise,
+
+   Celestial choirs for ever raise.
+
+
+   For Thee the ages run
+
+   In order as was given;
+
+   For Thee shines forth the sun,
+
+   The day-born eye of heaven:
+
+   For Thee the moon, and grand array
+
+   Of stars, hold on their nightly way.
+
+
+   With reasonable soul
+
+   For Thee learns favoured man
+
+   His passions to control,
+
+   And the Divine to scan;
+
+   For Thou of all Creator art,
+
+   Thou madst the whole and every part.
+
+
+   All march in ordered band:
+
+   O'er all Thou hold'st the reins:
+
+   All creatures of Thy hand
+
+   Thy Providence sustains.
+
+   For Thou the word didst speak--'twas done--
+
+   That Word of Thine is God the Son.
+
+
+   For of same honour He,
+
+   Thine own begotten Son,
+
+   In form and quality
+
+   With Thee the Father one:
+
+   Who placed all things in harmony,
+
+   That over all He King might be.
+
+
+   And all Thy works infolding
+
+   In bonds of love and truth,
+
+   The Spirit all-upholding,
+
+   Renews creation's youth
+
+   Foreseeing, He for all provides,
+
+   And Guardian over all presides.
+
+
+   Thee, Thee, the Triune King,
+
+   The One Eternal Lord,
+
+   Thee evermore I'll sing,
+
+   By earth and heaven adored,
+
+   The Three in One, the One in Three,
+
+   The ever-living Trinity.
+
+
+   Immovable of mind,
+
+   Of ways past mortal ken,
+
+   The boundless, undefined,
+
+   Wisdom's deep origin,
+
+   Upholder of the heavenly towers,
+
+   Ruler of all created powers.
+
+
+   Beginning none, nor end:
+
+   The self-sprung Light art Thou:
+
+   We cannot comprehend,
+
+   But to Thy Brightness bow,
+
+   Whose eye, repelling mortal gaze,
+
+   All things above, below, surveys.
+
+
+   Unseen, yet ever near,
+
+   Father, propitious be:
+
+   This my petition hear,
+
+   This boon accord to me:
+
+   That Light to serve through endless day,
+
+   And have my sins all washed away;
+
+
+   That I, with conscience clear
+
+   From every evil thought,
+
+   May love with filial fear,
+
+   And worship as I ought,
+
+   Pure holy hands and heart upraising,
+
+   And Christ the Lord for ever praising.
+
+
+   To Thee I bend the knee;
+
+   When He shall come, grant me,
+
+   That I His glory see,
+
+   That I His servant be:
+
+   When He shall come--shall come again;
+
+   When He shall come--shall come to reign.
+
+
+   Father, propitious be!
+
+   On me Thy mercy show!
+
+   Bow down Thine ear to me,
+
+   On me Thy grace bestow;
+
+   For Thine the glory, Thine the grace,
+
+   While countless ages run their race.
+     __________________________________________________________________
+
+II.
+HYMN TO GOD.
+
+   'O panton epekeina &#38;&#35;183; ti gar themis allo se melpein;
+
+   (Dactylic hexameter.)
+
+1.
+
+2
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+
+   O Thou, the One Supreme o'er all! [22]
+
+   For by what other name
+
+   May we upon Thy greatness call,
+
+   Or celebrate Thy fame?
+
+
+   Ineffable! to Thee what speech
+
+   Can hymns of honour raise?
+
+   Ineffable! what tongue can reach
+
+   The measure of Thy praise?
+
+
+   How, unapproached, shall mind of man
+
+   Descry Thy dazzling throne;
+
+   And pierce, and find Thee out, and scan,
+
+   Where Thou dost dwell alone?
+
+
+   Unuttered Thou! all uttered things
+
+   Have had their birth from Thee:
+
+   The One unknown! from Thee the springs
+
+   Of all we know and see!
+
+
+   Mindful, and mindless, all things yield
+
+   To Thy parental sway
+
+   For Thou to all art life and shield:
+
+   They honour and obey.
+
+
+   For round Thee centre all the woes
+
+   Of night and darkling day,
+
+   The common wants and common throes;
+
+   And all to Thee do pray.
+
+
+   And all things as they move along
+
+   In order fixed by Thee,
+
+   Thy watchword heed, in silent song
+
+   Hymning Thy majesty.
+
+
+   And lo! all things abide in Thee,
+
+   And through the complex whole,
+
+   Thou spread'st Thine own Divinity,
+
+   Thyself of all the goal.
+
+
+   One Being Thou, all things, yet none,
+
+   Nor one nor yet all things;
+
+   How call Thee, O mysterious One?
+
+   A worthy name who brings?
+
+
+   All-named from attributes Thine own,
+
+   How call Thee as we ought?
+
+   Thou art unlimited, alone,
+
+   Beyond the range of thought.
+
+
+   What heaven-born intellect shall rend
+
+   The veiling clouds above?
+
+   Be Thou propitious! ever send
+
+   Bright tokens of Thy love!
+
+
+   O Thou the One Supreme o'er all!
+
+   For by what other name
+
+   May we upon Thy greatness call,
+
+   Or celebrate Thy fame?
+     __________________________________________________________________
+
+   [22] Or, O Thou beyond the range of all--panton epekeina.
+     __________________________________________________________________
+
+III.
+HYMN TO CHRIST ON EASTER DAY
+(AFTER LONG SILENCE),
+
+   Cristi anax, se prvton, epei logon heri dvka,
+   dhnaion katecwn, fqegxom apo stomatwn,
+
+   (Dactylic hexameter, and pentameter.)
+
+
+   O Christ the King! since breath pent up so long
+
+   I have outpoured, Thou first shalt be my song;
+
+   May this my word, the current of my mind,
+
+   If lawful thus to speak, acceptance find,
+
+   And unto Thee as holy incense rise
+
+   Of holiest priest, a grateful sacrifice!
+
+   The Father's Brightness, Word of the Great Mind,
+
+   Who cannot be by power of speech defined,
+
+   High Light of highest Light, the Only Son,
+
+   10Image and Seal of the Immortal One,
+
+   Without beginning; from same Fount of Light
+
+   With the Great Spirit; infinite in might:
+
+   All-glorious Thou, and Author of all good:
+
+   From age to age Thy truth hath firmly stood.
+
+   Enthroned Thou reignest high in heaven above,
+
+   Almighty Breath of Mind and Lord of Love.
+
+   Throughout this framèd universe Divine
+
+   Whatever is, or shall be, all is Thine:
+
+   Thou madest all, to all Thou givest life,
+
+   20And all Thou guidest: nowhere fault or strife,
+
+   Nor error in Thy workmanship is found:
+
+   The whole in willing chain to Thee is bound.
+
+   Thou laid'st the world's foundation: and Thy nod
+
+   All things obey, and own their Sovereign God.
+
+   For Thee the lofty sun, the king of day,
+
+   Quenching the stars, holds on his fiery way.
+
+   For Thee, for so Thou bidst, the eye of night,
+
+   The moon, waxes and wanes, full orb of light.
+
+   For Thee the belt of heaven, all-dancing ring,
+
+   30And seasons kindly mingling, laugh and sing.
+
+   For Thee the fixèd stars and planets shine
+
+   In course, and speak Thy wisdom all divine.
+
+   Thy light they are, the heavenly minds that be,
+
+   All sing on high the glorious Trinity.
+
+   Man is Thy glory too, angel below,
+
+   Here placed to sing, O Light, Thy beauteous glow.
+
+   Immortal, fleshless, glory's highest ray,
+
+   Who mortal flesh yet took'st, man's woes to stay,
+
+   For Thee I live, for Thee my songs arise,
+
+   40For Thee I am a breathing sacrifice;
+
+   For this, of all things once possessed by me,
+
+   Alone remains, and this I give to Thee.
+
+
+   I tie my tongue, and loose it at Thy will;
+
+   In either, what Thou wouldst may I fulfil,
+
+   Speak what is right, nor think aught else beside:
+
+   From mire select the pearl, with Thee my Guide;
+
+   Gold from the sand, the rose from thorny brake,
+
+   From straw-encumbered ears the pure grain take.
+
+
+   To Thee, O Christ, this wreath of uttered praise,
+
+   50As firstfruits of my loving toil, I raise.
+
+
+   For from the dead, with whom He mingled lay,
+
+   Great Christ arose, upon this gladsome day;
+
+   Gates of grim Hades He did open fling;
+
+   And broke death's power, and robbed him of his sting;
+
+   Rushed from the tomb, appeared to speaking men,
+
+   For whom, once born, He died and rose again;
+
+   That we new-born might rise, from death set free,
+
+   And ever live, ascending Lord, with Thee.
+
+   This day glad Heaven with acclamation rings,
+
+   60And choir angelic crowning anthem sings.
+
+   This day my closèd lips I loose in song
+
+   To Thee, to whom my lute and breath belong.
+
+
+   Of mind to Mind, of word to the true Word,
+
+   I here have offered what I could afford:
+
+   Hereafter, if He will, I hope to bring
+
+   To the Great Spirit worthier offering.
+     __________________________________________________________________
+
+IV.
+"TO HIS OWN SOUL." [23]
+
+   ti soi theleis genesthai;
+
+   (Iambic dimeter catalectic.)
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+EPILOGUE.
+51.
+
+52.
+
+
+   O soul of mine, repining,
+
+   What wouldst have done for thee?
+
+   Speak, great or small defining:
+
+   Granted thy wish shall be.
+
+
+   Of all bright things, prized highest,
+
+   Beneath the rolling sun,
+
+   Tell that for which thou sighest;
+
+   For thee it shall be done.
+
+
+   Wouldst thou assume the measure
+
+   Of Gyges, Lydia's king,
+
+   To hide or show at pleasure
+
+   By power of magic ring?
+
+
+   Wouldst thou rich Midas follow?
+
+   "All gold I touch," he cried:
+
+   'Tis given! e'en gold to swallow:
+
+   So all of gold he died.
+
+
+   Wouldst shine in brilliant trammels,
+
+   With pearls and jewels grand?
+
+   Have flocks, and herds, and camels,
+
+   And acres of fat land?
+
+
+   Such things we will not barter:
+
+   To thee they were a snare:
+
+   They are not in our charter,
+
+   Nor would I have them there.
+
+
+   For since to God advancing
+
+   I came at His own call,
+
+   Such cares the soul entrancing,
+
+   I have abandoned all.
+
+
+   Wouldst have the nations bending
+
+   Beneath thy yoke to day,
+
+   To-morrow thyself lending
+
+   To grace another's sway?
+
+
+   The sway of one, once marching,
+
+   It might be, at thy side;
+
+   Or menial base, now arching
+
+   His neck in lofty pride?
+
+
+   Wouldst thou in Love's sweet anguish,
+
+   In indolence and ease,
+
+   Let truth and honour languish,
+
+   And change with changing breeze?
+
+
+   Wouldst wed a fair Heth's daughter,
+
+   Fair progeny to see?
+
+   Ah me! of woes and slaughter
+
+   Progenitor to be!
+
+
+   Wouldst have the commons sounding
+
+   The greatness of thy fame,
+
+   And theatres rebounding
+
+   With echoes of thy name?
+
+
+   Wouldst thou in courts o'erflowing
+
+   With legal mockery,
+
+   Justice and truth o'erthrowing,
+
+   Pillage, and pillaged be?
+
+
+   Wouldst take a martial bearing,
+
+   And sport with blood and gore?
+
+   Or, Pythian garlands wearing,
+
+   Defy the lion's roar?
+
+
+   Wouldst have the town applauding,
+
+   And statues reared to thee?
+
+   The world thy merits lauding,
+
+   Wouldst thou its idol be?
+
+
+   Vain wish! a shadowy dreaming,
+
+   A moan of wind hence bound,
+
+   Whiz of an arrow gleaming,
+
+   A hand-clap's dying sound.
+
+
+   Such things will fade to-morrow,
+
+   However bright to-day:
+
+   And he must sleep in sorrow
+
+   Who makes them his heart's stay.
+
+
+   Toys common! bad men's heaven!
+
+   And ah! when hence they go,
+
+   To none is it then given
+
+   To carry aught below.
+
+
+   What then, O soul repining,
+
+   Since these things nothing be,
+
+   Substantial good defining,
+
+   Wouldst thou have done for thee?
+
+
+   Wouldst be a god, presiding
+
+   At God's own side most high,
+
+   Angelic chorus guiding,
+
+   All radiant o'er the sky?
+
+
+   Go thou, on pinions gliding
+
+   Of vehement desire,
+
+   On rapid whirlwind riding
+
+   Whither thou dost aspire.
+
+
+   To plume thy wing I'm trying,
+
+   Nor spare the friendly goad:
+
+   Mount upward, bird-like flying
+
+   On thine ethereal road.
+
+
+   But earth's own child on crutches,
+
+   Since, I am yoked to thee,
+
+   As queen in butchers' clutches,
+
+   Just tell how this must be;
+
+
+   Whom wilt thou have abettor,
+
+   To be upheld in breath?
+
+   For I'm no more thy debtor,
+
+   Nor heed vain threats of death.
+
+
+   Or wouldst thou perfumed table,
+
+   With dainties covered o'er,
+
+   So art cuisine be able
+
+   To stimulate thee more?
+
+
+   And lyre, and whirl so maddening
+
+   Of rapid foot and hand,
+
+   And things to tell too saddening,
+
+   Known to the revelling band?
+
+
+   Art thou for such things wrangling?
+
+   Have thy desire!--but wait:
+
+   Such things, not life, but strangling,
+
+   To friends insatiate!
+
+
+   For thee, a house abideth,
+
+   A rock with self-formed dome;
+
+   Nature herself provideth:
+
+   We give thee such a home!
+
+
+   Or if thy fancy leadeth
+
+   To build thyself a cell,
+
+   But little toil it needeth,
+
+   Where thou mayst safely dwell,
+
+
+   The body claims small payment,
+
+   Ere it returns to dust:
+
+   Skins, camel's hair, for raiment
+
+   Sufficed of old the just.
+
+
+   And grass, or straw, as chances,
+
+   Make thou thy humble bed:
+
+   And purple heath, or branches,
+
+   Thy coverlet be spread.
+
+
+   Such for my guests is meetest:
+
+   No fear to great or small:
+
+   Plain table: odours sweetest,
+
+   Kind earth's free gifts to all.
+
+
+   Thus housed, we will thee nourish,
+
+   As best we can afford:
+
+   Wouldst eat? take bread and flourish:
+
+   Take meal, if on the board.
+
+
+   Here's salt: and thyme we scant not:
+
+   Such source no toil requires:
+
+   More luxuries we want not,
+
+   Whate'er the world desires.
+
+
+   Or drink wouldst thou? there springeth
+
+   An everflowing bowl:
+
+   No bane the fountain bringeth,
+
+   Bright cheerer of the soul.
+
+
+   But wouldst unbend in season,
+
+   And not, o'erstrained, repine?
+
+   We grant in this is reason,
+
+   Nor grudge the rough-made wine.
+
+
+   But thou dost spurn all measure,
+
+   And wouldst the vessel bore,
+
+   And take huge draughts of pleasure
+
+   Till thou couldst hold no more.
+
+
+   Then seek another helot,
+
+   All lengths with thee to go,
+
+   No idler I, nor zealot,
+
+   To nurse domestic foe.
+
+
+   A frozen reptile taken,
+
+   And with fond warmth caressed:
+
+   See! it to life doth waken,
+
+   And wound me in the breast.
+
+
+   Wouldst boundless gold-roofed mansions,
+
+   Gemmed paragons of art,
+
+   And master-piece expansions,
+
+   To life which almost start?
+
+
+   Colours with colours blending
+
+   In opposite array;
+
+   Rare tablets, softness lending,
+
+   Or shining bright as day?
+
+
+   Dost long for robes wide-flowing,
+
+   Pride of the untouched great;
+
+   And wealth on fingers glowing,
+
+   Incredible to state?
+
+
+   Art thou at beauty aiming?
+
+   The wise would scorn to win:
+
+   More I than all, proclaiming
+
+   That beauty is within.
+
+
+   Thus I to men benighted,
+
+   of earth the creatures fond,
+
+   For time alone quick-sighted,
+
+   With not a thought beyond.
+
+
+   But ye who soar up higher,
+
+   A noble life to live;
+
+   Who would to heaven be nigher,
+
+   Behold what God doth give!
+
+
+   In poorest clay there dwelleth
+
+   That which can never die:
+
+   With this my bosom swelleth:
+
+   For this I food supply!
+
+
+   God-minded, thyself harden!
+
+   Meet calm the flashing sword!
+
+   Plant trees for God's own garden!
+
+   Be worker, with the Lord!
+
+
+   Up! living words be building,
+
+   In God's blest truth secure.
+
+   Not robbed by foe's false gilding
+
+   Through pleasure's baneful lure!
+
+
+   Again of life eternal,
+
+   Approach the blessèd tree
+
+   The way, O Thou Supernal,
+
+   I've found in knowing Thee.
+
+
+   Past, present, never-ending,
+
+   The One great Light in Three;
+
+   To whom all things are tending:
+
+   To Thee, all glory be!
+
+
+   To self the wise thus speaketh,
+
+   Turning his eyes within;
+
+   And eager there he seeketh
+
+   To find out lurking sin.
+
+
+   But who to speak refuseth,
+
+   Will pass his days in vain:
+
+   Nay, more! the ease he chooseth,
+
+   May end in greatest pain.
+     __________________________________________________________________
+
+   [23] The original is one of the most spirited pieces anywhere to be
+   found, truly forcible and racy.
+     __________________________________________________________________
+
+V.
+A MORNING PRAYER.
+
+   'Orthros [24] didomi t? The? mou dexias,
+
+   (Iambic trimeter.)
+
+
+   'Tis dawn: to God I lift my hand,
+
+   To regulate my way;
+
+   My passions rule, and unmoved stand,
+
+   And give to Thee the day:
+
+
+   Not one dark word or deed of sin,
+
+   Nor one base thought allow;
+
+   But watch all avenues within,
+
+   And wholly keep my vow.
+
+
+   Shamed were my age, should I decline;
+
+   Shamed were Thy table too,
+
+   At which I stand:--the will is mine:
+
+   Give grace, my Christ, to do.
+     __________________________________________________________________
+
+   [24] 'Orthrois violates metre; I would retain the reading orthros, and
+   put a colon. Thus, as it seems to me, grammar, sense, and metre, may be
+   all satisfied.
+     __________________________________________________________________
+
+VI.
+A HYMN AT NIGHT, AFTER FAILURE TO KEEP VOW.
+
+   epseusamen se ten aletheian, loge,
+
+   (Iambic trimeter.)
+
+
+   O Thou, the Word of truth divine!
+
+   All light I have not been,
+
+   Nor kept the day as wholly Thine;
+
+   For Thou dark spots hast seen.
+
+
+   The day is down: night hath prevailed:
+
+   My Lord I have belied;
+
+   I vowed, and thought to do, but failed;
+
+   My steps did somewhere slide.
+
+
+   There came a darkness from below
+
+   Obscuring safety's way.
+
+   Thy light, O Christ, again bestow;
+
+   Turn darkness into day.
+     __________________________________________________________________
+
+VII.
+AN EVENING HYMN.
+
+   Se kai nun eulogoumen,
+
+   (Semi-iambic.)
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+
+   And now again at night,
+
+   O Christ, the living Word,
+
+   Thou Light of the Eternal Light,
+
+   Be Thou by us adored.
+
+
+   Thou dost the Spirit give,
+
+   Third Light, in glory one;
+
+   His grace, by whom alone we live,
+
+   Thou dost refuse to none.
+
+
+   Thou didst the darkness scatter,
+
+   Thou mad'st the light to shine,
+
+   That now through all primeval matter
+
+   Might spring delight divine.
+
+
+   It, a rude mass before,
+
+   From Thee took order new;
+
+   And shapely form, and steadfast law,
+
+   So beautiful to view.
+
+
+   And mind of man with light
+
+   From heaven Thou didst endow,
+
+   By word and wisdom that he might
+
+   Thine image bear below;
+
+
+   And lighted in his soul,
+
+   Thine own great Light might see;
+
+   And thenceforth not in part, but whole,
+
+   Himself all light might be.
+
+
+   And heaven Thou didst array,
+
+   With those bright orbs above;
+
+   And day to night, and night to day,
+
+   Proclaim Thy law of love;
+
+
+   Yielding in turn; the one
+
+   To worn-out flesh brings rest!
+
+   The other calls, "Let work be done!"
+
+   Such work as Thou lov'st best.
+     __________________________________________________________________
+
+VIII.
+ADMONITORY ADDRESS TO A VIRGIN. [25]
+
+   Parthene, numphe Christou,
+
+   (The Greek is of varied metre, arranged in lines of generally seven
+   syllables each.)
+
+
+   O bride of Christ on high,
+
+   Thy Bridegroom glorify!
+
+   Always thyself keep pure,
+
+   In word and wisdom sure,
+
+   That bright with Him all-bright
+
+   Thou e'er mayst dwell in light.
+
+   Far better spouse is He
+
+   Than earthly spouse could be:
+
+   Thy union happier far
+
+   10Than mortal unions are.
+
+   In bodily estate
+
+   Thou yet didst imitate
+
+   The intellectual powers,
+
+   Giving to Him thy hours:
+
+   And didst acquire on earth
+
+   The angels' right of birth.
+
+   'Tis "bind and loose" below,
+
+   Bodies from bodies grow:
+
+   Above each stands alone,
+
+   20Nor loosing there is known.
+
+   Of pure existence, they
+
+   First bear the ethereal ray,
+
+   Spirit and fire: none rests,
+
+   Doing great God's behests.
+
+   But now wild matter found--
+
+   All nature flowing round
+
+   With unresisted force--
+
+   A mingled intercourse;
+
+   But God the flood restrained,
+
+   30And marriage laws ordained.
+
+   But thou hast hence escaped,
+
+   And upward thy course shaped;
+
+   From matter's base alloy
+
+   To spirit's holy joy.
+
+   Mind harmonized with mind,
+
+   Doth truest pleasure find:
+
+   Such harmony is thine,
+
+   A harmony divine.
+
+   With flesh thou war dost wage,
+
+   40And helpest God's image:
+
+   For thou art God's own breath,
+
+   With body yoked till death:
+
+   That out of wrestling sore,
+
+   At length the battle o'er,
+
+   And earth well beaten down,
+
+   Thou mayst receive the crown.
+
+   To marriage also raise,
+
+   But only second praise.
+
+   That is for passion given,
+
+   50This is bright light of heaven:
+
+   That founds a pure offspring,
+
+   This is self-offering.
+
+   This honoured was, we hold,
+
+   At seasons marked of old.
+
+   To this in Paradise
+
+   Lo! Adam testifies:
+
+   For this on Sinai's peak
+
+   Doth Moses also speak;
+
+   And Zachary the priest,
+
+   60Of God's true saints not least,
+
+   And whom we hail the rather
+
+   As the Forerunner's father.
+
+   But marriage hath its need:
+
+   Hence springs a holy seed:
+
+   And hence the virgin [26] bride,
+
+   Honoured at God's own side.
+
+   Yet of the flesh it is, and earth,
+
+   All earthly from its birth.
+
+   When law and shadows ruled,
+
+   70And we were sometime schooled,
+
+   Marriage held sceptre mild,
+
+   Yet like a little child.
+
+   But when the letter died,
+
+   The Spirit was supplied:
+
+   For Christ had come and borne
+
+   In flesh our woes and scorn:
+
+   Had brought Redemption nigh,
+
+   And then ascended high:
+
+   Christ, sprung from Virgin's womb,
+
+   80Christ, Conqueror o'er the tomb.
+
+   Then continence did rise,
+
+   And this base world despise,
+
+   Which should its course have mended,
+
+   And high with Christ ascended.
+
+
+   Thou journey'st well! but haste!
+
+   Behind is fiery waste:
+
+   Take to thy steps good heed,
+
+   And to the mountain speed.
+
+   Cast not one backward glance
+
+   90On Sodom, lest perchance
+
+   Thou, fixed upon the ground,
+
+   A pile of salt be found.
+
+   In battling with the flesh
+
+   Take ever courage fresh,
+
+   Neither by terror bent,
+
+   Nor over-confident.
+
+   Faint not, for He is nigh
+
+   Who will all strength supply.
+
+
+   A spark may kindle hell:
+
+   100Water the flame cloth quell.
+
+   Full means to thee are lent
+
+   For good self-government.
+
+   Let thou the fear of God
+
+   Freeze the rebellious blood:
+
+   Fasting the flesh control:
+
+   Keep watches o'er thy soul,
+
+   And pour it forth in prayer:
+
+   Such thy true weapons are.
+
+   Add tears: and lowly bed,
+
+   110With reeds or rushes spread:
+
+   One constant flame of love
+
+   Rising to God above,
+
+   And lulling all desire
+
+   Which doth not up aspire.
+
+   The fallen rise by thee!
+
+   The shipwrecked pitied be!
+
+   Thyself live out the gale,
+
+   Expanding Hope's bright sail.
+
+
+   They fall not who ne'er rise,
+
+   120But they who try the skies.
+
+   Few mount on pinion wings:
+
+   Straight course to humbler things.
+
+   Fell Lucifer through pride
+
+   Angels in heaven reside.
+
+   One, traitor, sunk in night:
+
+   The eleven are stars of light.
+
+
+   Be pure, be wholly pure,
+
+   Of this make ever sure,
+
+   Lest thou, by heeding not,
+
+   130Christ's spotless robe shouldst spot.
+
+   Let modest be thine eye:
+
+   Thy tongue speak maidenly:
+
+   Thy mind not pandering,
+
+   Thy foot not wandering:
+
+   Nor loud laugh marking thee,
+
+   As one we blush to see.
+
+
+   Thy poor and tarnished wear,
+
+   Thy unadornèd hair,
+
+   I bonour more than pearls,
+
+   140Or silken dress, or curls.
+
+
+   Fair flower is modest face,
+
+   And paleness is true grace:
+
+   And virtues plentiful
+
+   Are braid most beautiful.
+
+   With paints let others dress
+
+   The living God's likeness;
+
+   Live tablet they of sin,
+
+   And all that's base within.
+
+   Whate'er thou hast of beauty,
+
+   150Die let it all to duty:
+
+   But beauty of the soul--
+
+   'Tis God's--it keep thou whole.
+
+
+   Of men, though good they be,
+
+   The sight 'twere best thou flee.
+
+   Some cheat might thee entrance,
+
+   Or be entranced perchance:
+
+   Eye now with eye bespangling,
+
+   And word with word entangling,
+
+   Then cheek with cheek o'erglowing,
+
+   160And mutual passion flowing.
+
+   'Tis well: but not for thee:
+
+   Not thine the accursed tree:
+
+   The tree of Life thy care;
+
+   The serpent's guile beware!
+
+
+   O maiden, hear my word,
+
+   Have thou no other lord;
+
+   Thy Bridegroom reigns above
+
+   And bids thee faithful prove.
+
+   Thou from the flesh hast fled,
+
+   170And it to thee is dead,
+
+   Why turn to it again,
+
+   And make thy work all vain?
+
+   That singleness of thine
+
+   Is a rare gift divine:
+
+   Few they whom it adorns,
+
+   As rose among the thorns.
+
+   Such grace'tis thine to know:
+
+   High o'er the snares below,
+
+   By which the wicked fall,
+
+   180Thou safely passest all.
+
+
+   Lo! one no sooner builds,
+
+   And bridal chamber gilds,
+
+   Than she with mournful gloom
+
+   Forth bears him to the tomb.
+
+   Felt one a father's pride?
+
+   At once the loved child died.
+
+   And oh! the mother's pain
+
+   Of travailing in vain!
+
+
+   And jealousy, ah me!
+
+   190How frightful 'tis to see,
+
+   When each the other taunts,
+
+   Where stolen friendship haunts!
+
+
+   What wormwood and what gall,
+
+   Worst recompence of all,
+
+   To rear up family,
+
+   And then dishonoured be!
+
+
+   One care is thine, one call,
+
+   To look to God in all!
+
+   But little thou dost need:
+
+   200That little God will speed.
+
+
+   Shelter and barley cake
+
+   Sufficient wealth will make:
+
+   Nor shall dire need impart
+
+   Keen edge to tempter's dart,
+
+   As when Christ, hard bestead,
+
+   He bade turn stones to bread.
+
+
+   By thee, however tried,
+
+   Be all base gain denied:
+
+   Fowls of the air God feeds,
+
+   210Sure then His saints He heeds.
+
+
+   Of oil, if faith prevail,
+
+   Thy cruse shall never fail.
+
+   By Cherith's desert brook
+
+   At the great Prophet look!
+
+   To feed him ravens sped:
+
+   So too shalt thou be fed!
+
+
+   How Thecla from the flame, [27]
+
+   And lions, unscathed came,
+
+   Thou know'st: and how great Paul,
+
+   220Preacher of truth to all,
+
+   Bore hunger, thirst, and cold,
+
+   Through death's worst forms still bold;
+
+   That thou might'st look, O maid,
+
+   To God alone for aid,
+
+   Who in the wilderness
+
+   With food can myriads bless.
+
+
+   Lo! beauty fadeth fast,
+
+   Nor will earth's glories last:
+
+   Wealth is a failing stream,
+
+   230And power an empty dream.
+
+
+   But thou, faith's sail unfurled,
+
+   Hast fled this erring world,
+
+   Steering thy course on high
+
+   To realms beyond the sky.
+
+   There in the holy shrine
+
+   Thou shalt for ever shine:
+
+   And there with angels raise
+
+   The song of endless praise!
+
+
+   A better portion far
+
+   240Than sons and daughters are!
+
+
+   But maidens, be ye wise,
+
+   And watch with longing eyes,
+
+   That when Christ shall return
+
+   Your lamps may brightly burn:
+
+   That with the Bridegroom ye
+
+   May enter in, and see
+
+   The beauty and the grace
+
+   Of His own dwelling place,
+
+   And share in truth and love
+
+   250The mysteries above.
+     __________________________________________________________________
+
+   [25] This poem, though lacking the spirit and vigour of the Address to
+   his Soul, may yet find acceptance with some; and though the times are
+   utterly changed, and what in an age of pagan persecution "was good for
+   the present distress" (1 Cor. vii. 26) may be so no longer, yet there
+   is much in it of good instruction: the style is pretty and occasionally
+   elevated.
+
+   [26] Virgin bride--that is, the Church. So Methodius in his Virgins'
+   Song, and all the early Christians. See Rev. xxi. 2, 9, etc.
+
+   [27] Thecla, see The Virgins' Song of Methodius, p. 141.
+     __________________________________________________________________
+     __________________________________________________________________
+
+  PSALM OF THE NAASSENI. [28]
+     __________________________________________________________________
+
+   (THE AUTHOR UNKNOWN.)
+
+   Nomos en genikos tou pantos o protistos noos·
+
+   ((Anapaestic logaoedic.)
+
+
+   The first Eternal Mind was law to all,
+
+   And did the Universe to being call:
+
+   Next, of the First-born forth was chaos spread
+
+   And thirdly, soul on task of labour sped:
+
+   But it in vesture thin, and slight array,
+
+   O'ercome with toil, to death becomes a prey.
+
+   At one time regnant it beholds the light;
+
+   Then soon laments, cast down in piteous plight.
+
+   'Tis hazard all: now joy, now grief, befalls;
+
+   And now it dies, and now fresh life recalls.
+
+   In never-ending labyrinth of woes
+
+   It, wretched, hither now, now hither goes.
+
+   Then Jesus spake: On earth, O Father, see
+
+   How things have strayed in dire perplexity
+
+   Far from Thy Breath: how floods of evil roll,
+
+   And in base matter overwhelm the soul!
+
+   Escape it seeks from bitter woe all round,
+
+   But knows not where a passage may be found.
+
+   O Father, Me upon this errand send:
+
+   Bearing Thy seals, I will the depths descend;
+
+   Throughout whole ages I will make my way,
+
+   All mysteries of darkness turn to day;
+
+   And godlike forms I thenceforth will display:
+
+   Forth Knowledge I will call to quell all strife,
+
+   And upward show the holy paths of life.
+     __________________________________________________________________
+
+   [28] For a full account of the Naasseni, who they were, and what were
+   their opinions, I would refer the reader to Hyppolytus, Antenicene
+   Christian Library, vol. i. book v. Suffice it here to say that they
+   were a learned sect of Gnostics; that they held very strange opinions;
+   but were great hymn makers. A translation of this particular Psalm may
+   be found in the same volume, p. 153. I had made my translation before I
+   was aware of this.
+     __________________________________________________________________
+
+METHODIUS
+BISHOP AND MARTYR
+
+   (Died about A.D. 311).
+
+   Methodius, a father of the Church, and a martyr, was Bishop of Olympas
+   or Patara, in Lycia, and afterwards of Tyre in Palestine. He lived
+   during the last half of the third century, and died a martyr at Chalcis
+   in Greece, probably A.D. 311, during the Diocletian persecution. Jerome
+   [29] ranks him among the popular writers, and commends him especially
+   for the neatness of his style. [30]
+
+   This Virgins' Song of his composing is in twenty-four parts, or
+   strophies, each beginning with a letter of the alphabet in order from A
+   to O. [31] Ten virgins are supposed to be present. Thecla [32] leads,
+   giving the strophy in each case, the rest join in chorus, singing the
+   burden or refrain (ephumnion). The learned editors refer to the
+   Sumposion of Plato, also to the Parthenia of Alcman and Pindar; which
+   Methodius may in part have imitated.
+     __________________________________________________________________
+
+THE VIRGINS' SONG.
+
+   'Anothen, parthenoi, boes egersinekros echos
+
+   (Iambic metre, varied.)
+
+1.
+
+THE REFRAIN.
+
+2.
+
+THE REFRAIN.
+
+3.
+
+THE REFRAIN.
+
+4.
+
+THE REFRAIN.
+
+5.
+
+THE REFRAIN.
+
+6.
+
+THE REFRAIN.
+
+7.
+
+THE REFRAIN.
+
+8.
+
+THE REFRAIN.
+
+9.
+
+THE REFRAIN.
+
+10.
+
+THE REFRAIN.
+
+11.
+
+THE REFRAIN.
+
+12.
+
+THE REFRAIN.
+
+13.
+
+THE REFRAIN.
+
+14.
+
+THE REFRAIN.
+
+15.
+
+THE REFRAIN.
+
+16.
+
+THE REFRAIN.
+
+17.
+
+THE REFRAIN.
+
+18.
+
+THE REFRAIN.
+
+19.
+
+THE REFRAIN.
+
+20.
+
+THE REFRAIN.
+
+21.
+
+THE REFRAIN.
+
+22.
+
+THE REFRAIN.
+
+23.
+
+THE REFRAIN.
+
+24.
+
+THE REFRAIN.
+
+
+   The Bridegroom cometh! overhead
+
+   The shout descending wakes the dead!
+
+   Go forth to meet the King,
+
+   The gates just entering!
+
+   Virgins, white-robed, with lamps haste eastward forth to meet Him,
+
+   Haste ye, O haste to greet Him!
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Earth's mournful bliss I left, and toys
+
+   Of wanton life, and foolish joys:
+
+   To Thee alone I cling:
+
+   Thou art my Life, my King:
+
+   Grant that I may, O Blessèd, ever close to Thee,
+
+   Thy royal beauty see!
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Thou art my wealth: for Thee I fled
+
+   All worldly lure; and upward sped;
+
+   And come in spotless dress
+
+   Of Thine own Righteousness,
+
+   With Thee to enter in the bridal chamber gates,
+
+   Where perfect bliss awaits.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Saved from the dragon's myriad wiles,
+
+   By which the simple he beguiles,
+
+   I bore the dreadful fire,
+
+   And wild beasts' savage ire;
+
+   Waiting till Thou from Heaven, O Hope of all creation,
+
+   shouldst come to my salvation!
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   My home and country for Thy sake,
+
+   And maiden dance, I did forsake,
+
+   And mother's pride and race,
+
+   And thoughts of rank and place;
+
+   For Thou, O Christ the Word, art all in all to me:
+
+   I long for naught save Thee!
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Hail! Christ the Life, unchanging Day,
+
+   Accept this humble virgin lay:
+
+   To Thee our song of praise
+
+   With heart and voice we raise!
+
+   In Thee, O Thou perfection's flower, O Word Divine,
+
+   Love, joy, mind, wisdom, shine.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   O Bride, triumphant now in light,
+
+   And clad in robes of purest white,
+
+   Sweet-breathing, sinless, free,
+
+   Ope wide the gates to me:
+
+   Sit we in self-same company near Christ above,
+
+   And sing thy marriage, Love!
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Ah me! some virgins vainly pour
+
+   Their sobs and cries outside the door:
+
+   Their lamps are quenched, and they
+
+   No burning light display:
+
+   Their error they would mend: but ah! they come too late,
+
+   And closèd is the gate.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   For they a foolish part had played,
+
+   And from the sacred pathway strayed;
+
+   Oil, they had purchased none:
+
+   Ah! wretched and undone!
+
+   Forbidden with dead lamps the home of bliss to see,
+
+   They wail their misery.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Lo! goblet filled with sweetest wine:
+
+   Drink we, O virgins, 'tis Divine;
+
+   And forth-set for our need:
+
+   Lo! this is drink indeed;
+
+   This for the guests, who to the marriage bidden are,
+
+   The Bridegroom doth prepare.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   First type, O Blessèd One, of Thee
+
+   In Abel shining bright we see:
+
+   To heaven he lifts his eyes,
+
+   Blood-dripping, and thus cries:
+
+   "Me, by my cruel brother slain, receive, O Lord,
+
+   O Thou the Eternal Word."
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Joseph, another type of Thee,
+
+   Won highest prize of purity:
+
+   Whom Thou wouldst own Thy child:
+
+   He scorned to be beguiled
+
+   By, shameless woman; stripped, he yet her wrath defied,
+
+   And straight to Thee he cried:
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   A lamb for sacrifice is sought:
+
+   A lamb-like victim Jephthah brought:
+
+   For rash-made vow he cared,
+
+   Nor virgin daughter spared:
+
+   A type, O Blessèd One, of Thy humanity,
+
+   She poured her soul to Thee:
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   In valour Judith holds high post:
+
+   The leader of the oppressing host
+
+   She smote by beauty's lure,
+
+   Herself a type all pure:
+
+   He headless lay; and unto Thee the conquering maid
+
+   Her love in song displayed:
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   The Judges twain, by passion's flame
+
+   Enkindled, and all dead to shame,
+
+   Would chaste Susannah bind
+
+   To their unhallowed mind:
+
+   To their proposals base she gave a just reply:
+
+   And raised her voice on high:
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   'Twere better far that I should die,
+
+   Than traitress be to marriage tie,
+
+   And yielding to your will
+
+   Both soul and body kill:
+
+   Base men! God's fire of wrath eternal would me seize:
+
+   Save me, O Christ, from these!
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   And he who thousands washed from sin,
+
+   Of Thy true light the bringer-in,
+
+   For virtue's cause alone
+
+   Is into prison thrown
+
+   By wicked king: and staining now the ground with gore,
+
+   He cried to Thee the more:
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   And Thy blest Mother, spotless maid,
+
+   Was thought her vows to have betrayed,
+
+   When travailing with Thee,
+
+   O Lord of purity:
+
+   And found with child of transcendental heavenly birth,
+
+   She raised her voice from earth:
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Thy saints, all eager that they may
+
+   Behold the glories of the day
+
+   Of Thine espousals high,
+
+   With holy gifts draw nigh:
+
+   For Thou, O Word, hast called them, Thou the angels' King:
+
+   White-robed to Thee they sing.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   O holy Church, O heavenly Bride,
+
+   With hymns, attending at Thy side,
+
+   We yet on earth below
+
+   Thine honour thus forth-show:
+
+   All snow-white thou, all beauteous spouse of Christ above,
+
+   All purity, all love.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Past are corruption, sickness, pain;
+
+   Nor tears shall ever flow again;
+
+   For troubles all have fled;
+
+   And death himself is dead:
+
+   And sin and folly with dark dismal train are gone,
+
+   Since grace in glory shone.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   No longer Paradise of men
+
+   Is void; for there God wills again
+
+   That man should safely dwell;
+
+   Yea, man the same who fell
+
+   Beneath the serpent's wiles: now in the promised rest,
+
+   Immortal, fearless, blest.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Thou now to heavenly places raised,
+
+   By all the virgin choir art praised,
+
+   O Bride of Heavenly King:
+
+   And song all new we sing:
+
+   With lighted torch in hand, with snow-white lilies crowned,
+
+   Thy praise in Christ we sound.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+
+
+   Father of heaven, supreme in might,
+
+   Dwelling in pure eternal light
+
+   With Thine own Son most dear,
+
+   Admit--for we are here--
+
+   E'en us within the gates of life, to sing Thy love
+
+   In Thy blest courts above.
+
+
+   With holy feet, and lamps bright burning,
+
+   I go to meet my Lord returning.
+     __________________________________________________________________
+
+   [29] De Viris Illust. c. 83.
+
+   [30] MOSHEIM, Eccl. Hist., vol. i. pp. 236-7.
+
+   [31] Cf. Psalm cxlv., with the letters in order of the Hebrew alphabet.
+   In Greek poetry many instances of the same thing occur. It was useful
+   as an aid to the memory.
+
+   [32] See in Gregory's Admonitory Address to a Virgin, above, p. 125:
+   also in the Anacreontic Ode of Sophronius, in which the praises and
+   exploits of this first female martyr are set forth, pp. 32, 44-5, of
+   the Greek Anthology.
+     __________________________________________________________________
+
+CLEMENT
+OF ALEXANDRIA
+
+   (A.D. 170-220).
+
+   This is probably the oldest hymn in the volume, as Titus Flavius
+   Clement, the Presbyter and illustrious head of the Catechetical School
+   at Alexandria, flourished towards the end of the second and the
+   beginning of the third century. I bad completed my translation of this
+   celebrated hymn, before I was aware that it had been translated by Dr.
+   W. L. Alexander. [33]
+
+   In my translation I have followed the arrangement of the learned
+   editors of the Anthologia Graeca, beginning with what in other editions
+   stands as the ninth line.
+     __________________________________________________________________
+
+HYMN TO CHRIST.
+
+   basileu agion, loge pandamator
+
+   (Anapaestic dimeter.)
+
+
+   O Thou, the King of saints, all-conquering Word,
+
+   Son of the Highest, wisdom's Fount and Lord,
+
+   The prop that doth uphold through toil and pain;
+
+   The joy of ages through immortal reign;
+
+   Yet born of mortal flesh for life's brief span,
+
+   O Saviour Jesus, Shepherd, Husbandman;
+
+   Helm Thou to guide, and bridle to restrain,
+
+   Wing of the holy flock that heaven would gain;
+
+   Catcher of men from evil's whelming sea,
+
+   10The holy fishes, saved that are to be,
+
+   Drawn from the billowy deep with sweetest lure
+
+   Of life that shall for evermore endure:
+
+   O holiest Shepherd of enlightened sheep,
+
+   Lead Thou Thy flock the upward heavenly steep:
+
+   O King of holy children, lead the way,
+
+   And pure may they both follow and obey!
+
+   Thou art, O Christ, the living heavenly Way,
+
+   The ever-flowing Word, unchanging Day,
+
+   Eternal Light, and mercy's healthful Spring;
+
+   20The Perfecter of every virtuous thing;
+
+   Pure Life of all the happy ransomed throng
+
+   Who hymn their God through all the ages long:
+
+   The heavenly [34] milk, from holy breasts that flows,
+
+   By which the infant Church in wisdom grows,
+
+   And graces rare, as it befits the Bride,
+
+   Adorned, O Jesu Christ, for Thine own side.
+
+   Thy feeble children gather with sweet smile,
+
+   To sing with holy mouth, and free from guile,
+
+   Thyself, in songs and praises without end,
+
+   30The children's leader, and the children's friend.
+
+
+   O little children, thus so gently led,
+
+   So tenderly with truth and reason fed,
+
+   And filled with the Holy Spirit's dew,
+
+   Our hymns and praises feeble, yet all true,
+
+
+   In grateful homage unto Christ the King,
+
+   Who taught us life, let us together sing:
+
+   A peaceful choir, Christ-born, and undefiled,
+
+   A people wise, sing we the strong-born child;
+
+   Sing we with heart and voice, and never cease
+
+   40To praise with one accord the God of Peace!
+     __________________________________________________________________
+
+   [34] In this disputed passage, which I have ventured to render freely,
+   I take the gala to be Christ Himself, in same way as biote, pege, &c.,
+   above, and read ekthlibomenon.
+     __________________________________________________________________
+
+   [33] See Writings of Clement of Alexandria vol. i. pp. 341-345,
+   Antenicene Christian Library.
+     __________________________________________________________________
+
+POSTSCRIPT
+
+   The task which I had set myself to do is completed. Whatever may be the
+   fortune of the little work, I have had much pleasure, and, I hope, some
+   profit, in the accomplishment of it.
+
+   At intervals from parochial visiting and ministerial duty, on a walk,
+   or reclining by the Wye side, or on the ridge of Marcle Hill, I have
+   made, bit by bit, the translation of the first, the earlier and
+   shorter, part of the Anthologia Graeca Carminum Christianorum. I have
+   had no other edition, no explanatory notes, no help or
+   guidance--nothing but the text of the beautiful Leipsic volume, edited
+   in 1871 by the eminent scholars, W. Christ and M. Paranikas. Under such
+   circumstances, it can hardly be otherwise than that I have made
+   blunders which the learned reader will detect here and there, yet I
+   trust the errors will be few and pardonable. Owing to the difference of
+   idiom, and the exigency of metre, some additions, some omissions, there
+   must be. Yet I hope to be able to claim the credit of having fairly and
+   faithfully reproduced the poetic thoughts and holy aspirations of the
+   grand old Greek Christians whose songs and hymns I have ventured to
+   take in hand.
+
+   There remain four short hymns of unknown authorship (umnoi adespotoi),
+   not in verse, but measured prose. These I now render into plain
+   English, line for line and word for word. They are, I doubt not, true
+   specimens of the "psalms and hymns and spiritual songs" [35] of the
+   earliest Christians, portions of the divine poetry of the Old Testament
+   combined with the glorious facts and truths of the New. They show also
+   the great antiquity of parts of the Church of England Liturgy and
+   Communion Service, and may well be used now in the way they were
+   designed of old.
+     __________________________________________________________________
+
+   [35] Eph. v. 9; Col. iii. 16.
+     __________________________________________________________________
+
+HYMNS
+OF UNKNOWN AUTHORSHIP.
+     __________________________________________________________________
+
+I.
+A MORNING HYMN.
+
+
+   Glory to God in the highest, and upon earth peace,
+
+   Good-will among men:
+
+   We praise Thee, we bless Thee, we give thanks to Thee,
+
+   We worship Thee, we glorify Thee,
+
+   For Thy great glory.
+
+   O Lord the King in heaven, God the Father Almighty,
+
+   O Lord the only-begotten Son, Jesus Christ,
+
+   And Holy Spirit:
+
+   O Lord God, Lamb of God, Son of the Father,
+
+   Who takest [36] away the sins of the world, have mercy upon us:
+
+   O Thou who takest away the sins of the world, receive our prayer:
+
+   O Thou who sittest at the right hand of the Father, have mercy upon us:
+
+   For Thou only art holy, Thou only art the Lord,
+
+   Jesus Christ, to the glory of God the Father.
+
+   Amen.
+
+
+   Every day will I bless Thee,
+
+   And praise Thy Name for ever, [37]
+
+   And for ever and ever.
+
+   Vouchsafe, O Lord, through this day also
+
+   That we may be kept without sin,
+
+   Blessed art Thou, O Lord God of our fathers,
+
+   And praised and glorified be Thy Name
+
+   For ever and ever. [38] Amen.
+
+
+   Blessed art Thou, O Lord: teach me Thy judgments.
+
+   Blessed art Thou, O Lord: teach me Thy judgments.
+
+   Blessed art Thou, O Lord: teach me Thy judgments.
+
+   O Lord, Thou hast been our refuge from generation to generation:
+
+   I have said: O Lord, have mercy upon me,
+
+   Heal my soul, for I have sinned against Thee.
+
+
+   O Lord, to Thee have I fled for refuge: teach me to do Thy will,
+
+   For Thou art my God,
+
+   For with Thee is the fountain of life.
+
+   In Thy light shall we see light:
+
+   Extend Thy mercy to them that know Thee.
+     __________________________________________________________________
+
+   [36] aireis, takest away, or bearest.
+
+   [37] Lit.: For the age, and for the age of the age.
+
+   [38] Lit.: For the ages.
+     __________________________________________________________________
+
+II.
+AN EVENING HYMN.
+
+
+   Praise the Lord, O ye His servants, [39]
+
+   Praise the Name of the Lord:
+
+   We praise Thee, we hymn Thee, we bless Thee
+
+   For Thy great glory.
+
+   O Lord the King, the Father of Christ, the Lamb without blemish,
+
+   Who taketh away the sin of the world,
+
+   To Thee belongeth praise, to Thee belongeth the hymn, to Thee belongeth
+   glory,
+
+   The Father, and the Son, and the Holy Spirit,
+
+   Throughout all ages. [40] Amen.
+
+   Now lettest Thou Thy servant depart, O Lord,
+
+   According to Thy word, in peace:
+
+   For mine eyes have seen Thy salvation,
+
+   Which Thou hast prepared before the face of all people,
+
+   A light to lighten the Gentiles, and (to be) the glory of Thy people
+   Israel.
+     __________________________________________________________________
+
+   [39] paides, servants, or children.
+
+   [40] Lit.: For the ages of ages.
+     __________________________________________________________________
+
+III.
+A HYMN AT LAMP-LIGHT.
+
+
+   Propitious Light of holy glory,
+
+   Of the immortal Heavenly Father,
+
+   Holy, blessed,
+
+   O Jesu Christ,
+
+   Having come to the setting of the sun,
+
+   Having seen the evening light,
+
+   We hymn the Father, the Son,
+
+   And the Holy Spirit, God.
+
+   Thou art worthy at all seasons
+
+   To be hymned with thankful [41] voices,
+
+   O Son of God, who givest life;
+
+   Wherefore the world glorifieth Thee.
+     __________________________________________________________________
+
+   [41] aisiais, lit. auspicious.
+     __________________________________________________________________
+
+IV.
+A PRAYER AT DINNER-TIME.
+
+   FINIS.
+     __________________________________________________________________
+
+   LONDON: PRINTED BY WILLIAM CLOWES AND SONS, STAMFORD STREET AND CHARING
+   CROSS.
+
+
+   Thou art blessed, O Lord, who nourishest me from my youth,
+
+   Who givest food to all flesh.
+
+   Fill your hearts with joy and gladness,
+
+   That at all times having all sufficiency,
+
+   We may abound to every good work
+
+   In Christ Jesus our Lord:
+
+   With whom to Thee (be) glory, honour, and might,
+
+   For ever and ever. Amen.
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+                                    Indexes
+     __________________________________________________________________
+
+Subject Index
+
+   Clement of Alexandria, [12]songs.clement-p0.1
+
+   Gregory of Nazianzus, [13]songs.gregory-p0.1
+
+   Methodius, Bishop and Martyr, [14]songs.methodiu-p0.4
+
+   Naasseni, [15]songs.naasseni-p0.1
+
+   Synesius, Bishop of Ptolemaïs, [16]songs.synesius-p0.1
+     __________________________________________________________________
+
+Index of Scripture References
+
+   Psalms
+
+   [17]145
+
+   Matthew
+
+   [18]28:19
+
+   1 Corinthians
+
+   [19]7:26
+
+   2 Corinthians
+
+   [20]13:14
+
+   Ephesians
+
+   [21]5:9
+
+   Colossians
+
+   [22]3:16
+
+   Hebrews
+
+   [23]12:23-24
+
+   1 Peter
+
+   [24]1:2
+
+   Revelation
+
+   [25]1:4-5   [26]21:2   [27]21:9   [28]22:9
+     __________________________________________________________________
+
+Index of Pages of the Print Edition
+
+   [29]i  [30]v  [31]vi  [32]vii  [33]viii  [34]ix  [35]1  [36]2  [37]3
+   [38]4  [39]5  [40]6  [41]7  [42]8  [43]9  [44]10  [45]11  [46]12
+   [47]13  [48]14  [49]15  [50]16  [51]17  [52]18  [53]19  [54]20  [55]21
+   [56]22  [57]23  [58]24  [59]25  [60]26  [61]27  [62]28  [63]29  [64]30
+   [65]31  [66]32  [67]33  [68]34  [69]35  [70]36  [71]37  [72]38  [73]39
+   [74]40  [75]41  [76]42  [77]43  [78]44  [79]45  [80]46  [81]47  [82]48
+   [83]49  [84]50  [85]51  [86]52  [87]53  [88]54  [89]55  [90]56  [91]57
+   [92]58  [93]59  [94]60  [95]61  [96]62  [97]63  [98]64  [99]65
+   [100]66  [101]67  [102]68  [103]69  [104]70  [105]71  [106]72  [107]73
+   [108]74  [109]75  [110]76  [111]77  [112]78  [113]79  [114]80  [115]81
+   [116]82  [117]83  [118]84  [119]85  [120]86  [121]87  [122]88  [123]89
+   [124]90  [125]91  [126]92  [127]93  [128]94  [129]95  [130]96  [131]97
+   [132]98  [133]99  [134]100  [135]101  [136]102  [137]103  [138]104
+   [139]105  [140]106  [141]107  [142]108  [143]109  [144]110  [145]111
+   [146]112  [147]113  [148]114  [149]115  [150]116  [151]117  [152]118
+   [153]119  [154]120  [155]121  [156]122  [157]123  [158]124  [159]125
+   [160]126  [161]127  [162]128  [163]129  [164]130  [165]131  [166]132
+   [167]133  [168]134  [169]135  [170]136  [171]137  [172]138  [173]139
+   [174]140  [175]141  [176]142  [177]143  [178]144  [179]145  [180]146
+   [181]147  [182]148  [183]149  [184]150  [185]151  [186]152  [187]153
+   [188]154  [189]155  [190]156  [191]157  [192]158  [193]159  [194]160
+   [195]161  [196]162  [197]163  [198]164  [199]165  [200]166
+     __________________________________________________________________
+
+            This document is from the Christian Classics Ethereal
+               Library at Calvin College, http://www.ccel.org,
+                   generated on demand from ThML source.
+
+References
+
+   1. http://ccel.org/ccel/neale/easternhymns.html
+   2. file:///ccel/c/chatfield/greeksongs/cache/h001
+   3. file:///ccel/c/chatfield/greeksongs/cache/h002
+   4. file:///ccel/c/chatfield/greeksongs/cache/h003
+   5. file:///ccel/c/chatfield/greeksongs/cache/h004
+   6. file:///ccel/c/chatfield/greeksongs/cache/h005
+   7. file:///ccel/c/chatfield/greeksongs/cache/h007
+   8. file:///ccel/c/chatfield/greeksongs/cache/h007
+   9. file:///ccel/c/chatfield/greeksongs/cache/h008
+  10. file:///ccel/c/chatfield/greeksongs/cache/h009
+  11. file:///ccel/c/chatfield/greeksongs/cache/h010
+  12. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.clement-p0.1
+  13. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory-p0.1
+  14. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu-p0.4
+  15. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.naasseni-p0.1
+  16. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius-p0.1
+  17. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Ps&scrCh=145&scrV=0#songs.methodiu-p3.3
+  18. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Matt&scrCh=28&scrV=19#songs.synesius.h005-p2.91
+  19. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=1Cor&scrCh=7&scrV=26#songs.gregory.h018-p0.5
+  20. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=2Cor&scrCh=13&scrV=14#songs.synesius.h005-p2.92
+  21. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Eph&scrCh=5&scrV=9#songs.postscr-p3.3
+  22. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Col&scrCh=3&scrV=16#songs.postscr-p3.4
+  23. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Heb&scrCh=12&scrV=23#songs.synesius.h005-p2.95
+  24. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=1Pet&scrCh=1&scrV=2#songs.synesius.h005-p2.93
+  25. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Rev&scrCh=1&scrV=4#songs.synesius.h005-p2.94
+  26. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Rev&scrCh=21&scrV=2#songs.gregory.h018-p2.74
+  27. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Rev&scrCh=21&scrV=9#songs.gregory.h018-p2.74
+  28. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3?scrBook=Rev&scrCh=22&scrV=9#preface-p5.2
+  29. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#titlepag-Page_i
+  30. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#preface-Page_v
+  31. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#preface-Page_vi
+  32. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#preface-Page_vii
+  33. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#preface-Page_viii
+  34. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#preface-Page_ix
+  35. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs-Page_1
+  36. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius-Page_2
+  37. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius-Page_3
+  38. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius-Page_4
+  39. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius-Page_5
+  40. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius-Page_6
+  41. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_7
+  42. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_8
+  43. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_9
+  44. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_10
+  45. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_11
+  46. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_12
+  47. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h001-Page_13
+  48. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h002-Page_14
+  49. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h002-Page_15
+  50. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h002-Page_16
+  51. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h002-Page_17
+  52. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h002-Page_18
+  53. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_19
+  54. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_20
+  55. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_21
+  56. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_22
+  57. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_23
+  58. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_24
+  59. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_25
+  60. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_26
+  61. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_27
+  62. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_28
+  63. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_29
+  64. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_30
+  65. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_31
+  66. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_32
+  67. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_33
+  68. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_34
+  69. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_35
+  70. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_36
+  71. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_37
+  72. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_38
+  73. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_39
+  74. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_40
+  75. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_41
+  76. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_42
+  77. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_43
+  78. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_44
+  79. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_45
+  80. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_46
+  81. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_47
+  82. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_48
+  83. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_49
+  84. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_50
+  85. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_51
+  86. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_52
+  87. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_53
+  88. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_54
+  89. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h003-Page_55
+  90. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_56
+  91. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_57
+  92. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_58
+  93. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_59
+  94. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_60
+  95. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_61
+  96. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_62
+  97. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_63
+  98. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_64
+  99. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_65
+ 100. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_66
+ 101. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_67
+ 102. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_68
+ 103. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h004-Page_69
+ 104. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h005-Page_70
+ 105. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h005-Page_71
+ 106. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h005-Page_72
+ 107. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h005-Page_73
+ 108. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h005-Page_74
+ 109. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h006-Page_75
+ 110. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h006-Page_76
+ 111. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h006-Page_77
+ 112. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h007-Page_78
+ 113. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h007-Page_79
+ 114. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h007-Page_80
+ 115. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h008-Page_81
+ 116. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h008-Page_82
+ 117. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h008-Page_83
+ 118. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h009-Page_84
+ 119. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h009-Page_85
+ 120. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h009-Page_86
+ 121. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h009-Page_87
+ 122. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h010-Page_88
+ 123. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h010-Page_89
+ 124. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.synesius.h010-Page_90
+ 125. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory-Page_91
+ 126. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory-Page_92
+ 127. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h011-Page_93
+ 128. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h011-Page_94
+ 129. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h011-Page_95
+ 130. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h011-Page_96
+ 131. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h011-Page_97
+ 132. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h012-Page_98
+ 133. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h012-Page_99
+ 134. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h012-Page_100
+ 135. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h012-Page_101
+ 136. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h013-Page_102
+ 137. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h013-Page_103
+ 138. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h013-Page_104
+ 139. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h013-Page_105
+ 140. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_106
+ 141. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_107
+ 142. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_108
+ 143. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_109
+ 144. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_110
+ 145. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_111
+ 146. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_112
+ 147. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_113
+ 148. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_114
+ 149. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_115
+ 150. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_116
+ 151. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_117
+ 152. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_118
+ 153. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h014-Page_119
+ 154. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h015-Page_120
+ 155. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h016-Page_121
+ 156. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h017-Page_122
+ 157. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h017-Page_123
+ 158. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h017-Page_124
+ 159. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_125
+ 160. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_126
+ 161. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_127
+ 162. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_128
+ 163. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_129
+ 164. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_130
+ 165. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_131
+ 166. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_132
+ 167. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_133
+ 168. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_134
+ 169. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_135
+ 170. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.gregory.h018-Page_136
+ 171. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.naasseni-Page_137
+ 172. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.naasseni.h019-Page_138
+ 173. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu-Page_139
+ 174. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu-Page_140
+ 175. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_141
+ 176. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_142
+ 177. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_143
+ 178. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_144
+ 179. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_145
+ 180. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_146
+ 181. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_147
+ 182. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_148
+ 183. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_149
+ 184. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_150
+ 185. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_151
+ 186. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_152
+ 187. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.methodiu.h020-Page_153
+ 188. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.clement-Page_154
+ 189. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.clement.h021-Page_155
+ 190. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.clement.h021-Page_156
+ 191. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.clement.h021-Page_157
+ 192. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.postscr-Page_158
+ 193. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.postscr-Page_159
+ 194. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.postscr-Page_160
+ 195. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.anon-Page_161
+ 196. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.anon.h022-Page_162
+ 197. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.anon.h022-Page_163
+ 198. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.anon.h023-Page_164
+ 199. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.anon.h024-Page_165
+ 200. file:///ccel/c/chatfield/greeksongs/cache/greeksongs.html3#songs.anon.h025-Page_166

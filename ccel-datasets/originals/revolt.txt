@@ -1,0 +1,3363 @@
+LUTHER ON THE EVE OF HIS REVOLT
+
+A criticism of Luther's Lectures on the Epistle to the Romans given at
+Wittenberg in 1515-1516.  by The Very Rev. M. J. Lagrange, O.P. 
+
+Translated by The Rev. W. S. Reilly, S.S.
+
+NIHIL OBSTAT: E. R. DYER, D. D.  Censor Deputatus
+
+IMPRIMATUR: J. CARD. GIBBONS Archiepiscopus Baltimorensis
+
+Baltimorre, die 24 Novembris, 1917.
+
+
+INTRODUCTION
+
+The official birthday of the Reformation has been fixed as the 31st of
+October, 1517, the day Luther posted upon the door of the University
+Church at Wittenberg the ninety-five theses in which he bade defiance to
+preachers of indulgences in Germany. It was resolved, before the war into
+which Europe has been plunged, to celebrate with great solemnity the four
+hundredth anniversary of this event. 
+
+The view that Luther's challenge had great significance was held by
+Bossuet. That incomparable controversialist did not see in Luther's action
+more than a rather irresolute first step, a denunciation of an isolated
+abuse: "From abuses he passed to the thing itself." The Lutheran system
+would have grown only insensibly and according to the requirements of
+controversy: "However, one matter led him to another. As the doctrine of
+justification and of the efficacy of the Sacraments was closely connected
+with that of indulgences, Luther turned upon these two articles; and this
+controversy soon became the more important."[1] Working on this
+assumption, Bossuet undertakes the difficult task of following Luther in
+his first movements, which he represents as sometimes bold, sometimes
+timid. His admirable book, so full of facts, so vigorous and serene in its
+reasoning, is, at the beginning, occupied with the discussion of petty
+quarrels. It is like the first flappings of the wings of the eagle which
+is starting upon its flight.
+
+It has been shown recently that Bossuet's view about the beginnings of
+Lutheranism was entirely wrong. Long before the incident of October 31,
+1517, Luther was already in full possession of his theological system. If
+all the details were not formulated, the principles had been laid down
+clearly and with assurance. The monk had his doctrine and his plan of
+reform. It is now clear that the new religion is not the result of
+circumstances.
+
+The first historian to understand and to analyze the state of mind of
+Luther on the eve of the Reformation was an Austrian Dominican, Father
+Denifle, in his study on the beginnings of Lutheranism, as they are seen
+in the original documents.[2]
+
+The document which proved to be of most value was a manuscript of the
+"Commentary on the Epistle to the Romans" which Luther, as professor of
+exegesis at Wittenberg, had composed in 1515-1516.  We have the precise
+date, because the Vulgate text of the Epistle which he annotated was
+printed in 1515, and we know that the lectures ended in October, 1516,
+just one year before the publication of the theses on indulgences. We owe
+the discovery of this important document to Mr. Johannes Ficker, who, in
+his search for manuscripts bearing on the beginning of the Reformation,
+found, first, a copy of the "Commentary" in the archives of the Vatican
+Library at Rome, and then the original itself, in the handwriting of
+Luther, carefully preserved-- unread--in a glass case of the Royal Library
+of Berlin. German Protestants, who have raised to the glory of the
+Reformer a veritable monument of books and pamphlets, had overlooked the
+only absolutely reliable source of information concerning the thought of
+Luther when that thought was ripening into Lutheranism. Was such an
+oversight due to the fact that intellectual curiosity about the master's
+activity as a monk had been satisfied by his own stories about his life in
+the cloister?  Did they take seriously his claim to be divinely inspired?
+The details of Ficker's discovery are given, too sparingly, in his edition
+of the Berlin manuscript,[3] from which we shall quote in the present
+study.
+
+Father Denifle was not the man to await the publication of the Berlin
+text.  With his incomparable mastery of paleography, he set to work with
+the Roman copy. He realized at a glance the importance of the discovery of
+this book and it was not hard for such a keen theologian and historian, so
+admirably informed concerning the intellectual life of the Middle Ages, to
+realize that there was in this "Commentary" the essence of all the errors
+which Luther was afterward to profess. Variations might appear, called
+forth by polemics, but they would not fundamentally alter the system which
+the Augustinian monk expounded a year before his revolt. The long extracts
+which Father Denifle gives from the "Commentary," and the rigorous
+analysis to which he submits them, are the most interesting features of
+his great work on Luther and Lutheranism. 
+
+This work has shown conclusively, as is conceded by more than one of the
+many opponents Father Denifle stirred up, that Luther, when he made his
+attack on Catholic theology, had no knowledge of the great scholastics,
+including St. Thomas Aquinas. His theological reading had not extended
+beyond the disciples of Occam; Gabriel Biel had been his most familiar
+author.
+
+A second still more important point made by the clear-sighted Thomistic
+theologian is that Occam exercised an influence over the dominant theory
+of Luther.
+
+Protestant theologians were rather dumbfounded by the revelations which
+Father Denifle had made, thanks to his knowledge of the theology, the
+mysticism, and the liturgy of the Middle Ages. They had found it
+convenient to make real Christianity begin with Luther, as a Jacobin might
+date the history of France from the Revolution. The facts were too clear
+to be gainsaid. Luther's mental equipment as a reformer was poor; even as
+a heretic he was not so original as people had thought. So much might be
+granted.  But when Father Denifle passed on to discuss the moral condition
+
+of Luther at the time that he was elaborating his theological system, he
+ceased to convince Protestants. He had laid about with a scourge of
+thistles among the contradictions of the theologian and, having followed
+the movements of his mind up to the moment when he deviated from Catholic
+teaching, he ventured to assign as the real cause of this deviation the
+infidelities of the father of the Reformation; if Luther believed
+concupiscence invincible, it was because he had himself, and frequently,
+given way to concupiscence. A clamor of Lutheran apologists broke out
+against the unmerciful treatment which the mendicant friar had meted out
+to the apostate monk. Denifle's verdict was denounced as a calumny.
+Harnack was as excited as the rest, although he spoke with caution. Father
+Denifle had called attention to what might seem insufficient concern about
+truth in some of the statements of this renowned historian in his work on
+Luther.  Whatever may be thought of the correctness of Father Denifle's
+judgment about the moral dispositions of the father of Protestantism, this
+
+judgment did not bear on a matter which could be made so clear as Luther's
+state of mind. It has not found support in the more recent work of another
+Catholic scholar, Father Grisar, S.J., who has dealt with the question in
+the course of his exhaustive studies on Luther.[4] He declares that
+"neither the "Commentary" on the Psalms nor that on the Epistle to the
+Romans gives the impression that the author was morally corrupt."[5]
+Consequently, he has not sought for the origin of Luther's theories in his
+
+moral perversity.
+
+In the following study of the "Commentary on the Epistle to the Romans," I
+shall keep this psychological problem in view.  Everybody admits that
+Luther's personality was a considerable factor in his exegesis. Some of
+his admirers recognize with naive satisfaction this influence of the
+dispositions of his mind and heart, without seeming to know that to be
+guided in interpreting another's mind by one's own prepossessions and
+feelings, means to depart from truth. But while we endeavor to determine
+to what extent Luther was thus misled in his understanding of the teaching
+of St. Paul, we must inquire no less carefully to what extent St. Paul
+influenced Luther. For Luther really thought that he understood the
+Apostle; he was convinced, at least in the beginning, that his system was
+grounded on the Bible. It would be a mistake to think that he simply read
+into the Epistle to the Romans a system of thought formed without any
+dependence on the Apostle. 
+
+Before entering upon this study of the relation between the text of Romans
+and the Lutheran way of understanding it, of the state of soul and the
+exegetical methods which in part account for Luther's interpretation, it
+is of interest to note that a cursory reading of the Commentary makes it
+clear that the idea of revolt had not yet entered his thoughts. He still
+believed himself loyal to the Catholic Church. He purposed only to bring
+religion back to its purest sources. It did not occur to him that he would
+ever be reduced to seeking salvation outside the Church. No book, even in
+the Middle Ages, more frequently denounces heresy or paints heresy in
+darker colors than does the "Commentary." It represents the heretic as a
+proud man, who sins first through ignorance. If contempt be mingled with
+ignorance, he is in the net. Then he clings to what seems true to his own
+private judgment and at the moment when he thinks himself sure of the
+truth, freed from snares and pitfalls, he is really a captive. Next, he
+becomes impatient of contradiction, and will listen to nothing. Finally,
+he is seized with indignant zeal for his own inventions; he pursues and
+calumniates his enemies, seeking to harm them. His punishment has been
+already inflicted! The "Commentary" tells us, moreover, that, whatever
+heretics may do, there is always a weak spot which allows one to unmask
+them. you have only to ask whence they hold their mission. That is a death
+blow. They can allege neither prophesy nor miracles. mindful of this need
+of proper authorization, the Wittenberg professor is careful to shield
+himself behind his title: if he teaches, it is by apostolic commission.
+This gives him an apostolic authority and a right to blame all that is
+evil, even in the most exalted.
+
+We propose here, firstly, to consider Luther's "Commentary" merely as an
+exegetical work, restricting ourselves to an examination of his method,
+and reserving until later any formal discussion of the new doctrines;
+secondly, to study the intellectual and moral dispositions of Luther, in
+so far as they may be gathered from his work on this Epistle to the
+Romans; thirdly, to indicate the new doctrine which the Wittenberg
+professor so dogmatically gave out as the genuine teaching of St.  Paul,
+and to discuss its real relation to that teaching.
+
+The exegesis of Luther in his lectures at the University of Wittenberg in
+1515-1516 deserves study for many reasons.  Foremost, it was destined to
+transform the religious lives of millions. Henceforth, the teaching of St.
+Paul as interpreted by the Augustinian professor was to become the rule of
+faith and practice of a large portion of the Christian world. And it still
+
+holds sway. Many Protestants admit, indeed, that while professing to
+interpret St. Paul, Luther simply set forth his own ideas.  About the
+ideas themselves they care little; they are as independent in his regard
+as he would have them to be in regard to the teaching which was
+traditional in 1516. There are, however, a great many Protestants who
+still regard Luther as a faithful expositor of the Apostle's doctrine.
+Some even, like Mr.  A. Jundt,[6] exalt his exegetical fidelity to the
+prejudice of his originality: "St. Paul, Augustine, Calvin, have created
+theological systems, Luther has restored Pauline theology; his mind,
+attuned to that of the Apostle, acquired dogmatic precision of thought
+once he understood what St. Paul means in the Epistle to the Romans."
+Luther's system of thought possesses more than an archeological interest
+for the student of history of Bible interpretation. 
+
+We are fully aware, of course, that a Catholic who criticizes the giant of
+the Reformation can expect only disdain from Protestants. Father Denifle
+has recalled that many who feel perfectly free to dissect the words and
+actions of Jesus will not suffer any disparagement of the inviolable
+Luther. We are incapable, it is claimed, of understanding him. The
+caviling of modern dwarfs can no more reach him than the envy of a
+mole-hill could efface Mount Blanc. We need not, then, be embarrassed,
+since we do the idol no harm. Besides, we are conscious of only seeking
+the truth.
+
+
+CHAPTER I: LUTHER'S COMMENTARY ON THE EPISTLE TO THE ROMANS AS AN
+EXEGETICAL WORK
+
+1. THE STRUCTURE OF THE COMMENTARY
+
+The text of Luther's "Commentary", as published by Johannes Ficker, is,
+naturally, according to the original of Berlin, with notation of variants
+in the Vatican copy, which differs very slightly from the text. The first
+volume is consecrated to the "Glosses," the second to the "Scholia". The
+work of Luther comprises, indeed, two very distinct parts. 
+
+He used, for the first of these parts, a printed text of the Epistle to
+the Romans according to the Vulgate, with considerable space between the
+lines.  This space is devoted to a first series of "Glosses" which were
+only another way of expressing the idea of the sacred writer. Sometimes a
+word is substituted for another in an endeavor to get nearer the meaning
+of the Greek, sometimes several words are paraphrased or explained. These
+annotations are for the most part brief indications of consequences to be
+drawn from a text. In the edition of Ficker the text of the Bible is
+printed in heavy (Egyptian) characters, and the gloss follows in Italic.
+The following translation will give an idea of the book:
+
+Romans 1.28: And as they did not approve, make efforts, or diligently
+strive to have God in their knowledge, that their heart might not be
+darkened, the knowledge of God being lost.  This, I say, they did not care
+about, therefore God delivered them up to a worthy chastisement, by a just
+judgment, to a reprobate sense, a dishonest mind, etc. 
+
+Other glosses were placed in the margin. They are by way of development of
+the former, explaining more in detail the meaning of the Greek text, or
+the thought of the Apostle, and at times they contain citations, etc. In
+Ficker these glosses are assigned a place by themselves, under the others,
+with indication of the texts to which they refer. 
+
+The text, together with interlinear and marginal glosses, occupies only 28
+pages in quarto, whereas the "Scholia" extend from p. 29 to p. 152 of the
+manuscript. The "Scholia" form a continuous commentary, if the name can be
+given to such an original work. Some words of the text are still quoted,
+but digressions are not rare. It is in the "Scholia" that we find the
+developments which refer to the new doctrine. The glosses reflect it also,
+but less clearly, either because Luther was naturally led to write these
+short notes in the terminology of traditional exegesis, or because the
+text of St. Paul itself served as a barrier. The new ideas are freely set
+forth only in the "Scholia". 
+
+2. NEGLECT OF THE FATHERS AND THE SCHOOLMEN
+
+It is in these "Scholia" that it would have been well to determine the
+logical connection of the Apostle's thought. The system of St. Thomas is
+known: he reproduces the Latin text of a pericope; then he dismembers it,
+so to speak, to point out the order of the propositions, the relations of
+causality, finality, or consequence. After this he goes on to examine the
+propositions, endeavoring solely to disengage their meaning. He willingly
+notes the various solutions which may be given, and sets down analogous
+biblical passages. This commentary of St.  Thomas would be a model of an
+objective explanation, if such could be produced without having recourse
+to the original text, and if one might interpret a book without studying
+its environment, the origin and conflict of doctrines--without applying
+all that we call historical exegesis.
+
+St. Thomas has at least the merit of keeping his own personality in the
+background. Father Denifle shows us how impersonal this method was. "If we
+compare," he writes in a sort of supplement to his work on Luther,[7] "the
+Commentary of St. Thomas with those which immediately preceded it,[8] we
+find in these earlier ones, to speak in a general way, the same questions,
+often the same solutions, the same scriptural texts, although more
+numerous; but in the commentary of St. Thomas, as in his "Summa",
+everything is handled with more perspicuity, is better understood, is
+grasped in a surer and more objective way. He did not, however, invent his
+method; he only employed logically the traditional way of expounding
+Scripture."
+
+All the works of the scholastic exegetes remained almost unknown to
+Luther.[9] He has, indeed, a few allusions to Peter Lombard, and Mr.
+Ficker has expressed the view that he had under his eyes a Latin Vulgate
+containing the divisions of St. Thomas; but his contempt for
+scholasticism, which led him to an open rupture with the system, kept him
+from consulting, except perhaps very rarely, the exegetes of the Middle
+Ages.
+
+This neglect was unfortunate, for, although the schoolmen went too far in
+their concern for logical order, bringing it into St.  Paul to such an
+extent as to reduce its utterances to a series of well-drawn conclusions,
+they could at least have taught Luther to inform himself about the plan of
+the Apostle, perfectly recognizable in its main lines in spite of the
+almost tumultuous appearance of his style. 
+
+In his scorn for scholasticism did the Augustinian monk prefer to go
+directly to the Fathers? The influence of St. Augustine is evident. Luther
+has told us what an impression was made upon him by the "De spiritu, et
+littera." This might be recognized by simply reading his work. The books
+against Julian, "De nuptiis et concupiscentia" and others, furnish him
+with quotations and veritable extracts. We shall have to inquire how far
+he really reproduced the thought of one whom he regarded as the founder of
+
+his order, and to whom he had consecrated so much and such exclusive
+admiration. St. Ambrose is named ten times, twice without any special
+reason,[10] once following Erasmus,[11] four times following St.
+Augustine;[12] and, let us add, a citation which is rather inaccurate[13]
+and one which Luther probably borrowed from a citation of another.[14] In
+the single passage where Ambrose is quoted as a commentator, reference is
+made to the distinguished work which we call, for want of a better name,
+the "Ambrosiaster." Luther knew it, consequently, but he did not make much
+use of it. St. Cyprian is named three times, always following St.
+Augustine. Chrysostom himself is not otherwise cited. This is fortunate
+for him, because he would surely have been rudely handled. St. Jerome was
+better known, but especially as the translator of the Old Testament. 
+
+Luther was not obliged to display in his "Commentary" wide acquaintance
+with the opinions of the Fathers, but he should at least have avoided
+incorrect general statements about writings which he had not read. He
+frequently misrepresents them. For instance, on the words of the text:
+"Let every man abound in his own sense," Luther writes: 
+
+"This saying is taken everywhere (passim) by the Holy Fathers and Doctors
+for a general declaration, by which every man is allowed to abound in his
+own sense in the understanding of the Scriptures."[15] 
+
+Concerning this statement Mr. Ficker notes that the exegesis of Romans 14.
+5 is met with neither in the Fathers nor in the Scholastics. 
+
+When the "Commentary" speaks of "the Fathers," one can be sure that Luther
+has in mind hardly any one but St. Augustine, in whom the Augustinian monk
+hears the whole school. It is again Mr.  Ficker himself who has noticed
+this.[16] It is, then, rather to ignorance than to bad faith that we may
+attribute Luther's allegation about the traditional interpretation of
+Romans 1.17, so severely judged by Father Denifle, upon whom it imposed
+enormous researches.[17]
+
+Luther had accustomed himself to put down as an "opinion of the Fathers"
+any view which in his own neighborhood was regarded as traditional. 
+
+However, he had direct knowledge of St. Bernard, whose authority he
+willingly alleged alongside that of St. Augustine. Once he even attributes
+to Augustine an idea which was suggested by Bernard.[18] And he grafts
+upon his words a whole theory.[19] But it is as an ascetic Doctor much
+more than as an exegete that Bernard is cited; only one gloss is borrowed
+from him.[20]
+
+If now we return to more recent commentators, we find Luther making use of
+the "Ordinary" and of the "Interlineary" glossaries current in his
+time.[21] These he had habitually under his eyes.  He also used Nicholas
+de Lyra, quoted oftener when he parts company with him in his
+interpretation than when they agree. Paul of Burgos is named several
+times.
+
+3. DEPENDENCE ON THE HUMANISTS LEFEVRE d' ETAPLES, ERASMUS, AND REUCHLIN 
+
+Luther himself has defined the attitude which he intended to assume in the
+explanation of the word of God, for we may apply to his whole method what
+he says of one passage (Romans 1.3-4):
+
+"I do not know whether this passage has been really and truly expounded by
+anyone. The ancients were prevented from doing so by the incorrectness of
+the translation, the more recent commentators, by the absence of the
+spirit."[22]
+
+A concise formula, but strong and expressive, such as occur frequently
+under his pen. He believed, then, with the most enlightened minds of his
+time, that the moment had come for exegetes to define with more precision
+the meaning of words. For this recourse must be had to the original text.
+Illustrious humanists had opened the way in the case of the Greek New
+Testament. Luther, so independent in regard to the Scholastics, does not
+hesitate to accept the moderns as his real authorities.  For everything
+pertaining to the sense of the Greek he depends on Lefevre d'Etaples. The
+first edition of the "Epistole Pauli A postoli" had appeared in Paris in
+the year 1512. Luther never disputed d'Etaples' authority as a Hellenist
+until the day a more luminous star came within the ken of Wittenberg. The
+"Novum Testamentum" of Erasmus appeared at Basle only in 1516, but Luther
+already uses it after his ninth chapter. Henceforth Erasmus is the master
+for Greek and references to the Greek text become more and more frequent
+in the glosses, while allusions to the religious and political conditions
+of the times are multiplied in the "Scholia". The mendicant monk entered
+at the same time into the current of humanism and into Erasmus'
+aspirations for reform. It is even probable (Ficker infers it from the
+handwriting)[23] that more than one philological note was added in the
+margin to the first part of the "Commentary" after Erasmus had appeared. 
+
+But Erasmus was already[24] for Luther what he so loudly declared him to
+be in their controversy on free will, a profane and superficial humanist,
+little concerned about the things of God.  If the new exegesis had
+"correctness of translation" (proprietas verborum), there was lacking to
+it the spirit of the ancients, by which Luther meant especially the
+doctrine of Augustine, the faithful interpreter of the Holy Spirit, who
+had spoken by the mouth of Paul. 
+
+Whence we may conclude that his ideal was to compose a commentary which
+should be above reproach as regards the explanation of the Greek but
+nevertheless penetrated by the spirit which had animated the Apostle. So
+we shall see him consciously depart from the literal sense under the
+influence of the view that the meaning of Paul can only be attained by
+those who are "in spirit." 
+
+"The solution is: because the Apostle speaks in spirit, he is not
+understood except by those who are in spirit."[25]
+
+Luther was well inspired in accepting the authority of the humanists. His
+competency in Greek was at the time very mediocre.  He learned it only
+later on from Melanchthon and he always remained far inferior to Erasmus
+in regard to the understanding of words. It is true that Erasmus'
+philological tact was wonderful. 
+
+It would be a loss of time to point out here the cases, more and more
+numerous, in which Luther translates according to the Greek, frequently
+insisting on its difference from the Vulgate. Mr.  Ficker has taken care
+in such cases to note the translation of Lefevre and that of Erasmus.
+Luther always respected their authority. Towards the end of his
+"Commentary", after having defended at length his view on the meaning of
+"philoutimoumenos" (Rom. 15. 20), which he translates "ambitiosus" with
+Lefevre against Erasmus, he is careful to make a concession to the
+authority of the great humanist.[26] His tone is here very far from the
+disdain which he shows for theologians. He doubtless realized his
+linguistic inferiority.
+
+And, indeed, his personal contribution does not equal even that of
+Lefevre, not to speak of Erasmus. The former had translated Romans 1.3-4:
+"de filio suo . . . definito filio Dei in potestate
+. . . Jhesu Christo domino nostro." Luther translates 
+"horisthentos", "destinato sive definito, declarato, ordinato," etc.,
+without seeming to attach much importance to the varieties of meaning
+which these words represent.[27] He hesitates to replace "Jhesu Christi
+Domini nostri" by the ablative on the ground that the Greek text is
+equivocal.[28] However, he is right in retaining[29] "secundum spiritum
+sanctificationis," which Lefevre had translated "per spiritum
+sanctitatis."
+
+One does not see why he replaced "in die" (Rom. 2.5) by "in diem;" he
+notes "Greci, in diem, et melius,"[30] but no authority, Greek or Latin,
+known to us, can have suggested this.
+
+The Latin text "credita sunt . . . eloquia Dei" (Rom. 3. 2), like the
+Greek "episteuthesan", signifies that the word of God has been entrusted
+to the Jews. Perhaps on account of his preoccupation concerning the role
+of faith, Luther understands the text to mean that the Jews had believed
+the word of God.[31] Nevertheless, he puts aside the reading "ab illis,"
+which would lead to this confusion, and retains only "credita sunt eloquia
+
+Dei."
+
+Another still stranger confusion. In the famous text on Original Sin (Rom.
+5.12) "in quo" is glossed "peccato originali," and this sense is
+maintained in the "Scholia": "Sed nullum aliud est, in quo omnes
+peccaverunt, proprium peccatum, sed unusquisque in suo pecato."[32] Is it
+that Luther has neglected to consult the Greek text of this important
+passage? He would not have understood "eph o" of sin, which is feminine
+(hamartia). But he has expressed himself further on concerning this "in
+quo":
+
+"This is ambiguous in Greek, whether masculine or neuter.[33] Therefore,
+it seems that the, Apostle wished it understood in both senses." 
+
+Consequently a double literal sense, commented on by St.  Augustine.
+Luther holds decidedly to the neuter. The authority of St. Augustine
+dispenses him from a deeper study of the Greek.
+
+This same authority prevented him from noticing a remark of Lefevre on the
+meaning of "katergazesthai" (Rom. 7.18), which is not "perficere" (to
+perfect), but simply "operari" (to do). But it would have been necessary
+to give up the doctrinal opposition between "facere" and "perficere,"[34]
+favorable to his thesis, as we shall see. I cannot blame him for having
+confirmed the meaning of "perficere" in Romans 7.18 by Galatians 5.16,
+where the Greek has another verb,[35] since he is in this place[36] but
+following St. Augustine. 
+
+Father Denifle[37] also appears to me too severe when he condemns the
+exegesis of "ego ipse" (I myself) in Romans 7.25:
+
+"I," he says, "the whole man, the same person, serve in both
+services."[38]
+
+Luther should have consulted the Greek text (autos ego), which authorizes
+the explanation: "If alone, if left to myself." St.  Augustine and St.
+Thomas (unus et idem)[39] are guilty of the same neglect. In reality, both
+explanations are, perhaps, equally probable. Needless to say, St.
+Augustine in no wise authorizes Luther to conclude: "Simsul justus est et
+peccat" (While just he sins). 
+
+On the other hand, Father Denifle is right in censuring Luther-- as
+Melanchthon did before him--for treating the statement about faith in
+Hebrews 11.1 as if "substantia futurarum rerum" (the substance of things
+future) meant the possession of, and power of using, future things:
+"possessio et facultas futurarum rerum."[40] 
+
+We again find in the "Commentary" on Romans 8.35 St. Augustine opposed to
+Lefevre in express terms, this time in a case where the latter is on the
+right side; the love of Christ is indeed that which He has for us, active
+and not passive. In other cases Lefevre has proved unreliable as a guide.
+"Abba ho pater" (Rom.  8.15) is transcribed in Latin and made equivalent
+to "Abba, quod est pater,"[41] as if the article represented the relative
+of the two readings (Rom. 9.10): "Isaac, patre nostro" and "Isaac patris
+nostri," the first is better. Luther prefers the second with Lefevre
+against Erasmus, whose influence is about to begin.[42]
+
+Nevertheless, it doubtless would be unjust to judge of his knowledge of
+Greek by the translation of "philos" by "amor," which came down to him
+from the exegesis of the Middle Ages.[43]
+
+Taking it all in all, Luther made a judicious use of the humanists. Father
+Denifle complains, without giving definite cases, that he sounds the
+trumpet when the Greek text seems to favor him.[44] 
+
+These cases are assuredly not very frequent. Here are two. In his
+interlinear gloss Luther has the certainly correct translation: "quod enim
+mortuus est" (Rom. 6.10), but in the marginal gloss:
+
+"In greco habetur: quod enim mortuum est peccato, mortuum est semel" et
+multo melius. "Quod autem vivit, vivit Deo." Quod, i.  e., quodeunque,
+pronominaliter, non conjunctionaliter.
+
+And he reproaches the translator with going outside his role to give
+exegesis:
+
+"There is no greater vice in a translator, because he imparts to others
+his own idea, which is not in him whom he translates."[45]
+
+He is surely in good faith; he does not suspect, then, that he himself
+adds to the text, or rather inflicts upon it an interpretation contrary to
+the mind of the writer in the interest of his thesis, namely, that sin
+truly dies only at the threshold of eternal life: 
+
+"Nor can he again die to sin, who has once died to sin, for there has
+followed upon it eternal justice, which nevermore sins."[46]
+
+Another case where prepossession is not less evident. The Greek "genestho
+de ho theos alethes" (Rom. 3. 4) has been translated in the Vulgate, "Est
+autem Deus verax." It was impossible to translate "fiat," because Paul
+meant in the logical sense: let it then be well understood that God is
+truthful. This is what Lefevre has well seen in rendering "esto." Luther
+follows him, but treats the verb as a real imperative and connects with it
+the scriptural text which follows: 
+
+"That this is to be taken in an imperative sense is proved by the
+authority which he alleges. . . .[47] As it is written, that is to say
+that we must believe in him, because to be justified is to believe, as
+will be said below."[48]
+
+However, this tendency to seek for his doctrine in the original texts is
+much more apparent in his elucubrations on the Hebrew.  In dealing with
+the Bible, Greek was not alone to be considered.  It was necessary to go
+back to the language of the Old Testament.  This was not without interest
+even for the Epistle to the Romans, which cites so many passages of Moses
+and the Prophets. In this domain, too, a revolution was going on, and the
+conflict between the Dominicans of Cologne and Reuchlin marks its
+inception.  Luther held all the more sympathy with the Hebrew scholar that
+he thought he could get from him support for some points of his doctrine.
+We are obliged to insist on his mistakes, which go even beyond those of
+Reuchlin.
+
+Here is an example connected with justification. When we recognize God's
+justice, He is justified for us; it is, on our part, an act of faith,
+which He reckons unto us for righteousness. At the same time, then, that
+He is justified, He justifies. And this double operation is altogether
+conformable to the double state of the Scripture, passive in Greek and
+Latin, "ut justificeris," active in Hebrew. This is said in express terms:
+
+
+"Thus it is in agreement with the Hebrew,[49] which has: 'I have sinned
+against thee, therefore thou shalt justify,' that is, work justification,
+'by thy word and cleanse when thou judgest.' Consequently, when justified
+He justifies, and when He justifies He is justified. Wherefore the same is
+expressed by the active verb in Hebrew and by the passive in our
+translation."[50]
+
+This astonishing argument is baseless, since the Hebrew text of Psalm 50
+(51).6 has the passive as well as the Greek: "That thou mayest be
+recognized just in thy sentence, and clear from reproach in thy judgment."
+
+
+At times Luther has recourse to the Septuagint which Augustine may have
+led him to regard as an inspired translation. For instance, he notes that
+no one is exempt from concupiscence, "not even a child of one day," a
+reference to Job 14.4 according to the Septuagint.[51] 
+
+But the Hebrew serves Luther above all to establish imputative justice.
+Here again Reuchlin furnishes him with a translation, very literal in
+appearance, on which he engrafts a very fantastic interpretation. 
+
+As an example we may cite the following commentary on Psalms 32.1-2:
+"Blessed are they whose iniquities are forgiven, and whose sins are
+covered. Blessed is the man to whom the Lord hath not imputed sin": 
+
+"Blessed (that is, it is well with him), who becomes unburdened," that is,
+who by grace is made free from the load of crime, namely, the actual sin
+which he has committed. But this is not enough; there must be at the same
+time a covering for sin, that is, his radical evil must not be imputed as
+sin. It is then passed by when it exists indeed, but is not seen, not
+observed, not imputed.... Blessed the man, the Lord will not impute unto
+him his iniquity."[52]
+
+Luther pretends very seriously that the Hebrew constantly maintains this
+distinction between actual and original sin. If it is not recognized, it
+is the fault of the Vulgate:
+
+"These differences are always kept in the Hebrew, but the translation
+lacks precision and everything is consequently very confused."[53] 
+
+He goes on to maintain without blinking that "Pescha" signifies actual
+sin, "Hattaa" original sin, "Aon" the absence of righteousness, "Rascha"
+impiety or the vice of pride, the setting up of one's own
+righteousness.[54]
+
+It may be that Luther was under the spell of the word "to impute"; but if
+he was, he did not delay to exert upon the text the influence of his own
+ideas. It is useless to prove that his nice defining of the meaning of
+Hebrew terms is arbitrary and false. 
+
+When not preoccupied with his theories, he occasionally makes a judicious
+remark. Thus, on Romans 11.27:
+
+"The words, 'When I shall take away their sins' are not in Isaias, but
+either have been added by the Apostle or have been taken from other
+prophets."[55]
+
+Another observation, which indicates some knowledge of the Hebrew
+language, is his interlinear gloss on Romans 15.13:
+
+"In virtute spiritus sancti, i.e., per virtutem spiritus sancti; hebraica
+locutio quae equivocum habet hane prepositionem 'in.'[56] 
+
+That is, Paul would have allowed to appear in Greek the instrumental
+meaning of the Hebrew "beth." This erudition did not come to maturity, but
+it is interesting to see Luther entering upon a path which was later to be
+followed by so many, not without some danger. 
+
+4. LUTHER ON ST. PAUL'S CITATIONS OF THE OLD TESTAMENT
+
+Incidentally we have just met with the delicate question of Paul's
+citations of the Old Testament. Luther does not seem to have any very
+definite criterion. At times he expresses himself as a rigid conservative.
+For instance, to reconcile the divergencies of the text of Paul (who
+quotes from the Septuagint) with the Hebrew, he maintains that both are
+right:
+
+"Consequently, both texts have the same thing, but the LXX express the
+cause, the Hebrew the effect, as is very often the case."[57] 
+
+I do not know where he found this rule or what examples he might have
+given. Elsewhere he expresses himself like a modern critic:
+
+"(The Apostle) cites the Bible as it was possessed by those to whom he was
+writing."[58]
+
+In certain cases Paul seems to depart freely from both texts.  Then Luther
+very justly holds that the Apostle has a right to argue from the
+Scriptures without confining himself to the literal sense. On "Who shall
+ascend into heaven" (Rom. 10 . 6) he remarks: 
+
+"Moses does not use the words in this sense in Deuteronomy 30, but the
+Apostle under the Spirit's influence draws out the meat of them with true
+insight, teaching us as by a powerful argument that the whole Bible deals
+everywhere with Christ alone, when its inner meaning is perceived,
+although on the surface it speaks of other matters--figures and
+shadows."[59]
+
+In this case, then, the Apostle would have argued from the spiritual
+sense.  Father Cornely interprets the passage still more freely,
+maintaining that St. Paul simply uses the biblical terms without precise
+argumentation .
+
+Elsewhere Luther himself offers another solution. On Romans 4.17, instead
+of simply noting that the words, "before God whom he believed" are not
+part of the citation from Genesis (as he reads "credidisti" and does not
+consult the Greek, Lefevre having neglected to do so), he supposes that
+Paul borrows from other Jewish books: 
+
+"This is not in the Hebrew, but it is usefully added to confute the Jews,
+from whose books the Apostle doubtless took it."[60]
+
+This solution is again very conservative if these books of the Jews were
+regarded as inspired, but we have already seen, in citing his remarks on
+Romans 11.27, that he thought that the Apostle had a right to add his own
+words. Lefevre had called his attention to the freedom of some of St.
+Paul's citations (on Rom.  4.17). 
+
+5. THE LITERAL AND THE SPIRITUAL SENSES OF SCRIPTURE
+
+We have seen Luther admit in the most sweeping fashion the spiritual sense
+of Scripture. He was then naturally led on to allegorical explanations. In
+fact, he does use allegory much more than St. Thomas. It was perhaps a
+matter of tradition and habit; or perhaps he wished to preserve, in the
+modern exegesis which he was inaugurating, that spirit whose rights he
+championed.
+
+His allegories are not very remarkable. Paul begins with the Romans, who
+were the head of the world, as John baptized Christ beginning with the
+head; the Epistle of Paul is then like a river of Paradise or the Nile,
+etc.[61] Moses fleeing from the rod changed into a serpent, is a figure of
+the man to whom the law is promulgated.[62] Christ is named Hermon,
+because he was anathematized by the Jews.[63] The Jews coming to Christ at
+the end of time are prefigured by the brethren of Joseph.[64] Those who do
+not for the sake of higher service consent to abandon their present
+occupations, refuse to lend an ass to the Savior, etc.[65] 
+
+Luther's inclination to look at everything from the moral point of view
+prevents him at times from paying sufficient attention to the literal
+meaning. The expression of Romans 2. 22, "sacrilegium facis" (thou
+committest sacrilege), is explained in the interlinear gloss: 
+
+"By polluting and violating, by evil desires, the true temple of God which
+is the heart."[66]
+
+It is not that he does not know what the meaning of "hierosuleis" is; in
+the "Scholia" he interprets it:
+
+"Sacrilege is the pillage and robbery from a temple."
+
+But he immediately launches into two moral meanings to which he adds that
+of his gloss.
+
+This is not the work of an innovator. Nor could one do Luther the honor to
+consider him as a pioneer in historical exegesis.  Scholars of the past
+century have discussed the reason of St.  Paul's addressing to Rome a
+treatise on the relation of the Gospel to the law. They asked whether the
+Romans were imbued with judaizing errors, and they studied the relations
+between Jews and Gentiles. But the questions had long been put. Marcion
+dealt with them; St. Thomas had given them thought. They never occurred to
+
+Luther, until he came to the second of Romans, which speaks of the strong
+and the weak. Brought thus face to face with them, he simply notes that
+everything the Apostle says is aimed at the Jewish superstition, which
+certain false apostles taught concerning foods and days.[67] 
+
+Naturally Luther contemplates with sympathy the freedom of mind shown by
+the Apostle; but the abuses with which Paul had to deal inspired less
+interest than did those of his own times; the Rome of Nero could not take
+his mind away from the Rome of Leo.
+
+However, he felt very keenly the difficulty presented by the sixteenth
+chapter of Romans, which has so much interested modern scholars. How did
+Paul, who had never been in Rome, know so many people there? All his
+Asiatic friends would seem to have gone thither before him. Luther did
+not, as has been claimed, raise this question; and the solution, which he
+gives as personal, is clearly bad: 
+
+"Therefore I meanwhile in my own mind will to think this, that these
+persons are all Achaians and Corinthians, whom the Apostle commends to
+them, that they may know and greet them."[68]
+
+So the Romans are invited to salute friends of the Apostles who remain in
+Greece. The reason would be the Hebrew custom of placing in the Synagogues
+the names of all Jews in tribal order.  Even if this custom had been
+constant, it would throw no light on the problem. 
+
+
+CHAPTER II: THE PERSONALITY OF THE COMMENTATOR
+
+1. THE INFLUENCE OF THE COMMENTATOR UPON THE COMMENTARY
+
+What century has not resounded, in countries whose people were capable of
+self-expression, with the old lamentation over the attacks and the
+victories of evil within us? Plato made Socrates describe the astonishment
+of reason in presence of the unleashed wild beasts of the lower
+appetite.[69] St. Paul had figured in the anguish of his double self all
+humanity involved in sin.  Manichaeism, a long-lived and vigorous heresy,
+assigned to evil an almost divine position; it transported the conflict
+into the spheres of the deity. 
+
+Luther was one of the sons of Adam who suffered most painfully from the
+attacks of what he called concupiscence: leanings to pride, anger, the
+pleasures of sense. He could not, like the platonic Gnostics, attribute
+this domestic hostility to the fall of the spirit into matter, still less
+see in it the eternal battle of two divine principles. 
+
+He thought that St. Paul furnished him with the desired explanation;
+concupiscence was the heritage of man from his first sinful father; it was
+original sin.
+
+St. Paul taught, indeed, that the disobedience of Adam had brought into
+the world a sin which is transmitted from father to son, and the
+punishment of which is death. But he thought. of this situation only by
+way of comparison with the state of the first man, a happy state from
+which the human race had been degraded. He did not teach that we have
+inherited a nature irremediably vitiated. An important group of
+theologians (and it may be said that there is no Catholic theologian today
+who does not belong to it) explained that original sin, transmitted to
+all, is only the privation of this privilege, called original justice,
+granted to our first parents.  Nature is really lowered and despoiled of
+the gifts which God had destined for it, but it is not thereby deprived of
+free-will. And St. Paul had shown admirably that the goodness of God,
+frustrated at first in its designs, had afterwards realized them in Christ
+with more richness. Through Christ, through Baptism received in Christ's
+name--an external act by which the believer subjects himself to Christ and
+is incorporated into Him, sin loses its hold. The Christian is dead to
+sin; he is freed, purified from the original stain. He retains, indeed,
+his nature, composed of a reasonable soul, and a body the tendencies of
+which arc too often in conflict with the soul's aspirations. In this
+respect his situation is not changed. What was called concupiscence before
+
+Baptism may still be so termed. But henceforth the spirit of Jesus dwells
+in His faithful disciple and causes him to live with His life; the
+struggle is no longer between powerless reason and the flesh,--pride,
+anger, luxury,--which dragged it into sin; it is between the spirit which
+is in him, a principle of action which theologians called grace, and these
+same evil tendencies.  Moreover, an assurance of victory is given. The
+Christian must have full confidence. If God has granted him such means of
+salvation, it shows that He wishes to save him.
+
+This is, briefly stated, the economy of salvation to which Luther opposes
+his precise negation already in 1515. The new idea of his "Commentary" on
+the Epistle to the Romans, Denifle and Ficker agree, is the identification
+of concupiscence with sin. This fundamental idea of the system of
+theology, which was taking shape, had not been expressed in his earlier
+writings, but it is asserted at the beginning of the "Commentary" and runs
+all through it. The sinfulness of concupiscence is, he maintains, the
+principal doctrine of St. Paul; the Apostle's chief aim is to establish
+the necessity of Christ's righteousness for the destruction of sin by
+making all recognize that they are sinners.
+
+"The main point and intention of the Apostle in this Epistle is to destroy
+self-righteousness and reliance on one s own wisdom, and to construct,
+increase, and magnify sins and folly, which were not (i. e., not thought
+to be, on account of our good opinion of ourselves); his purpose, I say,
+is to make us realize that sins still exist, that they are great and
+numerous, and thus to bring home to us our need of Christ and His
+righteousness."[70]
+
+In the gloss, he uses the plural sins, but in the "Scholia" the singular
+is employed:
+
+"The supreme object of this Epistle is to destroy, etc.... and to plant
+and constitute and magnify sin (although this was not or was not thought
+to be)."[71]
+
+We shall see more clearly, as we proceed, that this sin is concupiscence.
+However one scrutinizes Luther's propositions, he will come to this
+fundamental point of his system: concupiscence is a sin of our nature
+which nothing removes. Neither Baptism nor Penance change anything. We are
+sinners and must acknowledge it.  Therein lies our only hope of salvation.
+If we are very humble, if we confess our sin, if we have confidence in
+Christ, and if nevertheless we resign ourselves willingly to damnation, in
+case it should be God's will, we shall be saved. 
+
+There is still some indecision as regards the proposed remedy.  Most
+frequently it is humility, which is always on Luther's lips, and already
+it is faith, understood as personal assurance of salvation. But what is
+settled from the start, and what is affirmed with ever-growing confidence,
+is the irremediable corruption of our nature. We are sinners, hence we do
+not possess righteousness, nor anything to make us agreeable to God. By
+the sin of Adam it was human nature itself that was vitiated. It became
+incapable of doing good. If it tries, it but adds presumption and
+insolence to its powerlessness. To endeavor to perform good works is to
+sin more and more irremissibly.
+
+This radical pessimism must lead to despair. Luther understands the danger
+and he offers deliverance. To those who are humble God does not impute
+sin.  Sin remains, the fundamental thesis requires this, but it is not an
+obstacle to salvation. Every sin is, however, essentially mortal, so
+contaminated is the source of our actions. But our sin is imputed by God
+as venial. What is more, to those who believe, faith is imputed as
+righteousness. We are then sinners but, at the same time, if we have
+faith, we are righteous, although, strictly speaking, only in hope.
+Righteousness will not be conferred on us until the moment of our death.
+Righteous and sinners--a paradoxical antithesis, which delights Luther and
+which he develops with endless variations.
+
+He triumphs, for he possesses at last the means to crush pride, to make
+man withdraw into the mire of his sin to bring him back into the way of
+salvation. Yes, he is deeply convinced that all theology was astray, that
+men were deceiving themselves in seeking salvation by good works, that
+they must restore to God all His rights, abase themselves before Him as
+the only righteous One, yield themselves to Him as alone able to perform
+good actions in them, render Him glory by going with docility to the goal
+to which He leads them, blessedness or damnation.
+
+Human liberty disappeared--even human activity--in a pessimistic quietism.
+
+
+Now it is certain that the source of this false mysticism is not in St.
+Paul. A few belated orthodox Lutherans still maintain that it is; but more
+and more numerous in German universities are the professors of theology,
+that is to say, of Biblical exegesis, who no longer seek to find
+Lutheranism in the Epistle to the Romans or any part of the Scriptures. It
+is true that both Testaments proclaim that man is a sinner. This is a
+confession which mystics have ever found sweet, but without. denying that
+God gives grace when He pardons. One of the Psalms congratulates the man
+to whom God "does not impute his sin." But it was understood that God's
+attitude means that the sin is forgiven. And if St. Paul repeats after
+Genesis that the faith of Abraham "was reputed to him unto justice," it is
+but an expression cited in passing, such as it stands, which must be
+understood according to the general spirit of his teaching. Now if the
+modern rationalistic critics considered themselves authorized to address
+reproaches to St.  Paul, they would say that he exaggerated the splendor
+of the gift of God in the Christian soul. For him Christian life, far from
+
+being a prolongation of the life of sin, is such an evident transformation
+that more than one non-Catholic exegete qualifies it as a magical effect.
+This is assuredly going too far, or rather it is putting it badly; but the
+qualification allows us to measure the distance between an unbiased
+interpretation and that which Luther imposed upon his followers. 
+
+The question now arises more definitely: How did this doctrine, the
+novelty of which no one should doubt, take possession of Luther's mind and
+inspire such absolute conviction?
+
+There exists Luther's own explanation, given towards the end of his life,
+in 1545, in the preface of his Latin works. Here he describes with
+complacency the manner in which God gave him light: 
+
+"I was burning with the desire to understand St. Paul's epistle to the
+Romans. Ardor was not lacking, but I was ever coming in collision with
+this expression of the first chapter of Romans, In the Gospel is revealed
+the justice of God."[72]
+
+"I hated the words justice of God, which I had learned from the usage of
+all doctors to understand in the philosophical sense. I thought it meant
+what they call formal or active justice, that with which God is just when
+He punishes sinners and the unrighteous." 
+
+"Notwithstanding the irreproachable character of my life as a monk, I felt
+that I was a sinner before God and my conscience was uneasy. Were the
+satisfactions which I offered God sufficient to appease Him? I had no
+certitude that they were. So I did not love this just and avenging God....
+I was troubled in conscience and I ceaselessly applied myself to this
+passage of Paul in the keen desire to know what it meant." 
+
+"I thus meditated day and night, until God had pity on me. I gave
+attention to the connection of these words: The justice of God is revealed
+in the Gospel, as it is written: the just man shall live by faith, and I
+perceived that the justice of God must be understood of the justice which
+God imparts, that by which the just man lives, that is to say, faith. The
+meaning of the sentence was then: The justice which is revealed in the
+Gospel is passive justice, by which God in His mercy justifies us by means
+
+of faith. At once I felt myself born to a new life. It seemed to me that
+the gate of Paradise opened wide before me."
+
+"Henceforth Scripture took on a new aspect. . . . I next read 'De Spiritu
+et litera.' Contrary to my expectation I found that Augustine understood,
+like myself, by the justice of God that with which God clothes us when He
+justifies us."
+
+Would that Luther had made no other discovery!
+
+We know through the labors of Father Denifle that before the time when
+Luther wrote, sixty-six Latin commentators, in works printed or in
+manuscript, had given the words in Romans 1.17 this interpretation. And if
+any one (several modern writers have done so) took the words "justice of
+God" to mean not the justice communicated but the divine attribute of
+justice, absolutely no one had ever understood it of the avenging justice.
+Where then did Luther get the opinion of "all the doctors"? And if he was
+mistaken about this point, he may well have been mistaken in a different
+way when he attributed to himself an interpretation which he would only
+subsequently have found in Augustine.
+
+The facts are so clear that one might ask if Father Denifle had not taken
+too much trouble to establish them. But it is doubtful whether Luther's
+admirers would have laid down their arms in presence of a less convincing
+demonstration of the levity with which the Reformer related his personal
+history. We still read in Mr. Ficker: "It matters little for our
+appreciation of Luther that nearly all (?) previous commentators
+understood Romans 1.17 in the same way, as Father Denifle has proved with
+meritorious exactitude and wealth of evidence. The new (!) interpretation
+impressed him only when read in Augustine. And that is on the whole what
+is decisive."[73] It is, then, Paul interpreted by Augustine who would
+have made an impression on Luther. But Mr.  Ficker knows that the dominant
+idea of the system came before he learned it from Augustine. What
+suggested it?
+
+Victorious concupiscence, Father Denifle has answered. When Luther entered
+the cloister with the purpose of sanctifying himself, he was too much
+imbued with the teachings of Occam. He fancied that holiness depended
+exclusively on his own efforts.  This notion, which he held in good faith,
+had to give way.  Concupiscence proved too strong for him; he concluded
+that it was invincible and consequently that it was impossible to keep the
+
+commandments.
+
+This invincible concupiscence he identified with original sin, and he
+sought salvation, which he was unwilling to give up, only in the
+righteousness of Christ.
+
+This view of Father Denifle attributes nearly everything in the evolution
+of Luther's system to experience; he makes no allowance, as far as I can
+see, for the direct influence of St.  Paul upon it. Under the
+discouragement of a fall, Luther framed a theory which would help him out
+of his difficulties. Father Denifle notes the time when the identification
+of concupiscence and original sin appears; he exposes Luther's state of
+soul, and, concurrently, the variations of his doctrine. He leaves St.
+Paul out of the question. 
+
+Mr. Jundt likewise insists upon Luther's moral experience. He excludes,
+however, as might have been expected, the notion that Luther had sinned;
+he even identifies Luther's experience with that of Paul. His last word is
+that: "this system rests upon the data of individual experience of the
+believer, confirmed and completed by the testimony of Holy Writ."[74] This
+places Scripture in an important, though secondary place; and such it
+certainly had in Luther's mind.
+
+I believe, for my own part, that Mr. Jundt's formula would be exact if
+only it added some indication of the fact that it was not Holy Writ
+itself, but Holy Writ as it was understood by Luther, that confirmed his
+individual experience. Lutheranism issued from its author's personal
+dispositions, and from his misinterpretation of the Epistle to the Romans.
+
+
+It is not merely by logical deduction that both Catholic and Protestant
+theologians have recognized the important part played by individual
+experience in Luther's doctrine. His passionate personality reveals itself
+frequently. Later on he will speak of adopting some point to annoy the
+Pope. But already in the "Commentary" he writes: 
+
+"God so acts in all the Saints, that He causes them to do with their own
+will what they desire supremely. Philosophers wonder at the contrariety,
+and men do not understand. Therefore, I have said that it will never be
+known except by practice and experience." 
+
+This is what mystics teach concerning supernatural states; but he adds: 
+
+"If in law, which is the teaching of a shadowy justice, practice is
+necessary, how much more in theology!"[75]
+
+Here we see the intention to regulate theology according to personal
+experience, which means according to the disposition of the heart and the
+mind, in the moral and in the intellectual order. 
+
+2. THE MORAL DISPOSITIONS OF LUTHER
+
+What strikes one most in the moral dispositions of Luther is, as Father
+Denifle has well seen, the constant and tormenting preoccupation about
+concupiscence, the notion he has of its power, of its ceaselessly renewed
+forces. When he takes up this subject his style becomes passionate,
+reflecting the vicissitudes of a tragic conflict. 
+
+Already in 1514, in his "Dictation on the Psalter," Luther wrote:
+
+"The passion of anger, pride, lust, when absent, is easily presumed to be
+conquered by those lacking experience; but when it is present, it is felt
+to be most powerful, even insuperable, as experience teaches. And thus
+humbled and weakened, they have cried unto the Lord, despairing of self,
+hoping in God."[76]
+
+In the "Commentary" he identifies concupiscence with original sin and this
+allows him to paint it in most somber colors, reproducing, as he believes,
+the thought of St. Paul and the Fathers. He ends his analysis with the
+most fearful images of mythology: 
+
+"This is the many-headed hydra, the exceedingly pertinacious monster, with
+which we fight in the Lernaean marshes of this life until death. It is
+Cerberus, the unrestrainable barker, and the insuperable Antheus sent down
+upon earth."[77]
+
+Apparently it did not occur to him that it was more powerful in himself
+than in others, or that it was humiliating. He defies other theologians to
+overcome it, applying to them the term "Sautheologen." They are invited to
+consider themselves and their own condition. 
+
+"The very silly swine who hold this view should be warned, brought to
+shame and repentance, at least by their own experience. Because, whether
+they will it or not, they feel in themselves evil desires. Here then I
+say: Try hard, I beg! Be men! With all your might so act that there may be
+no such concupiscence in you. Endeavor to put in practice what you say,
+that God can be loved naturally, without grace. If you are without
+concupiscence, we believe you. But if you live in and with it, you no
+longer fulfill the law. For, indeed, the law says: Thou shalt not covet, '
+but thou shalt love God.  Can one who covets and loves other things,
+really love God? But this concupiscence is ever in us; consequently, we
+never have the love of God, unless it be begun by grace," etc.[78] 
+
+This is not the place to show that the conclusion is not legitimate.
+Theologians could answer that to feel concupiscence is not to yield to it,
+not to entertain desires condemned by the law. Luther knew of this
+distinction, and he could not give it up entirely; he maintains, however,
+that concupiscence itself is opposed to the law. He repeatedly comes back
+upon the point. And this opposition of concupiscence to the law seems to
+us to show decisively that he regarded concupiscence as invincible. 
+
+Father Denifle has maintained that, as early as 1515, Luther held that the
+commandments could not be kept, since concupiscence is invincible. Father
+Grisar has denied this, because Luther always urged that men should resist
+concupiscence and keep the commandments; he only meant that concupiscence
+is ineradicable--a perfectly exact statement. 
+
+In favor of his opinion Father Grisar can point to the undeniable fact
+that in certain places Luther speaks of the impossibility of resisting
+"without the help of grace." This suggests that with grace one might
+resist. His immoderate statements elsewhere would be called forth by the
+fact that the theologians he had in view did not sufficiently acknowledge
+man's dependence on God's supernatural assistance. But Father Denifle has
+shown that he defends the same doctrine about the irresistible character
+of concupiscence in a sermon in which he speaks at the same time of his
+hearers and of himself--persons who were all baptized and of whom at least
+a certain number might be considered as under the influence of grace. 
+
+Here is the text:
+
+"And if God imposes upon us things that are impossible and beyond our
+strength, nobody is thereby excused . . . consequently, since we are
+carnal, it is impossible for us to fulfill the law; but Christ came to
+fulfill alone this law, which it is impossible for us to fulfill (or
+according to the edition of Weimar, not to break). For what the law could
+not do, says the Apostle, in that it was vitiated (St. Paul says "made
+weak) by the flesh....  Behold the law is impossible on account of the
+flesh.... By the law is knowledge of sin. For if it be known that by no
+device of our own and by no help which we can obtain can concupiscence be
+taken from us, and if this concupiscence is against the law which says:
+Thou shalt not covet,--and indeed we do all know by experience that
+concupiscence is invincible,--what does there remain for us?" etc.[79] 
+
+It is strange that, after such a statement, it can still be asked whether,
+according to Luther, concupiscence is really invincible.  He does not
+teach, indeed, that we are always overcome by it; the grace of Christ may
+preserve us and we must do everything for God, acting under the
+inspiration of the purest charity.  Nevertheless, according to the new
+principles taken rigorously, we always sin mortally even when performing
+good works.  Concupiscence, which is in us, is a mortal sin of its very
+nature:
+
+"As the baptized person or the penitent remains in the weakness of
+concupiscence, which nevertheless is against the law: Thou shalt not
+covet, and indeed mortal, unless the merciful God should refrain from
+imputing it on account of the cure which has begun . . ."[80] 
+
+Actual sins being the fruits of this first sin, which is mortal, are
+themselves mortal, for there is no sin venial in itself:
+
+"Hence it follows that no sin is venial of its nature....  Therefore we
+sin when we are doing good, unless God through Christ cover over the
+imperfections of our action and impute them not; sin then becomes venial
+by the mercy of God who does not impute it to us . . ."[81] 
+
+These expressions seem to us stronger than those in which Luther declares
+concupiscence invincible. It is represented as affecting and infesting
+everything, giving to all our actions its sinful character, mortally
+sinful of its nature. If Luther preached resistance to concupiscence, it
+is a happy contradiction which does him credit as a man, though, to a
+lesser degree, it discredits him as a logician. We are not here concerned,
+
+
+however, with his contradictions. We are citing his doctrinal
+pronouncements only as giving an idea of the state of his soul.  It may be
+argued that a preacher who declares concupiscence invincible, has himself
+given way to it.
+
+We shall not dwell on the other indications of moral delinquency which are
+alleged by Father Denifle. He may be somewhat severe in dealing with
+confessions of Luther contained in intimate letters.  They bear on points
+concerning which he was perhaps not without excuse. That his too numerous
+occupations prevented him from regularly saying his Office and celebrating
+Mass[82] would be an indication of lukewarmness; but priests did not then
+say Mass every day, and even now it is not a matter of obligation; the
+obligation to say the Office was also less strict than it is now.  He had
+pretty strong distractions; sometimes he had finished a Psalm or even the
+whole Office without having noticed whether he was at the beginning or at
+the middle of it.[83] But many otherwise good men are not exempt from such
+weaknesses. One would even judge that he possessed an excellent principle
+of spiritual life when he writes: "I am absolutely certain, knowing it by
+my own experience, by yours and by that of everyone whom I have seen in
+disquiet, that it is the prudence of our own judgment which is the only
+cause, the only root of all our troubles. For our eye is very evil.... And
+to speak of myself, alas! how many miseries and troubles have been caused
+and are still caused in me by this evil eye." Father Denifle, who cites
+these words,[84] cannot help concluding: "That is well said." 
+
+The "Commentary" contains so many protestations of complete abandonment to
+the will of God; it so urgently recommends leaving all to Him, breathing
+only His goodness and His justice; it contains such oft-repeated and
+enthusiastic praise of humility, that we can well understand the verdict
+of Father Grisar, already recorded, that it does not convey the impression
+of moral corruption in its author. We are not easily convinced that sin
+and righteousness exist in the same man; we are little inclined to declare
+sinful a man who loudly proclaims his sin.
+
+It is nevertheless incontestable, as Mr. Ficker remarks, that
+preoccupation about humility is less noticeable as one advances in the
+"Commentary".[85] We shall carefully refrain from suspecting Luther of
+definite falls, for instance, in the matter of chastity. The suspicion
+would be simply rash.  But at any rate the least that can be said of his
+ardent zeal is that it is bitter and passionate. And to come to a point
+which is capital, whence came his tendency to discouragement? Later on he
+used to describe with complacency his despair in the religious life, but
+he did not explain it by his faults; he claimed that it rose in him
+notwithstanding heroic efforts to attain sanctity. Father Denifle had
+brushed away this legend of superhuman mortifications. But despair figures
+in the "Commentary" as one of the bases of doctrine: a despair caused by
+sins. It is true that Luther does not speak in his own name, but let us
+weigh well his terms: 
+
+Temptations, or blasphemies extorted by the devil, are first dealt with.
+In his usual extreme manner he pronounces:
+
+"The more horrible and foul the blasphemy, the more agreeable it is to God
+if the heart feels that it does not will it, because it did not prefer nor
+choose it.[86] Frequently and especially in our own times (God) raises up
+the devil, to cast His elect into horrible sins and domineer over them a
+long while,--or at least to impede their good resolutions and lead them to
+do the contrary of what they intended; this He does to make them realize
+by experience that it is not they who will and run. And nevertheless by
+all these means He brings them out of captivity in an unexpected way,
+while they are groaning in despair because they will do and actually do so
+many evil things, and do not actually do nor will to do many things which
+they will. This comes about that He may show forth His power and that His
+name may be proclaimed in all the earth."[87] 
+
+Where did Luther get this information: that sin, even mortal sin, may be
+conducive to salvation--very indirectly!--by the humiliation which it
+causes, had been taught? But the case is totally different here. It is God
+who so tries His elect, who brings them into the state of despair from
+which He saves them.  Yes, yes, so it is, Luther concludes, as if his own
+assertion had particular bearing. And why this divine pedagogy by sin,
+especially "in our own times," if not because it preluded to the great
+designs which Luther was already fostering?
+
+However, whether or not the Reformer's discouragement was occasioned by
+his falls is after all God's secret, and it is not what matters most in
+our inquiry.
+
+He is not the first who was violently tried by concupiscence. A Saint
+Vincent Ferrier compares it to a quagmire; he resigned himself to living
+in its neighborhood, distressed by its fetid odor, though he did not
+resign himself to live in the mud in order the better to do homage to
+grace. Many sons of Adam, even members of religious orders, have given way
+to evil tendencies.  Some have remained vanquished, others have arisen.
+The former have not claimed to be righteous, the latter have longed to be
+freed from sin. None have thought it possible for sin and righteousness to
+coexist in a man. This is what distinguishes Luther's position. 
+
+The view Luther adopted might be well explained as the solution offered by
+pride in presence of a fall. The pride of a monk, who has aspired to
+holiness, revolts at the fact that, instead of being spiritual, he has
+proved himself no better than a vulgar sinner. In the case of an ordinary
+proud man it will be sufficient to deny the gravity of the fault. After
+all, he will say, it was not a mortal sin. But in the case of a man whose
+nature is extremely rich and resourceful, if pride is strong enough to
+assert itself, even when there is an evident sin, the conclusion will be
+that the temptation to which he succumbed was invincible. If he fall,
+anybody would have fallen. Nature is so evil. He despairs of doing
+otherwise; and instead of seeking to recover justice by the humble avowal
+that he was wrong, that it is his own fault, he gives up righteousness. He
+settles down in sin, protesting with false humility that this is where he
+belongs. There is no shame in being like everybody else.
+
+But if this explanation is plausible one can likewise adopt the hypothesis
+that sin was not, or at least not frequently, consummated. In certain
+religious, the very realization that they are subject to an ever-reviving
+concupiscence may produce the impression of painful surprise. The grace of
+the beginnings may have been sensible enough to reduce "the flesh" to
+silence. It was thought conquered. Sin had no right to enter the cloister.
+
+Then one day it reappears. It redoubles its attacks. It is more formidable
+than ever. Has there been a mistake in embracing a religious life. There
+is never lacking an experienced spiritual father to teach the novice the
+difference between the first stings and full consent. But the struggle
+becomes in time fatiguing and humiliating; concupiscence puts itself
+forward as impudent as it is indestructible. If good works do not deliver
+us from this domestic enemy, what is the use of good works? There is
+grace.  But grace, too, is apparently powerless. After confession, which
+should have restored grace if it had been lost, one is no better than
+before. One is apt to despair of God's goodness, unless he is very humble.
+
+
+It is possible that Luther exaggerated the effect which his religious
+profession was to produce in the soul. "And truly," he wrote in 1533, "I
+rejoiced at having become such an excellent man, at having, by one act,
+rendered myself so beautiful and holy.... I admired myself as a being
+capable of miracles, able to make one mouthful of death and the
+devil."[88]
+
+This is undoubtedly an exaggeration. Father Denifle has demonstrated that
+the teaching of the Middle Ages was not responsible for it. But how could
+one who was so extreme in everything fail to exaggerate, in the beginning,
+the graces of the religious life or the sensible effect of Christian
+grace?  We know, from the evidence of the "Commentary", how much he
+exaggerated in those days the grace of the Sacrament of Penance:
+
+"Hence I was so stupid as not to be able to understand that I should
+esteem myself a sinner like others and prefer myself to no one when, with
+contrition, I had made my confession; for then I thought everything
+removed and done away with, even within."[89]
+
+Again I have no trouble to believe him when he says that he exaggerated
+the action of temptations in his soul:
+
+"As a monk I thought salvation impossible when I felt the concupiscence of
+the flesh, that is, an evil movement, whether of lust or of anger or of
+envy, against a brother, etc. I tried many things, I went to confession
+every day, etc. But nothing gave me relief because the concupiscence of
+the flesh always came back.  Therefore I could not rest, but was ever
+tormented by these thoughts: "Thou hast committed this or that sin, or
+again, Thou art under the domination of envy, impatience, etc. 'It is then
+in vain that thou hast entered into this state of life, and all thy good
+works are useless."[90]
+
+In such a case scruples may lead to despair, just as surely as actual
+sins, especially when the victim is not humble and has had too much
+reliance on his own efforts. This is what happened in the case of Luther,
+if we may accept the testimony of a letter dating from the same time as
+the "Commentary", at a moment when this error had given rise to an extreme
+reaction:
+
+"In our day there is a great temptation to presumption in many souls,
+particularly in those who are endeavoring with all their strength to be
+righteous and good; ignoring the justice of God, which is given us in
+Christ most abundantly and gratuitously, they seek of themselves to act
+righteously until they may confidently stand before God adorned with
+virtues and merits, which is impossible. Thou wast while amongst us in
+this opinion, or rather error; I was myself, and even now I am struggling
+against such a view, without having yet overcome it."
+
+A man of Luther's temperament was bound to turn about completely and to
+grapple with those who had, he thought, led him into error. And indeed he
+does not cease his invectives against those whom he calls "justitiarii".
+His disillusionment must have been deep and painful. Despair caused by
+scruples explains less clearly than would more positive infidelities how
+he came to adopt as a remedy the declaration that he was a sinner; but the
+
+hypothesis of scruples cannot be rejected absolutely.
+
+In a word, in the system of Father Denifle, everything unfolds logically.
+Luther, having become a sinner, decides to acknowledge that he is such and
+to adapt to the situation a religious doctrine, the starting point of
+which was invincible concupiscence. 
+
+The weak point of this moral evaluation is precisely that it is too
+logical. Father Denifle, who has followed Luther from contradiction to
+contradiction, might have credited him with a few more contradictions and
+with some of those exaggerations which recur so naturally under his pen. 
+
+In the hypothesis of scruples, bringing on discouragement, one must
+explain how Luther, already inclined to confuse concupiscence and sin,
+came to a definite assertion of their identity. 
+
+Besides, both in the view that Luther's doctrine was occasioned by his sin
+and in the view that it grew out of scruples, there would remain the
+question why he identified concupiscence with original sin, or, rather,
+since theology recognized that concupiscence is an effect of original sin,
+why he became so certain, contrary to the doctrine of the Church, that
+this sin is not remitted in Baptism. It is here that he alleges St. Paul.
+But before weighing his arguments, we must call attention to other
+dispositions of his mind which inclined him to a new meaning foreign to
+that of the Apostle--namely, his ability to hold contrary and even
+contradictory ideas and his lack of moderation.
+
+3. ABILITY TO HOLD CONTRADICTORY OPINIONS
+
+It is very true, as Mr. Jundt remarks, that Luther had a passion for the
+absolute. But when he adds that, "like the Apostle, he had a mind which
+was all of a piece and whose first need was logic," he is confusing the
+requirements of a mind formed by Graeco-Roman discipline and that German
+knack of combining contradictions which Luther installed in the religious
+order long before it appeared in the philosophy of Hegel and Schelling.
+His love of reality does not, indeed, exclude a certain headlong logic
+which goes as far as it can--a logic which allows him, at the end of his
+reasoning, resignedly to retain contrary, if not contradictory, notions.
+Theology, which had little by little assimilated the philosophy of
+Aristotle. had become accustomed to the distinction of concepts
+inaugurated by Socrates. This power of clear and definite distinction is
+the most solid characteristic of the Latin genius, of great value so long
+as it is exercised on concepts which are not empty but which correspond to
+things.  It is true that the nominalists, regarding concepts as mere
+creations of reason, multiplied them in an arbitrary way and indulged
+complacently in the mental exercise of opposing them one to another and
+bringing them into collision, of analyzing everything in a most rigorous
+manner. Moreover, they were not satisfied with a consideration of what God
+had done, but must concern themselves with equal strenuosity about what He
+might have done.  They had departed from the solid ground of realities.
+Luther energetically brushes aside these spider webs. He means to find man
+as he is, mind and flesh, instead of a synoptical table of the
+predicaments, in the order of nature and in the order of grace. 
+
+It was, if you like, his stroke of genius to have understood the
+aspirations of his time. Simplification, a return to common sense, a
+language which all could understand, that is w hat is always sure of
+success with the masses. They understand only later on that the would-be
+simplifiers have been doing a work of destruction, and that it is self-
+delusion to pretend to do away with mysteries while attempting to preserve
+religion. But in the meanwhile the shock of antitheses is not displeasing,
+and the masses heartily applaud one who attacks distinctions which they
+cannot grasp.
+
+If the interlocutors of Socrates, daring and practical, armed with common
+sense and current ideas--if a Thrasybulus and a Callicles might count on
+the votes of the Athenians by preferring solid reasons to concepts founded
+on distinctions, Luther was sure to please a much coarser public, when he
+attacked the subtleties of scholasticism. 
+
+In the "Commentary", the tendencies of which are ultra-mystical, one
+perceives this note, already rationalistic, which would take account only
+of notions that clearly correspond with realities.
+
+The religious problem, Luther tells us, will not be solved by disputing
+about the contrary appetites, or about forms which succeed one another in
+the faculties: man is one, and it is he who is sick. The text is not
+lacking in savor:
+
+"Hence appears the frivolous and delirious character of the conduct of
+metaphysical theologians, who dispute about contrary appetites, as to
+whether they can be in the same subject, and deal with the spirit, that is
+to say, the reason, as a thing apart, with an absolute, complete and
+perfect being, and in like manner with the sensuality or the flesh as
+another thing complete and absolute, and are made to forget by their
+absurd fancies that the flesh is the weakness itself, inasmuch as it is
+the wound of the whole man, whom grace has begun to heal in his spirit or
+reason."[91]
+
+A house which is being restored is a ruined house, not a ruin and a house.
+
+
+There is something seductive in the appeal to current notions and to the
+common sense against the invasion of an artificial dialectics: 
+
+"Their imagination was noxiouslly employed when they followed Aristotle in
+teaching with metaphorical words that virtues and vices inhere in the soul
+like whiteness in a wall, writing on a tablet, and form in a subject."[92]
+
+
+In denying the distinction between the soul and its faculties, Luther was
+very near the denial of grace and charity, which God deposits in them. But
+let us not anticipate.
+
+A Latin mind might experience the same tendencies to simplification, but
+it would remain fixed in negation; it would not try, once it had destroyed
+the supernatural, to get it back by associating contradictory concepts.
+Luther, however, was disposed to this latter course. It was useless to
+show that in his system God at the same time wills and does not will evil,
+
+that man is at the same time righteous and a sinner. He was triumphant. He
+had a doctrine which is inaccessible to the stupid. He was intoxicated
+with antitheses which he pretended to reduce to unity. Here are a few
+examples, borrowed from his religious doctrines, which testify to the
+state of his mind. It is not his system which led him into involuntary
+contradictions; he willingly accepted them: 
+
+"They are still unlearned, who remove from God the will of evil, lest they
+be forced to concede that he sins. . . .[93] This proposition is true: God
+wills what is evil and sinful, as well as this: God understands what is
+evil and sinful.... These things are true: God wills what is bad, God
+wills what is good; God does not will what is bad, God does not will what
+is good."
+
+Evidently, when dealing with the nature of God, our poor little intellect
+is very much embarrassed. If it is wise, it has no illusions about the
+insufficiency of its affirmations, but it does its best, not to define
+God, but to avoid destroying itself by contradictions. For Luther this was
+the supreme exercise.
+
+This juggling excites the indignation of the honest soul of Father
+Denifle.  He exclaims, "It would make one's hair stand on end," on reading
+Luther's remark,
+
+"Real chastity is in luxury, and the more filthy the luxury, the more
+beautiful the chastity."[94]
+
+No, it simply makes one smile. The master is exhibiting his dexterity, as
+he already does in his "Commentary":
+
+"Therefore, for themselves and in reality they are sinners; for God,
+however, on account of this confession, they are righteous; their are
+really sinners, but by the accounting of a merciful God they are
+righteous; without knowing it, they are righteous and, according to their
+knowledge, they are unrighteous; sinners in reality, righteous in
+hope."[95]
+
+What is more, he supports his contradictions by the authority of Aristotle
+"well understood." It doubtless amused him to accommodate his theory of
+justification to that of power and act.  Only with him it is the same
+quality which is at the same time in power and in act in the same subject:
+
+
+"Always a sinner, always a penitent, always righteous."[96]
+
+We know that Renan, a great admirer of German philosophy, was ever more
+and more prone to associate the affirmation and the negation in two
+propositions where both are apparently edifying, but are at the same time
+of such a nature as "to make one's hair stand on end." But Renan was the
+first to smile at his doctrines and at himself; at least, he affected this
+attitude through deference for the Gallic mind. Luther was terribly
+serious.
+
+4. LACK OF MODERATION
+
+Foreign, and even brutally hostile, to the distinction of concepts,
+Luther's intelligence was absolutely devoid of moderation. Moderation and
+tact would seem to be other gifts come to us from the Greeks, were they
+not at the same time natural endowments of the French genius. Luther
+develops all his passion for the absolute in practical judgments. There is
+no half way, no compromise, no indulgence. Here again we proceed by
+examples.
+
+Luther, the author of a movement the most definite result of which is
+liberty of inquiry. notably exaggerated the domain and the character of
+obedience. This is one of the most interesting surprises caused by the
+publication of the "Commentary". Extreme in everything, Luther began by
+demanding obedience towards all prelates, towards everybody, and by giving
+to this obedience the character of theological faith. One has to read his
+statements to believe this. Theology, he tells us, says that heretics have
+not the faith because they choose what they believe. The same is true of
+the disobedient:
+
+"In like manner, the proud man sets himself in opposition in his mind to
+the commandment or the counsel of one who rightly warns him for his
+salvation. Not believing him, he believes nothing and all his faith
+perishes on account of the stubbornness of his judgment."[97] 
+
+Here faith is lost by a refusal to comply with a mere counsel.  And Luther
+was about to erect the whole edifice of the Reformation upon faith alone!
+It is not a passing exaggeration; he insists and this, precisely, to show
+that we can be saved only by faith. Heretics claim to believe in Christ,
+but they do not believe in what is His. 
+
+"What are they (the objects of faith)? The Church, and every word that
+proceeds from the mouth of one of the Church's prelates or of a good and
+holy man, is the word of Christ, who says: He who hears you hears me.
+Those consequently who withstanding the Church s prelates, will not hear
+their word, but follow their own lights, how, I ask, can they believe in
+Christ?"[98]
+
+In a word:
+
+"What is the mouth of God? That of the priest and of the superior!"[99] 
+
+Faith, moreover, extends to interior illuminations. Such being the nature
+of faith, who can be sure that he really believes? The only resource left
+is to cast oneself blindly upon humility:
+
+"Since the matter stands thus, we must humble ourselves profoundly.
+Because, since we cannot know whether we live on every word of God and
+deny none (God saying many things to us by the superior, many by the
+brethren, many in the Gospel and the Apostles, many interiorly), w e can
+never know whether we are justified, whether we believe."[100] 
+
+So begins the joyous message of Luther, that second Gospel which has given
+to Christian souls "living faith in a God, who, through Christ, cries out
+to the unhappy soul, 'I am thy salvation,' and firm confidence that we may
+rest in God!"[101]
+
+Luther does not stop at a confident doubt; the excess of this obedience
+must, under penalty of loss of faith, lead to despair; and this is, as a
+matter of fact, what he demands as an indispensable condition of
+salvation.  To be saved one must renounce all that is good, even
+salvation. It is not question of that self-abandonment to the will of God
+which accepts even the sufferings of hell, if God has so decreed. Beyond
+this point, already near the brink of an abyss where vertigo threatens,
+the Church does not allow one to go. Luther is not stopped. True love of
+God requires, he holds, that we resign ourselves to His loss not in a
+hypothetical, but in a very real way, and with all our heart: 
+
+"Therefore we must fly from good and accept evil, and this, not only in
+word and without meaning it at heart; but we must in a wholehearted way
+profess to be and wish to be, lost and damned. .
+. ."[102] 
+
+This is but to imitate Christ! Luther utters this blasphemy at a time when
+he still thinks himself a submissive son of the Church.  He affirms of
+Christ
+
+"that He really and truly offered Himself for eternal damnation to the
+Father for us."[103]
+
+That settled it. He had ventured upon the leap into the abyss.  But he
+reserved an escape for himself, and on his return he brings confidence
+with him. The sincere desire of damnation is the means to avoid it: 
+
+"They are rather damned who flee from damnation."[104]
+
+How, then, was the desire sincere? We do not understand him, we protest;
+we accuse him of bad faith and of juggling with words.  No, it is the
+philosophy of the absolute. We are evil, there is only one thing to do,
+and that is to sink into our evil; there we find the goodness of God. 
+
+Such disinterested love of God cannot well he satisfied with
+half-measures.  Luther has confessed, we have seen, distractions in the
+recitation of the Divine Office. Is one to be damned for such an offense?
+Canonists had reassured the conscience by requiring only virtual
+attention.
+
+"A fine pretext for laziness and wickedness!"[105]
+
+In a really amusing way he puts before us canons and monks who,
+tranquilized by Canon Law which commands them to "say" or "read" the
+Office but not to "pray" it, snore on in peace![106]
+
+Such sayings are jests only. But coming from Luther they leave a bitter
+taste.
+
+Carried away by the idea of pure love he will not suffer anybody to speak
+of his rights and of justice. It is the duty of princes to see that
+justice is respected by their subjects: but all, even princes, should be
+ready to surrender their rights:
+
+"The very word "justice" so nauseates me, that I would suffer less to be
+despoiled of my goods than to hear it. It is, nevertheless, always in the
+mouth of the jurists.
+
+Naturally, that is their function! But what a race they are!
+
+"There are no people in the world so simpleminded as the jurists and those
+who rely on good intentions, or their proud reason . .  All justice is
+then humility . . ."[107]
+
+Since everyone is in the wrong before God, no wrong can be done anyone;
+nobody is wrong and nobody is right. Let men realize this and then we
+shall have peace:
+
+"Thereby is the cause of contention taken away from all men, etc.
+. . ."[108] 
+
+Such excess could not be stayed by texts, even those of Scripture. One
+should not love oneself at all. Nevertheless, Scripture says we must love
+our neighbor as ourselves. It would seem, then, obvious that the love of
+self proposed as a standard, is legitimate. What can the text mean? That
+one must cease to love oneself to love one's neighbor! This is said in so
+many words: 
+
+"Consequently I believe that, by this precept "as thyself, man is not
+commanded to love himself, but that by it that love is shown to be vicious
+by which one in fact loves himself . . . It is a self-concentrated love,
+from which thou shalt be freed only if thou cease altogether to love
+thyself, and, forgetful of self, love only thy neighbor."[109] 
+
+Exaggeration, subtlety, misinterpretation. . . . What could be expected of
+an unbridled mind, which amused itself in paradox as in its proper
+element?
+
+Luther had only contempt for the simpleminded, "rudiores;" a nickname for
+those of good intention, "boneintentionarii;" jests for canons who snored
+so peacefully. His most violent attacks were against philosophers and the
+""justitiarii"," who are, I think, the representatives of speculative and
+moral theology. He is resolved to set up, instead of a teaching which is
+founded upon human reason and aims at establishing human justice, a wholly
+divine doctrine based on the word of God. He has a mission, although,
+being still in the Church, he claims that this mission is regular. 
+
+We have already spoken of his hostility toward philosophers, especially
+Aristotle. The condemnation is without appeal, based upon a deep knowledge
+of the subject-matter:
+
+"I indeed believe that I owe to the Lord this service of barking against
+philosophy and urging to the study of Sacred Scripture.  For, if anyone
+without my experience did it, he might be timid or might not be believed.
+But I, having now studied it for many years, having observed and listened
+to many, see that it is a study of vanity and of perdition." 
+
+The extent of these studies was not very great, as readers of Father
+Denifle know. But let us take note of the motive of his condemnation. If
+he rejects Aristotle, it is not that he prefers Plato to him, as did
+certain humanists; and he does not think at all of overturning the edifice
+of Christian theology in order to gain an advantage for experimental
+study.  Nothing is more foreign to his mind than scientific
+preoccupations.  Science, too, nauseates him. He appeals to things
+themselves in a passage of apocalyptic beauty: 
+
+"Behold we value highly the science of the essences, operations and
+passions of things; and the things themselves are ashamed of, and groan
+over, their own essences, operations and passions."[110] 
+
+Things in St. Paul groan in expectation of the liberty of the children of
+God. Luther makes of this voice a condemnation of science. The prosopopea
+is bold and splendid but disquieting for reason; it must sound strange to
+that part of the modern world which is most insistent on its connection
+with Luther. And it is not merely things which protest against the study
+to which men subject them; what is decisive is that the Apostle has
+condemned philosophy in an absolute way. Always in the absolute! 
+
+"If, indeed, the apostle had wished it to be understood that some
+philosophy was useful and good, he would not have condemned it
+absolutely."[111]
+
+Luther did not, however, expect to transform the schools in a day. The
+advice he gives his pupils is not of irreproachable straightforwardness.
+Let them study philosophy, but as an error which must be refuted, and in
+order not to be ignorant of the language of the age: 
+
+"Wherefore, I urge you all as strongly as I can to go through these
+studies quickly, not seeking to establish and defend them, but rather as
+we study the evil arts, that we may destroy them, and errors. that we may
+refute them. In like manner, take up this study that we may reject what we
+learn thereby, or at least that we may understand those with whom it is
+necessary to converse.  For it is time to emancipate ourselves from other
+pursuits, that we may learn Jesus Christ and Him crucified."[112] 
+
+It is then Paul's doctrine which shall replace the theology of the
+schools, which is too much imbued with philosophy. It must, above all,
+give a mortal blow to the pernicious teaching of the "justitiarii". 
+
+These latter are not religious whose excessively zealous observances would
+have disgusted Luther with good works. I meet only once with the word
+"observantes." Luther addresses to them the reproach which they have
+always drawn upon themselves (and sometimes deserved) from those who are
+more or less lukewarm and relaxed: 
+
+"The observant fight among themselves for the love of God, but pay no heed
+to the precept of charity."[113]
+
+He appears to have been wholly unconcerned about attempts at reformation
+in his order, whose numbers, indeed, were not considerable enough to draw
+upon themselves such sweeping and violent attacks. No, the matter is not a
+quarrel between monks; the whole Church is nearly destroyed. She is the
+victim of a latent Pelagianism which is held by doctors who themselves are
+
+unconscious of the danger. Even the evils of ecclesiastical administration
+come from it.
+
+"Of this error the essence is Pelagianism. For, although there are at
+present no professed Pelagians, many are really such in their views,
+albeit ignorantly."[114]
+
+And again:
+
+"Therefore most absurd and quite favorable to the error of the Pelagians
+is the common saying: "To one who does his best God infallibly gives
+grace," which is based on the idea that the "one who does his best" is
+able to do something. Hence the whole Church is nearly subverted, namely,
+by confidence in this saying."[115] 
+
+Concerning the famous axiom: "To one who does his best God infallibly
+gives grace," Father Denifle has said all that is necessary. He recalls
+that, rightly understood, it supposes the action of what is called actual
+grace, that is to say, a special divine concursus leading the soul to
+sanctifying grace. Luther admitted the principle in 1514, consequently
+just before the composition of his "Commentary",[116] But what is of more
+interest, it was in a nominalistic sense that he held it. Now the
+nominalists too frequently confounded the general concursus of God with
+the special concursus called actual grace,[117] to such an extent that
+they did not leave in sufficient relief the doctrine concerning God's
+salutary action in salvation. Luther who, as we have seen, counted too
+much at first on his own strength, perceived this fact more or less
+suddenly in the light of Pauline theology interpreted by St. Augustine.
+The reaction was violent; he saw everywhere only latent Pelagianism. And
+it is precisely according to another nominalist principle that he sought a
+remedy. This seems very strange in truth, but is it not one of the
+conditions of our mind to use the resources it has at its command?"[118]
+And perhaps a more topical explanation may be suggested. 
+
+Luther, trained in nominalist theology, experienced the need of
+disengaging himself from it only when he felt that it gave too much to
+nature. That one may love God above all things, with only the powers of
+nature, is a blasphemy for the Augustinian neophyte, who has measured (and
+exaggerated) the nature of concupiscence. But there was in the theology of
+Occam a principle which seemed to give everything to God, the principle,
+namely, which makes truth dependent upon the good pleasure of God; which
+allows for the simultaneous existence of contraries, good and evil, and
+which recognizes in good, in charity itself, no other meritorious value
+than the free acceptance of God. Did not Occam say explicitly that one can
+be agreeable to God, accepted by Him and loved, without any supernatural
+form inherent in the soul?  Doubtless, these questions were treated, as
+usual with Scholasticism, in an abstract way, as pertaining to a possible
+order, which Almighty God had not established, and with deference to the
+actual order, in which God really gives grace. But, nevertheless, Occam
+remarked very characteristically that his opinion is farthest removed from
+the error of Pelagius.[119] And, indeed, is not God thus made freer and
+salvation more gratuitous?  Even if you are clothed with grace, He can
+refuse to accept your dispositions! And if it pleases Him, He will accept
+them, even if you are devoid of every supernatural gift! Thus all depends
+on His free will.  For a mind like Luther's, in love with the absolute,
+would not what was absolutely possible become a fact?  Since infused grace
+was unnecessary, why retain it?
+
+Let us stop before we enter upon a discussion of his system. We are only
+looking for the dispositions which were to lead to it.  Suffice it to say,
+in conclusion, that a man is badly equipped to react against a doctrine
+when he knows that doctrine alone, especially if its fundamental concepts
+are false. How indeed can one get rid of the principles? And it was
+another disadvantage, especially for a mind so inclined to extreme views,
+to attach one's self to only one doctor, even though he were the greatest
+of all.
+
+We here touch upon a very delicate point. St. Augustine is the Doctor of
+grace. His system is assuredly the system of the Catholic Church. But it
+is undeniable that at times his expressions are too strong, that he even
+struck too hard, and that in his very laudable desire to crush a dangerous
+heresy he gave a rather unnatural explanation to some texts of the Epistle
+
+to the Romans. Gaston Boissier has somewhere raised the question, whether
+the African writers had not a special temperament of their own.
+Tertullian, St. Cyprian, and St. Augustine would seem to have upheld what
+they considered the truth with a certain spirited sort of logic which led
+the two first into excesses, and Tertullian even into heresy. Once more, a
+sense of ecclesiastical tradition, a very thorough study of Scripture, all
+the gifts of nature and of grace, made of Augustine an incomparable
+Doctor; but precisely on account of his unique genius, he exerts over
+those who read him alone a sort of fascination, and if they are naturally
+inclined to exaggerate, they will be apt to set up all his formulas as
+dogmas, his whole exegesis as truth of faith.  Very frequently, with
+marvelous tact, Augustine himself softens, by a shading or a distinction,
+what is too strong in an expression. Trouble lost for absolute minds who
+profess, like Luther, to despise distinctions. After Luther, Jansenius,
+Baius, and so many Jansenists, wrongly understood Augustine's thoughts,
+because they failed to interpret certain striking expressions by his
+doctrine considered as a whole. Father Denifle recognizes very distinctly
+that Luther supported his system by an inexact exegesis of St. Augustine,
+and that he clung to it "as if St.  Augustine were the Church, and each of
+his explanations were infallible."[120] 
+
+After all, an Augustinian reaction against the naturalistic tendencies of
+the Occamists had already achieved results. St.  Thomas had adopted, and
+we may say co-ordinated, the Augustinian doctrine, while he took from its
+expressions what might be misleading, by the very fact of employing them
+in his theological construction. In modern times, many have complained
+that St.  Thomas was a too faithful disciple of the Doctor of grace. 
+
+But Luther regarded the Thomists, as well as the Scotists, as mere
+sectaries bent on defending the master through passion,[121] with
+excessive veneration, heeding words more than the spirit.  But was not his
+own preference for St. Augustine more exclusive from the fact that he was
+a Hermit of St. Augustine? The glory of the saint, who was claimed as
+founder, merged with that of his order. When Wimpfeling asserted (in 1509)
+that St. Augustine had not worn the habit of the Hermits, and cast doubt
+upon the authenticity of two sermons, Luther, feeling the outrage offered
+his order as a personal affront, assailed Wimpfeling with bitterest
+invectives: "I would that Wimpfeling, the prattler, the carping impugner
+of the glory of the Augustinians, had read these two sermons (but it were
+first necessary that he should have called back his reason, which has gone
+far away as a result of his stubbornness and jealousy), and that he had
+put a pair of spectacles before his mole-eyes. . . .[122] Why, then, dost
+thou, an old man, a raving maggot, accuse Hugh? Why dost thou undertake to
+correct the Church of God?"[123]
+
+Here we see the Church of God engaged in the little quarrel!
+
+Luther will write later in the "Commentary":[124]
+
+"With such folly do members of religious communities contend about their
+patriarchs."
+
+We may then believe that Augustine was particularly dear to Luther as the
+"founder" of his order. As for St. Thomas' doctrine, that concerned the
+Thomists.
+
+Had Luther known the Thomistic doctrine, he would probably have judged it
+too rationalistic, for it was preoccupied with reconciling reason with
+faith, while he was setting up faith against reason. Although the
+circumstances, which developed this passion for mysticism that went to the
+point of contempt for scholastic theology, are still obscure, one must
+certainly assign a considerable place to the influence of Tauler. Father
+Denifle, who is so well acquainted with German mystics, has not been
+prevented by any fraternal spirit from showing how inconsistent with
+himself was this great Dominican mystic.[125] Tauler pleased Luther very
+much as a German, he thought him the author of the German Theology which
+he (Luther) was to publish.[126]
+
+In the golden period of the Middle Ages men were conscious of receiving
+light by speculative theology and by mysticism; but mysticism reflected
+theology "as the moon reflects the sun." This comparison did not perhaps
+do full justice to the very real and precious light which came from
+mysticism itself. Be this as it may, the partial divorce of the fifteenth
+century was a great misfortune. With Luther, it is mysticism alone, and a
+false mysticism, that of quietism, which sets itself up against theology.
+We shall cite but one text taken from the "Commentary":
+
+"Then are we capable of His works and counsels, when our counsels cease
+and our works take rest and we become purely passive in regard to God,
+both in the matter of our interior and our exterior actions."[127] 
+
+Almost immediately afterwards, Luther cites Tauler:
+
+"Of this passivity in regard to God see Tauler, who above all others has
+lucidly and ably dealt with this matter in the German language."[128] 
+
+
+CHAPTER III: THE NEW DOCTRINE AND THE EPISTLE TO THE ROMANS
+
+1. THE TEACHING THAT THE JUSTIFIED MAN LIVES IN SIN THE ANTITHESIS OF ST.
+PAUL'S DOCTRINE CONCERNING GRACE
+
+Luther was not the first monk to vindicate the rights of grace against the
+encroachments of nature, to attack philosophy in the name of simplicity of
+faith, to express suspicions about man's judgment, to denounce the peril
+of trust in self. Had he limited himself to these topics he doubtless
+would, on account of his tendency to go to excess and of the confusion of
+his mind, have overstepped the limits of orthodoxy and sought to lead
+souls in the ways of quietism. Would the Church have intervened? Would he
+have yielded? Idle questions. What is certain is that his doctrine would
+have remained in a haze of German mysticism; he would have lacked a
+clearly affirmed theological doctrine and at the same time a basis for
+defense. But he came forth from the cloister, proclaiming a doctrine
+founded upon the Scriptures and destined to replace the traditional
+system, which had grown up under the influence of the disciples of
+Aristotle. Thus he became at the same time the champion of grace and the
+herald of truth and of God. The particular portion of Scripture which he
+presented as his warrant for denouncing the errors of his contemporaries,
+was the Epistle to the Romans.  The "Commentary", which he gave of it in
+his Wittenberg lectures of 1515-1516, formulated a well-defined
+theological doctrine and made clear a plan for self-defense. 
+
+In this work the vague feeling of being under the dominion of an
+invincible concupiscence, becomes the affirmation that baptism does not
+efface original sin. Grace ceases to be a reality and Luther is saved from
+despair by satisfying himself that St. Paul taught that the righteousness
+of Christ is imputed to us. As a mystic, he had desperately preached
+humility, which suffices for everything and is the best guarantee of
+salvation. He now substitutes for this too negative notion that of faith,
+a principle of life. This is certainly in St. Paul, though Luther did not
+yet know what meaning he should attach to the Apostle's term. The last
+point of his development will be certitude of justification and even of
+salvation. But in this "Commentary" his notion of faith is still too vague
+to serve as a basis for certitude. He remains undecided, leaning more
+towards that incertitude, which the mystic was particularly prone to
+inculcate.
+
+How did Luther see all this in St. Paul? It is unfortunately hard to say,
+since he is during a good part of his course feeling his way, and arrives
+only gradually at clear and definite expressions. This shows that he did
+not start out with a settled system, which he was ready to force upon St.
+Paul's words. His hesitation, however, is not the same on all points.
+Although he insists more and more, even in the course of his "Commentary",
+
+upon the incapacity of human nature and its evil tendencies, it is on this
+point that we find least contradictions. It is impossible to attain
+righteousness; one must admit that he is powerless, confess that he lives
+in sin, and by this avowal solicit mercy. How connect this dreary doctrine
+with that of the Apostle? 
+
+It is the very antithesis of what St. Paul teaches.
+
+The subject of the Epistle to the Romans is, as St. Augustine understood,
+what we call grace. Its "propositio" is contained in Romans I. 16-17: "For
+I am not ashamed of the Gospel; for it is the power of God unto the
+salvation of every one who believes, the Jew first, and the Gentile. For
+therein is revealed the righteousness of God, going from faith to faith,
+as it is written: But the righteous by faith shall live." The Gospel is a
+divine power, acting for the salvation of men, and of all men, provided
+they believe, that is to say, embrace the doctrine. By that act they ask
+and receive the gift which is offered them; and it is thus that the
+righteousness of God is revealed,--revealed in them, since, as a
+consequence of their faith, it is a principle of life. 
+
+There are two parts in the development of this theme: (1) Those who
+believe are justified in the blood of Jesus and sins are consequently
+forgiven them; this is justification, (Rom. 3.21-30) which, in itself,
+assures salvation (Rom. 5.1-11), and is "a power of God unto salvation"
+according to the theme of Rom. 1.16; (2) Those who are justified live
+according to the Spirit, who is a certain pledge of salvation (Rom. 6 and
+8), and this is Christian life, which is also "a power of God unto
+salvation."
+
+The passages just cited are, so to speak, the center of the teaching: they
+are parallel and end with the perspective of salvation. According to the
+first, sin is remitted; and, nevertheless, according to the others, men
+still fight against sin or the flesh, which has retained the impress of
+sin. But the synthesis is found in the idea of the power of God which is
+exerted in both cases. This power, principle of spiritual life, is at the
+same time a principle of death for the flesh. One lives in Jesus Christ
+because he has received it, and it is what has done away with sin. Now
+this power of God is precisely, as it is already said in the theme (Rom.
+1.17), the righteousness of God, a righteousness which is consequently
+communicated and which constitutes the state of righteousness. Whatever
+quibbles there may be, then, about this or that text, on the meaning of
+"to justify" and of "justification" in a particular passage, it results
+from the most intimate structure of the Epistle that the righteousness of
+God given to men is the principle which makes them die to sin, to live
+unto God in Christ.
+
+Around these fundamental points the other parts of the Epistle group
+themselves naturally.
+
+If, while keeping exceptions in mind, St. Paul condemns Judaism and
+heathenism, it is to throw into more striking opposition former times and
+the Gospel era, the patient tolerance of God and His granted
+righteousness.  The sin of Adam had spread over all mankind; even the
+situation of the most highly favored was extremely sad. Far from being a
+remedy, the old law, by multiplying commandments, only increased the
+number of transgressions. The will found in it no resource; it rather
+revolted against the precept, abandoning itself to evil. But with Christ
+all is changed. Because of His blood God pardons all who believe in Him.
+By faith and by Baptism,[129] man is transformed, he becomes one with
+Christ. If by the misdeed of Adam all have been made sinners, by the grace
+of Christ they are now rendered righteous.  The change wrought in the soul
+is so great that it is compared to death followed by life. There is then
+in Christians a real principle of life, which is the charity that God has
+for us, and that is poured forth into our hearts. Paul does not, indeed,
+use the terms of Aristotle; he does not distinguish the soul from its
+powers, nor charity, which is a virtue infused into the will, from
+sanctifying grace, which is grafted in the soul. But he affirms that the
+Christian is henceforth dead to sin, and, consequently, freed from the law
+of Moses. And by law Paul does not mean only the ceremonial part of the
+old legislation but the whole law, even in its moral enactments, inasmuch
+as it constituted a distinct dispensation Bossuet had very well understood
+this: "It is then that law given to Moses, that holy law of the decalogue,
+that the Apostle calls a ministry of death, and consequently the letter
+which kills."[130]
+
+But the Apostle, in declaring that the Mosaic law was abrogated, did not
+renounce the eternal prescriptions of ethics. He looked upon them as
+imposed by a new law, the law of the new alliance, the law of charity. Its
+requirements surpass, indeed, those of the earlier regime, but the
+Christian is enabled to meet them by obeying the Spirit which animates
+him.  Sin had not given up the struggle. It seems, even as we read St.
+Paul, that it had some base of operation in the flesh, which fights
+against the spirit; but sin was no longer the master, it no longer
+dominated. Man was, all in all, delivered from its power and enabled to
+enter the service of righteousness (Rom. 6.18). 
+
+How did Luther, using St. Paul, arrive at a result so diametrically
+opposed to this teaching?
+
+The radical vice of his argumentation is a lack of historical sense. He
+took no account of the concrete situation with which the Apostle dealt.
+All the words of the Epistle were considered to be addressed to himself,
+an Augustinian monk deeply impressed with the danger and the power of the
+flesh. He felt intimately all that Paul said of the powerlessness of
+works; he was only too well convinced of that by his personal experience.
+How often had he not witnessed that tragic conflict between the will on
+the one side, and on the other sin, which dwells in the flesh? It is,
+then, really sin that dwells in us. The identification of sin and
+concupiscence Luther claimed to find in the seventh chapter of Romans,
+particularly in verses 14-17: "I am carnal, sold under sin. For what I do
+I know not; for I do not that good which I will, but the evil which I hate
+that I do. If I do that which I will not, I recognize that the law is
+good. So now it is no more I that do it, but sin that dwelleth in me." 
+
+Though St. Paul speaks in the first person singular, he is really not
+dealing with his own experience nor with that of baptized Christians; he
+speaks of man before his regeneration. This was St. Augustine's first
+interpretation; during the Pelagian controversy he adopted, as more
+probable, the view that the Apostle has in mind the regenerated man who is
+still conscious of his powerlessness to keep God's law without the help of
+grace.
+
+Luther adopted and distorted this second interpretation of St.  Augustine,
+maintaining that St. Paul represents himself, and spiritual men in
+general, as still in the state of original sin and powerless. 
+
+He accumulates twelve arguments to prove his thesis and they all
+presuppose the same principle. They would be conclusive only if one had to
+choose between two classes of men, men completely spiritual and men so
+completely enslaved by sin that they do not even struggle against it. 
+
+Here is the first argument:
+
+"The whole text expressly indicates a groaning under, and a hatred for,
+the flesh and a love for the good and for law. Now this can in no wise be
+said of the carnal man, who rather hates the law and scoffs at it and
+follows the flesh unresistingly."[131] 
+
+With much boldness, and not without psychological clearness of vision,
+Luther asserts that it is a spiritual man who cries out: "But I am carnal"
+(Rom. 7.14); for this is not the language of one who gives himself up to
+sin.  A first objection to understanding St. Paul's words as spoken of a
+Christian under the influence of the Holy Ghost was that such a one could
+not make the confession of Romans 7.15: "I do not that good which I will;
+but the evil which I hate, that I do." The text is formal, and Luther
+allows that the literal meaning is opposed to his exegesis. Thus to the
+human understanding do his words sound. But this fact could not prove an
+obstacle to one who could claim the spirit! The text, then, means nothing
+more than that the spiritual man does not act with as much ease as he
+would like, and especially, that he does not practice virtue so well as he
+
+would wish. Augustine's distinction between "facere" and "perficere" comes
+in conveniently to solve the difficulty.[132]
+
+If it be objected that the spiritual man is declared to be at the same
+time wicked and righteous, Luther simply admits the antimony. He finds
+support for it in this same text, in which St.  Paul speaks of a sinner
+and which the Commentator understands to refer to the spiritual man: 
+
+"Thus there is a "communicatio idiomatum" in virtue of which the same man
+is spiritual and carnal, righteous and sinful, good and bad. Just as the
+one person of Christ is at the same time alive and dead. . . ."[133] 
+
+In fact, Luther has finally his proof that concupiscence is indeed a sin,
+which remains as sin in the Christian. "Now then it is no longer I that do
+it, but sin that dwelleth in me" (Rom.  7.17). Nothing could be clearer;
+theologians would not have failed to grasp the point if they had not been
+so carried away by Aristotle as to miss Paul's teaching: 
+
+"Have not then the fallacious metaphysics and philosophy of Aristotle
+deceived our theologians according to human tradition?  They have been
+misled into thinking that, because sin is abolished by Baptism or Penance,
+it were absurd for the Apostle to say: but sin that dwelleth in me . . .
+Consequently sin is in the spiritual man, left there to exercise grace, to
+humble pride, to repress presumption; and if one does not sedulously try
+to fight this sin, without doubt he has already within him something that
+will bring about his damnation, even though he be guilty of no other
+sin."[134]
+
+The opposition to St. Paul is flagrant: the baptized Christian is still,
+according to Luther, exposed to damnation. Now the eighth chapter of
+Romans begins with the words: "There is now therefore no condemnation to
+them that are in Christ Jesus." In the "Scholia", so abundant in regard to
+Romans 7-7 ff, there is not a word concerning this text. In the marginal
+gloss there is nothing, while in the interlinear gloss the new doctrine is
+
+clothed in words which avoid a too pronounced opposition:
+
+"There is now then no condemnation, although not no sin, as has been said,
+because by the flesh they serve the law of sin."
+
+We have thought it important to place in its setting the text which made
+such an impression on Luther. Perhaps, according to his experience, he was
+only inclined to conjecture that sin remains and was fixed in his opinion
+by the text; it may be, however, that he was already convinced of the
+survival of sin and that to this text he owed only its identification with
+original sin. However that may be, it is to these words that he refers us
+at the moment he defines his theory, after having explained the seven
+first verses of the fourth chapter of Romans:
+
+"It is not question here of sins in deed, word and thought, but of that
+fuel (fomes) of sin, of which chapter 7 below speaks: Not I, but sin that
+dwelleth in me. And in the same place he calls it the passions of sins, i.
+e., desires, affections and inclinations to sins, which, he says, produce
+fruit unto death. There actual sin (to use the term of theologians) is
+more truly a sin, i. e., the work and fruit of sin, but sin is that very
+passion, fuel (fomes), and concupiscence or proneness to evil and
+difficulty in doing good, as below: 'I knew not that concupiscence was
+sin."
+
+It requires coolness or levity to sum up Romans 7.7 ff. in the words: 
+
+"I knew not that concupiscence was sin."
+
+But it must be confessed that this text, which had so impressed Luther,
+was embarrassing for those who interpreted it of regenerated man.
+According to the traditional principle of Catholic exegetes, who never
+sacrifice a recognized truth to what one might personally take to be the
+meaning of a text, Augustine had maintained energetically that sin is
+remitted in Baptism. As for this text, he had solved the difficulty by
+taking the words loosely, conceding that Paul had called concupiscence
+sin, although not in the proper sense of the term: "The Apostle commands
+us to check concupiscence, and he does not permit it to reign, and he
+calls it by the name of sin, because it has its origin in the first sin
+and because any one consenting to its promptings sins."[135] Elsewhere
+Augustine had endeavored to give a more precise explanation: "If it be
+asked, how does this concupiscence of the flesh remain in the regenerate
+man, in whom there has been remission of all sins . . . to this it is
+answered, that the concupiscence of the flesh is remitted in Baptism, not
+that it be not, but that it be not imputed unto sin."[136] This is the
+pronouncement of a comprehensive mind, which does not lose sight of
+essential points, and which refuses to be drawn too far by the personal
+view that St. Paul speaks of concupiscence as sin and as in some way
+remitted in Baptism.  Luther, on the contrary, falls in the way in which
+he leans: he sees nothing but the identification of sin and concupiscence,
+and since concupiscence remains, he declares that sin remains also.  By a
+bold falsification, he attributes this opinion to St.  Augustine: 
+
+"But St. Augustine has very well said that sin (concupiscence) is remitted
+in Baptism, not that it be not, but that it be not imputed."[137] 
+
+Does the fact that sin remains after Baptism mean that nothing has been
+changed? Luther does not dare to go so far as that, when commenting on the
+Pauline texts; but he has found a most ingenious way out of the
+difficulty, and at the same time he lays the foundation of his whole moral
+system: sin has not been taken away; and the change that takes place in
+the soul is not brought about, as scholastics would have it, by a
+mysterious transformation, but by a more energetic resolution to combat
+concupiscence.  Thus, without appearing to notice it, while seeming to
+oppose the too human doctrines of philosophers, Luther does away with the
+supernatural effect, the divine reality produced in the soul baptized in
+Christ to be born again with Him. All this is given as exegesis of the
+beginning of this important seventh chapter of Romans, where Paul explains
+how the Christian is dead to the law. Note well, says Luther with
+insistence, that it is not sin which is remitted, but that it is man who
+is dead. And, better to bring home his meaning, he tries every subtlety.
+This passage is decisive in conveying an idea of his exegesis: 
+
+"Corollary: The manner of speech of the Apostle and the metaphysical and
+moral manner are contrary. For the Apostle seeks to convey that man is
+rather taken away, sin remaining (left over as it were), and that man is
+removed from sin rather than that sin is removed from man. But man's
+judgment on the contrary speaks of sin being taken away, the man
+remaining, and of the removal of stains from man. But the judgment of the
+Apostle is eminently right and perfectly divine. For thus also does the
+Scripture (Psalm 80) say: He removed his back from the burden. It does not
+say: "He removed the burden from his back."[138]
+
+Let us pass by this childish literalism. Luther considered himself armed,
+by such means, with a powerful weapon against the "justiciarii". And he
+was right.
+
+Father Denifle remarks that in reality the soul does not die in
+justification, and that it is precisely in the system of Luther that it is
+not really changed.[139] What did that matter to Luther? He was not
+disconcerted by contradictions; he even saw in them a divine seal upon his
+doctrine.[140] And, as to the point which occupies us, he surely was
+conscious of having found a new principle, that which Protestants still
+oppose to Catholics, the moral reform of the will, substituted to what
+they call the magical effect of grace. Luther did not foresee, however,
+what an intense Pelagianism was to issue from this doctrine; he thought he
+was fighting the human judgment and metaphysical quibbles:
+
+"Whence it is clear that the Apostle understands sin to be spiritually
+removed, that is, the will to sin to be mortified, whereas they claim that
+the works of sin and evil desires are metaphysically removed, as whiteness
+from n wall, heat from water."[141] 
+
+What theologian pretended that concupiscence was removed by sanctifying
+grace? But when Luther is in presence of a metaphysical term he gets angry
+instead of trying to understand it. He imagines that the infusion of
+charity is a detriment to moral change. which he is of course right in
+demanding, but which is easier and more complete in one under the
+influence of grace; and he cries out: 
+
+"That cursed word "informed" (formatum), which forces men to understand
+that the soul is, as it were, the same before and after charity, and that
+it is, as it were, by the accession of a form brought into action, whereas
+it is necessary that it should be totally mortified and made other, before
+it puts on charity and works!"[142] 
+
+The last words are deceptive; they should be understood in the light of
+the new doctrine, that mortification will be complete only at death. It
+was hard to veil the opposition of this view to Paul's doctrine. Romans 6,
+
+
+which incontestably described the new state, offered more than one hard
+problem to the new exegesis. When Paul says that (Christians are baptized
+"into the death" (in mortem), united in Baptism to the death of Christ,
+Luther explains it to mean "for death" (ad mortem), their own death: 
+
+"That is, they begin to act that they may attain to that death and that
+goal."[143]
+
+In reality, riddance of sin is deferred till the moment of death.  How
+then understand that one is dead to sin and lives unto God?  It is
+necessary to attenuate the Pauline expressions:
+
+"(1) To be dead to sin; (2) but to live for God; (3) to serve by the mind
+the law of God and by the flesh the law of sin (Rom.  7.25), mean nothing
+but that we must not consent to concupiscence and to sin, although sin
+remain. It is the same (4) about sin not dominating, not reigning, but (5)
+justice reigning, etc."
+
+As regards these last two cases, Luther seems to have a more solid
+foundation in the text of the Apostle. If sin must no longer have
+dominion, reign (Rom. 6.12-14), if we are no longer to serve it (Rom.
+6.6), it must be that it still exists. It is not the master, but it is
+there.
+
+To express here, my whole thought on the matter, I consider it would be
+more in conformity with the concept of St. Paul not to see here a
+designation of original sin. I know that theologians will be careful not
+to speak of original sin after Baptism; they will say that it exists only
+as concupiscence. But if Paul employs the word sin, why not understand it
+in the proper sense?  Luther obstinately refused to make any distinction.
+He would not have even the semblance of a reason, if it were not said that
+sin still dwells in man by some sort of function. And there will be no
+reason for this statement if we understand Romans 7.7 ff., as written
+concerning unregenerate man. It would be very important, for an altogether
+exact exegesis, not to define too closely what the Apostle left somewhat
+vague.
+
+Sin is, according to him, at times original sin, at others it is actual
+sin; but when it is question, as here, of dominating, reigning,
+commanding, it is personified, like a being with a separate existence; it
+is almost a principle of evil, a demon which would seek to establish his
+empire, by using what is carnal, but not sinful, in us. Sin is ever
+present and threatening, but from without. 
+
+Luther, on the other hand, thinks of it as original sin which remains and
+he is conscious of departing on this point from the opinion of
+theologians:
+
+"Things being thus, either I have never understood, or scholastic
+theologians have not spoken well enough about sin and grace, who dream of
+all original sin being taken away as well as actual sin, as if they were
+things that could be removed in the twinkling of an eye, as darkness by
+light. Whereas, the ancient Holy Fathers, Augustine, Ambrose, spoke very
+differently in conformity with Scripture; they (the theologians) speak
+like Aristotle in his Ethics, who placed sins and righteousness in works,
+as likewise, their conferring and taking away."[144] 
+
+It would be hard to push confusion farther. What had Aristotle to do with
+the question, and where did he say that sins disappear in a moment? But
+Luther held to his contrast: on the one side the Scriptures and the
+Fathers, on the other Aristotle and the theologians. 
+
+It is to Scripture that Luther has recourse to prove that we must look
+upon the existence of original sin as continuing in baptized Christians.
+He was, indeed, penetrated personally with the sentiment of sin and he,
+appeals to experience; but it was a truth of faith, which the Scriptures
+taught and which we would have to accept even against the testimony of
+conscience.  This is said from the beginning: 
+
+"Even if we recognize no sin in us, we must nevertheless believe that we
+are sinners.... By faith alone must we believe that we are sinners,
+because it is not manifest to us, nay, we even more often seem to
+ourselves not guilty."[145]
+
+He gives as proof some scriptural texts. The point is so important that he
+comes back to it in connection with original sin. 
+
+"Therefore we are all born, all die in iniquity, i. e., in
+unrighteousness...."
+
+And he accumulates passages of Holy Writ to show that all are in sin. It
+is useless to indicate each of his twelve arguments. Not one refers to
+original sin. And that every one should confess himself sinful, no one
+denied.
+
+Luther, at any rate, was fully persuaded that his principal thesis rested
+on Scripture, and on the Fathers, represented by St. Augustine, whose
+principal text he had misquoted.
+
+2. IMPUTED RIGHTEOUSNESS NOT FOUND IN ST. PAUL
+
+Sin is a correlative of righteousness. If man is a sinner, if original sin
+remains in him, he is not really righteous.  Conciliation of
+contradictories cannot go so far as that. Luther acknowledges that this
+point gave him much preoccupation. How could he call himself a sinner,
+when confession had taken away his sin? If sin remained, how was he
+justified? The solution would arouse envy in the most subtle scholastic:
+sin was "remitted" without being "taken away," except in hope, and, to use
+other terms, it was not regarded as sin, it was not imputed:
+
+"Thus, I contended within myself, not knowing that there is indeed a real
+remission, though there is no taking away of sin, except in hope, i. e.,
+it is to be taken away, and grace is given, which begins to remove sin, so
+that it be not now imputed for sin." 
+
+Sin is not imputed! An important formula, for it is biblical: "Blessed is
+the man to whom the Lord hath not imputed sin" (Psalms 32.2). He is now in
+possession of a text and of a principle that distinguishes him from his
+opponents, the "justiciarii:" 
+
+"Their watchword and doctrine is: he is righteous who does this and that;
+but that of the others (it is question of himself) is: Blessed is the man
+to whom the Lord does not impute sin."[146]
+
+The consequence was of a nature to cause the boldest to pause: God then
+was to regard as righteous those who are not? Luther did not recoil from
+the paradox:
+
+"The saints are always intrinsically sinners, therefore they are always
+extrinsically justified. Hypocrites, on the other hand, are always
+intrinsically righteous, therefore they are always extrinsically
+sinners."[147]
+
+To see in this the view of a man of genius, one must admit that genius is
+not bound by the rules of common sense. Nothing could be more painful than
+to see Luther entangled in these notions of intrinsic and extrinsic.
+Intrinsic should signify the reality which is within man; Luther takes it
+in this meaning, but he attaches a second to it. It is used in a double
+sense in the text just quoted. There it signifies (1) In reality, (2) In
+our own eyes: 
+
+"Intrinsically, I say, i. e., as we are in ourselves, in our own eyes, in
+our own estimation."
+
+And he, the enemy of scholasticism, appeals for the substantiation of his
+thesis to the "nature of relatives," to the "power and necessity of
+relation." For those who are justified, the terms are applicable; they are
+sinners intrinsically, justified "before God and in His reckoning." But
+why not say that all are sinners intrinsically? Because the hypocrites
+(Luther's adversaries, the justiciarii) are righteous in their own eyes,
+consequently intrinsically(!) righteous and then
+
+"by the power and necessity of relation they are extrinsically unrighteous
+(i. e., in the reckoning of God)."[148]
+
+If we set aside this logic, we have the statement that sinners are
+justified when they acknowledge their sin, that is to say, that humility
+is the cause of justification. Now as Luther does not speak of actual
+grace, he, the defender of grace, ends in a Pelagian doctrine of
+justification. It is true that his justification lacks reality. 
+
+The contradiction with St. Paul is complete. The Apostle teaches that the
+Gospel is the manifestation of the justice of God, and (as Luther claimed
+to be the first to have recognized) not of the divine attribute of
+justice, but of a justice given to men to justify them. On this point the
+agreement of tradition was absolute. The exegesis of St. Augustine did not
+furnish even the appearance of a pretext to depart from it. So Luther long
+
+remained faithful to the Catholic formulas. No one would have reproached
+him with opposing the righteousness of Paul to that of Aristotle. The
+righteousness of God is gratuitous, it comes from on high, it is not
+acquired by works.
+
+Nothing, evidently, could be more opposed to the doctrine of Aristotle,
+who admits that righteousness is acquired by acts. The scholastic
+theologians had recognized the contradiction. The righteousness we have
+from God is supernatural; it opens for us the gates of heaven. Without
+this righteousness one cannot always practice human righteousness,
+especially in difficult circumstances; but, nevertheless, by performing
+acts of virtue man acquires a certain habit of righteousness which helps
+him to practice it. When the two kinds of righteousness are united (the
+normal case of a baptized Christian), the supernatural virtue is exercised
+more easily, thanks to acquired habit, or the habit is more easily
+acquired. There is in this nothing contrary to St.  Paul, who regards
+Baptism as placing man m the service of righteousness in view of
+sanctification (Rom. 6.18. ff.). But Luther affects to place theologians
+in the camp of Aristotle, as if they had no notion of a righteousness
+which comes from God. It is his first great discovery. The opposition
+between the righteousness of God and that of Aristotle is set forth in
+connection with Romans 1.17:
+
+It is different from the righteousness of men, which comes from works.
+Thus does Aristotle (3, Ethics) clearly determine, teaching that
+righteousness follows and comes from works. But the righteousness of God
+precedes works and works come from it.[149]
+
+Theologians did not speak otherwise.
+
+When writing the words just quoted, Luther still appeared to say that
+God's righteousness was given to man, since he performs works which
+proceed from it (ex ipsa). It was the Catholic doctrine, which was then,
+as it is now, so clear that it is not opportune to insist; so clear that
+Luther long preserved its terms. It is, consequently, difficult to
+determine at just what point of his "Commentary" he passed from real
+righteousness to righteousness merely imputed. This latter variety is
+clearly in view, when on the second page of his "Scholia", he invites the
+really humble man
+
+"to await the bare mercy of God, who reckons him as just and wise." 
+
+On the other hand, even after the commentary on chapter of Romans, he
+still uses Catholic terminology, for instance:
+
+"For though we be justified by God and receive grace, we do not receive
+this grace by our merit, but it is a gift."[150]
+
+It is, however, at the end of his commentary on chapter 3 and in the
+course of that on chapter 4 that he establishes his doctrine of imputed
+justice.  If the term appears before, it is because his conviction had
+been arrived at from a first study. When, consequently, he continues to
+speak like a Catholic theologian, we must often understand him in a
+particular manner. I do not think that he is rendering witness to the
+truth by a contradiction when he says at the end of his commentary on
+chapter 4:
+
+"The death of Christ is at the same time the death of sin and His
+resurrection is the life of justice, because by His death He satisfies for
+sin and by His resurrection He confers righteousness upon us. And so His
+death does not merely signify, but it effects, the remission of sin as a
+most sufficient satisfaction. And His resurrection is not merely a
+sacrament of our righteousness, but it also effects it in us, if we
+believe it, and it is a cause. About this we shall speak more at length
+below. All this the scholastic theologians call one change: the expulsion
+of sin and the infusion of grace."[151]
+
+We see that he has not lost sight of his opponents; and we cannot suppose
+that he intended, so to speak, to set before them a flagrant contradiction
+in his own new doctrine. Either he wished simply to take note of the
+thought of scholastics opposed to his own, or, as I think more likely, we
+must presuppose his system, which does not deny the remission of sins nor
+the true gift of righteousness, but puts them off to the moment of death.
+In the passage we have cited Luther does not refer us to a quotation of
+Augustine, as Ficker thinks,[152] but to an elaborate theory,[153] which
+is to the effect that we die to sin only once, because we thus die only on
+the threshold of eternal life.[154] Luther prudently kept this explanation
+in reserve; otherwise one would have to suppose that he was not conscious
+of the novelty of his doctrine. 
+
+If we cannot know at precisely what moment he came to the notion of
+imputed justice, we can, at least, appreciate the scriptural arguments
+which decided him.
+
+These arguments are not devoid of cleverness, and his way of interpreting
+St. Paul is still law for a great many Protestant exegetes. 
+
+Instead of understanding "to justify" in the sense of "to make just," he
+takes it as meaning "to declare just." This was only a first step, because
+one would think that God would declare just only him who is really such.
+But already he had determined an intermediate state in which God does not
+impute sin. Why, in like manner, should He not impute justice? The first
+time that the term "justificari" presents itself (Rom. 2.13), he
+understands it: "To be recognized just"; and this is right. Likewise the
+second time (Rom. 3.4), where it is question of God. But already he gets
+away from the sense to a notable degree when he takes the justice of God
+of Romans 3.5 for the justice.
+
+"by which He is just and justifies us."
+
+Here it is incontestably a question of the retributive justice of God. And
+this misunderstanding is not without consequences, because the act, by
+which we recognize the justice of God, becomes the act by which He
+justifies us in the same sense, that is, by accounting us just: 
+
+"That (justice of God) our injustice (that is acknowledged and confessed)
+commends, for it humbles us and casts us down before God and implores His
+justice, which, being received, we glorify God who bestows it."[155] 
+
+These last words sound well enough. One sees how much Luther is
+embarrassed,--differently from when he spoke of the permanence of sin,--
+when he tries to get away from the Catholic doctrine concerning grace
+received. But he does not delay to speak more clearly on the identity of
+the two justifications, the one active, the other passive: 
+
+"By this justifying of God we are justified ourselves, and this passive
+justification of God, by which He is justified by us, is by God's action
+our own justification. Because the faith, which justifies His words, He
+reputes justice, as chapter 4 says."[156]
+
+This time we are enlightened. Luther would have spared himself this
+disquisition on active and passive justification, if he had not had
+already in view imputed justice, such as he will establish it in his
+commentary on Romans 4.
+
+In the meanwhile, he draws back at times under the pressure of the texts.
+When he puts himself the objection which arises from the Epistle of St.
+James, from Galatians, chapter 6, from Romans 2.13, he gives the right
+explanation of Paul's texts. In condemning works, which are incapable of
+procuring justice, the Apostle distinguished between the dispensation of
+the law and that of grace. The faithful and infidels may be likened to
+priests and laymen. The latter may use the formulas of the former and
+nothing valid is accomplished. On the contrary, priests use them
+effectively; and so of the man who has the faith,
+
+"by which he is justified and, as it were, ordained, that he may be just
+for the performance of works of justice."[157]
+
+In the same way, if a monkey became a man, the transformation would be
+evident. The comparison is surely strong enough! There is, then, still a
+real righteousness and works of righteousness.  The moment had not yet
+come when the Epistle of St. James would be pronounced an Epistle of
+straw; and certain texts of St. Paul were still correctly understood. 
+
+But in the commentary on chapter 4 of Romans the new doctrine is affirmed
+already in the interlinear gloss:
+
+"It was reputed to him by God unto justice that thereby he might be just
+with God. And thus it is not of him who works, but of God who accepts his
+faith unto justice."
+
+And again:
+
+"Who justifies by grace. The wicked, i. e., he, who of himself is but
+wicked, is reputed before God,--that is to say, by God his faith is
+gratuitously reputed, unto justice, that he may be just before God."[158] 
+
+In this fourth chapter, St. Paul speaks of Abraham, the father of
+believers, the most obvious instance of one who, before the advent of
+Christ, had attained to the righteousness which Christ was to merit. He
+does not speak directly of the manner in which Abraham obtained
+righteousness, nor of the change which must have taken place in his soul
+at that moment of his justification. The essential point is that Abraham,
+whose righteousness all admitted, was recognized as righteous by the
+Scriptures on account of his faith. He did not, consequently, arrive at
+the righteousness of works (Rom. 4.1-3). Then Paul, comparing the formula
+used by Genesis in reference to Abraham and that used by David in the
+Psalms in reference to the pardoned sinner, shows that they exclude works
+and suppose that justice comes from God.
+
+In Romans 4.3 St. Paul quotes Genesis 15.6: "Abraham believed God and it
+was reckoned unto him as righteousness." In Genesis the exact words are:
+"And he believed Jahweh, and He reckoned it unto him as righteousness." It
+is almost the same expression of satisfaction that Jahweh has for those
+who observe the law (Deut.  6 . 25, 24.13); it is applied to Phineas for
+an act of zeal (Psalms 105.31). It is in no wise question of the first
+justification of Abraham, but of the merit of his act of faith, merit such
+that it is equivalent to a perfect work and is recognized as such by
+Scripture. Luther and Lutherans, in basing upon this text their system of
+imputed justice, are going manifestly against its meaning as it stood in
+Genesis.
+
+Nor is there anything in the doctrine of St. Paul, taken as a whole, which
+would authorize one to hold that he thought Abraham's faith was regarded
+as sufficient without righteousness, and that it obtained that God should
+declare him righteous though he was a sinner. We have sufficiently pointed
+out that the Epistle to the Romans regards man's death to sin as very real
+and announces a power of God which really transforms the members of
+Christ's mystical body, even while they are still on earth. St.  Paul has
+no thought of "imputed" righteousness. And of course, it is a canon of
+modern criticism that a phrase, particularly a quoted phrase, be
+interpreted in the light of the writer's doctrine taken as a whole. 
+
+It is in connection with this text of St. Paul that we find the
+disquisition already spoken of concerning extrinsic justice.  Again,
+nothing could be more contrary to his teaching. It is conceded that the
+meaning of the words "to justify," "to be justified," is not always the
+same in the texts, but it is not doubtful that he regards Baptism as the
+beginning of a life of real holiness. Holiness is nothing but justice
+(righteousness); they come into existence and they disappear together. 
+
+But Luther's stroke of genius must be placed at this point. Into this void
+of extrinsic justice he has thrown Christ. He is outside of us; but He is
+our good; much more He dwells in us, and lo! our justice is replaced: 
+
+"Therefore I have rightly said that all our good is extrinsic, for it is
+Christ. As the Apostle says: Who of God is made unto us wisdom, and
+justice, and sanctification, and redemption, all of which are in us only
+by faith and hope in Him."[159]
+
+Luther may really and in good faith have thought at this period that he
+was replacing a predicament of Aristotle by the living and active presence
+of Christ.[160] What emotion in the following expression: 
+
+"Therefore let us say to God: O how glad we are to be empty, that Thou
+mayest be full in us! I am glad to be weak, that Thy power may dwell in
+me; a sinner, that Thou mayest be justified in me; foolish, that Thou
+mayest be my wisdom; unrighteous, that Thou mayest be my
+righteousness!"[161]
+
+Many a religious soul in the bosom of Protestantism has thus poured itself
+out before God. And the words are but an echo of ancient Christian
+mysticism. One must be emptied of self to draw God into his heart;
+humility is in its way the cause of grace.
+
+In adding the exaggeration, which makes Christ dwell in a sinful soul,
+Luther introduces an innovation, which is far from honoring Christ as he
+claims. Leaving aside reasons or fitness, the Spirit of Christ is truly
+active in the faithful soul, His grace is a gift which constitutes one
+righteous: "As by the disobedience of one man, many were made sinners; so
+also by the obedience of one, many shall be made just" (Rom. 5.19). Luther
+transcribes this text without paying it the courtesy of a word of comment.
+His position is taken. He is in possession of a doctrine: sin not imputed,
+imputed justice.
+
+3. MISINTERPRETATION OF ST. PAUL'S TEACHING ABOUT FAITH
+
+But why are some reputed just? To answer the question in the light of the
+views which Luther has up to this time set forth, we must recur to the
+mystical teaching that God reputes just those who acknowledge their
+sinfulness. This solution is often stated, and we have just seen a clear
+expression of it. Likewise God saves those who yield themselves up to Him
+with purest love.
+
+But was there not a danger that this love should resemble charity, of
+which Luther still speaks with praise in his "Commentary" but which might
+easily become suspect, as eminently a work?[162] 
+
+As regards humility, if it dug very deep the abyss into which false
+security sinks, did it not threaten to weaken the soul by discouragement?
+Now Luther claimed to have found a middle way between false security and
+despair. He had to indicate in man, outside of humility and of charity, a
+disposition which inclined God to justification. He finds it in faith. The
+principal service which the Epistle to the Romans has rendered
+Protestantism (very much against its will) was to give faith as the human
+disposition to which God gratuitously accords justification. This faith
+may be defined in various ways. Catholic exegesis, and also independent
+exegesis, sees in it a sincere adhesion to Christianity. It was, in its
+way, a historical notion; an interior act which must exist at all times,
+but which in St. Paul is applied to that manifestation of the divine which
+had been the passion and resurrection of Jesus. It comprised an
+intellectual act, the adhesion of the mind to the truth proposed, and an
+act of the will, adhesion to the new life in Jesus. 
+
+It is true that theologians, with a view to more precision, had
+distinguished these two aspects, following the example of Paul himself in
+the Epistle to the Corinthians where he distinguishes so clearly faith and
+charity (1 Cor. 13). But to understand faith as St. Paul did, it had to be
+taken with charity; and Luther would not do so. To understand it with
+theological precision was to make it a disposition which could not
+distinguish Christians who are justified from those who are not. 
+
+There is always a possibility of employing an ill-defined and vague notion
+in the most unexpected way. We have seen that Luther confounded faith and
+obedience, extending the domain of faith even to the counsels of a
+superior. And if one was to hold as a matter of faith that he is a sinner,
+why might he not hold in like manner that he is righteous? This step,
+which is so important in the history of Protestantism, is taken in the
+"Commentary". We find in it a first sketch of faith--confidence.
+
+It is St. Bernard who must serve as intermediary between Luther and his
+text. After the interlinear gloss (Rom. 8,16):
+
+"The Holy Spirit himself given us giveth testimony strengthening
+confidence in God...."
+
+Luther notes in the margin:
+
+"For he who confided with strong faith and hope that he is a son of God,
+is indeed a Son of God, since it cannot be done without the Spirit. Hence
+the blessed Bernard in ser. 1 concerning the annunciation of the
+Lord."[163]
+
+The text of St. Bernard is reproduced at length in the "Scholia", to show
+how the testimony of the spirit is indeed confidence of heart.
+Nevertheless, St. Bernard speaks of a triple testimony of the faith: "Thou
+must believe that thou canst obtain remission of sins only by the
+indulgence of God; that thou canst have as thy own absolutely no good
+work, if God does not give it; that thou canst merit eternal life by no
+work, if he does not give this eternal life freely."[164] These
+expressions are certainly a strong affirmation of the need of grace. But
+while formulated for one person only, they assign to faith a general
+object. And for this reason Luther judges them insufficient. 
+
+"That is only a certain beginning, and as a foundation of faith,"
+
+of that faith which shall be his, which is complete only when it is at the
+same time personal confidence which partakes of the nature of faith: 
+
+"It is necessary that the Spirit make thee believe this, that by Him sins
+are forgiven thee. . . "
+
+And this is welded on to the doctrine of the Apostle:
+
+"Thus does the Apostle deem that man is justified by faith (by the
+positive belief concerning thyself also, not merely concerning the elect,
+that Christ has died for thy sins and atoned for them)." 
+
+The second point of St. Bernard is developed in the same way:
+
+"It suffices not, until the spirit of truth gives testimony, that thou
+hast these (merits) by him."
+
+And, finally, it is not enough to believe that God gives eternal life
+gratuitously:
+
+"But it is necessary that thou have the testimony of the Spirit, that thou
+art to come to it."
+
+One must believe that he is predestined.
+
+Where is the proof that authorizes Luther to transfer Bernard's words from
+the scale of objective faith to that of personal assurance, preserving the
+firmness of faith, firmness due to the word of God? In St. Paul. 
+
+"These three points are clearly manifest in the Apostle. For he says: Who
+shall accuse against the elect of God? ', which means that we are certain
+that no sins will accuse us. So of merits: 'We know that to them that love
+God all things work together unto good. So of eternal glory: I am sure
+that neither things present nor things to come, etc., shall be able to
+separate us from the love of God, which is in Christ.'"[165] 
+
+All this, it is true, is still intimately mingled with the idea that it is
+humility which renders us pleasing to God; this humility is then, taking
+it all in all, the ultimate foundation of faith--confidence. 
+
+But a new notion was set forth, which was constantly to expand its
+dominion. Luther claimed to lean upon St. Paul. St. Paul had had in view
+the community of Christians, whose salvation God had prepared and whose
+organ he was. On the part of God salvation was assured, but the Apostle
+did not ignore the fact that one might lose the spirit of Christ (Rom.
+8.9).  Luther applies to himself words spoken of the faithful, he lays
+claim to the assurance given them, and adds to the legitimate confidence
+of the Christian the firmness of faith. It was, again, through lack of
+historical sense.
+
+To this confidence he has given a strange expression, perhaps
+characteristic of his race: men must hurl themselves upon the truth of
+God, Who has promised salvation.[166]
+
+Luther could not, however, forget that his main purpose was to attack the
+false security of the jurists. It is for this that he maintained sin. He
+stopped, then, before having rounded off his system. We must fear, he
+tells us, but only to find assurance in this fear itself. It is at the
+very end of the "Commentary" that he utters a last denunciation against
+those who are in security and confidence, 
+
+"which all aspire to with wonderful fury. For thus by fear grace is found;
+and by grace man is made willing to perform good works, while without he
+is unwilling."[167]
+
+Such is, let us repeat, the joyful message which Luther had in store for
+the world. It was only when his doctrine was attacked that he boldly
+hurled himself upon confidence. Certitude of one's own justification would
+become the best proof of true Lutheranism. Then the word faith, which was
+that of Paul, regained all its advantages; faith, and faith only, became
+the fundamental disposition of man in view of salvation. 
+
+The "Commentary" offers other interesting features. In its moral part,
+especially from chapter 12 on, the words of the Apostle are scarcely more
+than a pretext for declamation against abuses. One feels that Luther was
+ready to attack them and to reform them in his own way. He was in
+conscious possession of a new religious doctrine which he claimed was
+based on Scripture, in particular upon the authority of St. Paul. We have
+endeavored to show how he had come to this conviction, and that it was not
+without having misinterpreted the thought of the Apostle.  
+
+
+EPILOGUE: CONSEQUENCES OF THE NEW SYSTEM
+
+Luther rightly denounced heresy as the blindest and most audacious
+manifestation of pride. Did he not understand, then, that the system of
+doctrine which was already coordinated in his mind was incompatible with
+the Church's organization and disturbed the harmony of Christian dogma? 
+
+In 1515, Bohemia was still agitated by the convulsions of the Hussites,
+the most radical of whom were called Picards. Referring to them, he asks:
+"Are we to support the heresy of the Picards? .
+. . Must we decide to suppress everything--the churches and their 
+decorations, all fast-days, all feast-days, distinctions of priests,
+bishops, and religious, their rank, their costumes, their ceremonies
+observed for so many centuries, do away with all monasteries, foundations,
+benefices, prebends? This is what they do and what according to them the
+liberty of the new law calls for."[168] 
+
+Luther's reply is "God forbid!" Such a revolution was far from his mind.
+He asks for changes; he would wish that prelates might take the initiative
+in diminishing the number of fasts and festivals, shorten the ceremonies,
+give to the poor rather than lay up treasures-for the construction of
+churches; instead of maintaining, even by war, temporal interests,
+churchmen should devote themselves to improving morals; they should attach
+more importance to inner religion than to the pomp of exterior worship.
+The exemptions of clerics are not bad in themselves; but when asked
+whereby they deserve them these clerics can only refer to the prayers they
+mutter, and they get exemptions even from them. "We priests," he says,
+"claim freedom from the service of men because we are bound to the service
+of God. We serve neither God nor man. Let us beware; laymen are beginning
+to open their eyes."[169] But the reform of abuses is all that is
+necessary.
+
+Luther does not as yet, in the project of reform which he opposes to that
+of the Picards, seem to suppose that the priesthood is endangered by his
+plans to secure Christian liberty. The priest is for us, as he was for the
+ancients, a man who offers sacrifice. So long as he had not made up his
+mind to suppress the sacrifice of the Mass, Luther allowed what was
+essential in the priesthood to subsist. But the priest is also the
+dispenser of the sacraments, especially, after the Eucharist, of the
+sacrament of Penance. If Penance does not confer grace, what becomes of
+the power to bind and to loose? Since sins are not loosed in Heaven, the
+jurisdiction conferred on Peter and the Apostles was without an object,
+and the ecclesiastical organization was seriously affected. 
+
+Dogma was not less affected. The history of the Reformation affords,
+perhaps, the most striking example of the assistance of the Holy Ghost in
+the Church, on the one hand, and, on the other, the shortsightedness of
+the human spirit.
+
+Luther was shocked by the rationalism of theology. Did it not seek to
+bring divine realities into Aristotle's categories, place grace and
+charity among the predicaments, speak of them as if they appeared and
+disappeared in the soul as whiteness on a wall or heat in water? He
+thought he was abolishing an intermediary between the soul and Christ; or
+rather he fancied he was doing away by a stroke of his pen with an
+artificial philosophical entity to unite himself more closely with the
+Savior. The soul, always sick, is henceforth in the hands of its Healer. 
+
+This seductive simplification was, there can be no doubt, the cause of the
+success of Lutheranism, at least in the case of those whom it drew by its
+religious character. But while attempting to remove an obstacle to the
+soul's union with God, Luther was, as a matter of fact, destroying the
+possibility of such a union. Scholastics had boldly attempted to
+understand divine realities as well as they could, and, if it appeared
+rash to classify them, was it not the noblest task of the human mind to
+construct a harmonious system, in which the supernatural was conceived as
+adapted to our weakness in order to raise us up higher? For the rest,
+whether grace was to be regarded as a second nature, communicated to the
+soul itself, and charity as a quality of the will, was not altogether a
+closed question; what was essential was to suppress neither grace nor the
+love of God, which is according to Jesus Christ everything in religion.
+Genuine theology had not a whit less horror for Pelagianism than had
+Luther. It taught that man cannot merit eternal life, or even grace, by
+the efforts of nature alone; that grace comes only from God; that the
+dispositions of the soul to receive it must themselves be aroused by help
+from above. But it believed with St. Paul in the liberality of God, rich
+in His gifts to those who have recourse to Him. Jesus Christ could not
+abide in a soul soiled with sin; He came to her with complete pardon, and
+made her able to respond to His love by clothing her with charity,-- the
+love of friendship, the theologians called it,--which established between
+Jesus and the soul an intercourse which was altogether favorable to
+humility, so gratuitous was such an elevation. In making of confidence the
+sum of all that man experiences in regard to God, Luther did indeed keep
+religious sentiment at a high level, but he was obliged to despoil man of
+charity--of which he still speaks enthusiastically in his first
+writings--and, consequently, to disrupt the divine union. Modern
+Protestants are fond of applying the term "magical" to Catholicism. And,
+indeed, the charm was broken,--the charm of the outpourings of the heart,
+responding to the supreme gift, of the prodigalities for worship which, to
+go to the root of the matter, created beauty. Luther did not wish to
+attack mysteries. He even boasted that he was digging deeper into the
+mystery of evil. But in doing so, he was inflicting cruel wounds upon the
+mystery of goodness. 
+
+Now if reason, which is so frequently rebellious in presence of the
+mysterious, hesitates, even when it is in revolt, before rejecting a
+mystery of goodness, because there it catches a glimpse of the proper
+nature of God, it is absolutely averse to admitting a mystery of evil
+which would involve wickedness in God. Predestination to damnation as well
+as to happiness; settled designs of God to leave man in sin, and even to
+draw him into it in order to damn him more surely,--such dogmas can hardly
+be reconciled with that personal confidence which each must have in regard
+to his own salvation. Those who came under Luther's influence were bound
+eventually to reject such Lutheran mysteries; that influence was destined
+to lead men not only to deny the gift of God but everything supernatural. 
+
+It must be said, however, that Luther and his followers appealed to moral
+energy to fight against evil. This appeal supposes, indeed, that we can do
+something. Human nature, corrupt, deprived of free will, would have had
+only to let God act. Protestantism and Lutheranism itself have rejected
+this too logical conclusion.  They have often given the spectacle of fine
+moral virtues. And the more attraction for the supernatural decreased in
+their communities, the more they gave themselves up to this noble aim.
+But who does not see that in so doing they were not acting in accordance
+with the pessimistic mysticism of Luther, his pretended championing of the
+rights of God?
+
+How unfathomable are the designs of God! or, to speak in a more modern
+way, what a strange reversal of values!
+
+In 1515, after half a century of official renaissance of the literature
+and art of the ancients, more than one group of Christians in Catholic
+countries were slowly drifting into naturalism. Luther, in his cell, was
+above all struck by the extravagances of luxury, the relaxation of
+manners, the torpor of the clergy. High standards of clerical life were
+not, it would seem, so much endangered as in the Middle Ages, from the
+tenth to the twelfth century. But the peril run by the intelligence of
+Christians was greater. It is not the place to speak of that matter here.
+It is well known that even the heads of the Church themselves showed too
+much favor towards the culture of antiquity, too much indulgence towards
+those who combined Christian practice with skepticism of thought.
+Christian religion risked being deprived of its supernatural force. Luther
+arose, protested, undertook to restore to religion its inner soul. 
+
+His moral preaching was only a means of making Jesus to rule-- Jesus
+crucified, once more a conqueror of heathen sensualism. He appealed to
+faith and would have nothing but faith.
+
+According to human prevision, Christian dogma was to be saved by the
+Reformation. while Catholic countries would insensibly fall away towards
+the logical conclusion of the naturalism latent in the Renaissance. And it
+was precisely the opposite that happened.
+
+In Protestant countries men strove to attain those moral virtues towards
+which God ever excites us in order to prevent us from perishing, and this
+effort was directed by the Bible; but from variation to variation they
+abandoned, especially in intellectual environments, the most important
+points of the old belief. Jesus, too often, is no longer an object of
+faith among those who venerate the memory of Luther. The Catholic Church,
+on the other hand, successfully set to work to reform manners according to
+the evangelical ideal of supernatural morals, and she kept intact the
+teaching of the Apostles.[170]
+
+
+ENDNOTES
+
+1. "Histoire des Variations des Eglises Protestantes, Book 1.
+
+2. "Luther und Luthertum in der ersten , Entwickelung quellenmassig
+darqestellt."
+
+The first part of this work was revived by the author himself (1904). The
+second appeared after his death (June 10, 1905), edited by Father Weiss,
+O.  P (1906). Circumstances having prevented access to the original, we
+shall cite from the French translation, enriched by careful notes, of the
+Rev, J.  Paquier, LL.D., "Luther et le Lutheranisme," Paris, Picard, 4
+vols., 1910- 1913. 
+
+3. "Anfange reformatorischer Bibelauslegung, herausgeben von Johannes
+Ficker." 1. Band: "Luther's Vorlesung uber den Romerbrief," 1515-1516. I
+Teil "Die Glosse," in 8 CIV--161 pp. II Teil: "Die Scholien," 1-346 pp.,
+Leipzig, 1908.
+
+4. "Luther," by Hartmann Grisar, S.J., Freiburg im Breisgau, B.  Herder,
+1911 ff. English translation, by E. M. Lamond, in 5 vols., B. Herder,
+completed in 1917.
+
+5. Op. cit., I., p. 91.
+
+6. "Le developpement de la pensee religieuse de Luther jusqu'en 1517."
+Paris, 1908.
+
+7. "Quellenbelege. Die ablandischen Schriftsausleger bis Luther uber
+JUSTITIA DEI (Rom. 1.17), und JUSTIFICATIO" (1905), p. 136.
+
+8. Father Denifle cites in the preceding pages the Dominicans Guerrie of
+St. Quentin, Odo Gallus (?), Gaufrid of Bleveio, and the Franciscan John
+of la Rochelle.
+
+9. Hugh of St. Victor is cited textually, but the passage is not found in
+his works (F. 312). It is the same with a quotation from Seneca (F. 74)
+and one from Cicero, who even says the contrary of what is in the citation
+(F.  35).
+
+The references indicated by F. with a number are to the pages of the
+volume containing the "Scholia", the more important. F.g.  will indicate
+the volume of Ficker which contains the glosses.
+
+10. F. 108, 278.
+
+11. F.g. 126.
+
+12. F. 116; 168; 169; g. 69.
+
+13. F. 109.
+
+14. F. 28.
+
+15. F. 325.
+
+16. F. 144, on line 19: "Luther means here as elsewhere by the ancient
+Fathers especially St. Augustine." The passage which calls for this note
+is characteristic:
+
+Consequently as the ancient Fathers have rightly said: That sin of origin
+is the fuel (fomes) the law of the flesh (lex carnis), the law of the
+members (lex membrorum), the weakness of nature (languorem nature), the
+tyrant, the sickness of origin (tyrannus, morbus originis), etc. 
+
+17. The whole volume of "Quellenbelege."
+
+18. F. 201.
+
+19. F. 197.
+
+20. F.g. 17; 33.
+
+21. The "Ordinary Glossary" (Glossa Ordinaria) was a compilation of
+explanations of scriptural words and ideas which were current during the
+Middle Ages and down to Luther's time. It is usually attributed to
+Walafrid Strabo, Abbot of Reichenau, who died at the court of Charles the
+Bald, July 17, 849. The "Interlinear Glossary" (Glossa Interlinearis), by
+Anselm of Laon (+1117), explained the meaning of words between the lines
+of the Bible.
+
+22. F. 9: Iste locus nescio si ab ullo sit vere et recte expositus.
+Antiquis obstitit interpretationis improprietas, recentioribus vero
+absentia spiritus.
+
+23. F. 21.
+
+24. Letter to Spalatin, of Oct. 19. 1516, where he differs from Erasmus
+regarding the sense of St. Paul; letter to Lang of March 1, 1517. 
+
+25. F. 66.
+
+26. F. 345: But let us not condemn the judgment of Erasmus and of those
+like him.
+
+27. F. 9.
+
+28. F 11. Graecus textus non potest esse certus.
+
+29. With Valla, F. 9, note 22.
+
+30. F. 17.
+
+31. Mr. Ficker notes that this interpretation and his preference for the
+neuter comes from the commentary of Lefevre; but may it not be that
+Lefevre understood "eph ps" to mean "eo quod" (because)? where Luther says
+clearly "in quo peccato" (in which sin). 
+
+32. F. 61. Credita, i.e., per fidem suscepta.
+
+33. F. g. 48; 142.
+
+34. Denifle-Paquier, III., p. 107, N. 1; F. 171.
+
+35. Non perficietis.
+
+36. F. 182.
+
+37. Denifle-Paquier, III., p. 107 f.
+
+38. F. 176: ego, inquit, totus homo, persona eadem, servio utranque
+servitutem.
+
+39. This particular point has no influence on the determination of the
+general theme, whether it be question of the regenerate man or the
+unregenerate.
+
+40. Denifle-Paquier, III., 108; F. 235.
+
+41. F.g. 73.
+
+42. F. 222.
+
+43. F. 284.
+
+44. Denifle-Paquier, III., p. 107.
+
+45. F. 55.
+
+46. F. 158.
+
+47. F. 52.
+
+48. F. 63 f.
+
+49. Ficker refers to Reuchlin, "Septem psalmi poenitentiales hebraice cum
+grammatica tralacione latina, 1512."
+
+50. F. 65.
+
+51. F. 107. The reference has escaped Mr. Ficker.
+
+52. F. 113.
+
+53. F. 119.
+
+54. F. 119, 123.
+
+55. F. 263; cf. g. 43.
+
+56. F.g. 131: "in the power of the Holy Ghost," that is, by the power of
+the Holy Ghost; the Hebrew locution corresponding to "in" is equivocal. 
+
+57. F. 238.
+
+58. F.g. 30.
+
+59. F. 240.
+
+60. F. 42.
+
+61. F. 17.
+
+62. F. 192.
+
+63. F. 216.
+
+64. F. 262.
+
+65. F. 287.
+
+66. F.g. 23.
+
+67. F. 313; cf. g. on Rom. 16.17.
+
+68. F. 139.
+
+69. "Republic."
+
+70. F.g., p. 1.
+
+71. F. 1.
+
+72. The Vulgate term "justitia" is rendered by the word justice in the
+Douay Bible, and in Catholic theological works justice is used frequently
+in the broad sense of righteousness.-- Translator's note. 
+
+73. F. 79.
+
+74. L. 1, p. 156.
+
+75. F. 271.
+
+76. Cited by Denifle-Paquier, II., 396.
+
+77. F. 271.
+
+78. F. 110.
+
+79. Denifle-Paquier, II., 382. Note 1. This sermon which Koestlin assigned
+to St. Stephen's day, 1514 has been transferred to the following year by
+Denifle precisely because it reveals the point which is made in the
+"Commentary on Romans." Ficker and Jundt admit Denifle's verdict. 
+
+80. F. 332.
+
+81. F. 123.
+
+82. Denifle-Paquier, I., 62.
+
+83. Denifle-Paquier, II., 378.
+
+84. Denifle-Paquier II., 378.
+
+85. P. LXXXIII: One can hardly read a page till we come to Ch.  12,
+without meeting the word humility: "for what else but humility does all
+Scripture teach?" p. 39.
+
+86. F. 227. So far what Luther says is true.
+
+87. F. 228.
+
+88. Jundt, p. 45.
+
+89. F. 109.
+
+90. In the "Commentary on the Epistle to the Galatians" (1636), in
+Denifle-Paquier, II., 389, note 2.
+
+91. F. 180.
+
+92. F. 182.
+
+93. F. 22.
+
+94. In 1518, Denifle-Paquier, II., 404, n. 2.
+
+95. F. 105.
+
+96. F. 266 f.
+
+97. F. 86.
+
+98. F. 88.
+
+99. F. 89.
+
+100. F. 89.
+
+101. Harnack cited by Denifle-Paquier, II., 369.
+
+102. F. 220.
+
+103. F. 218.
+
+104. F. 218.
+
+105. F. 288.
+
+106. F. 288: Sed habent nunc juriste puleram glosam, quia orationes
+horarias orare non est preceptum, sed "legere" seu "dicere" sic enim
+ponderant canonem in verbis ac sic securi stertunt. Some jokes are very
+long-lived. This one recalls the words of the dean during a storm "This is
+no time to say our Office, but to pray to God." 
+
+107. F. 273.
+
+108. F. 273.
+
+109. F. 337.
+
+110. F. 199.
+
+111. F. 200, On Col. II., 8.
+
+112.  F. 199.
+
+113. F. 305.
+
+114. F. 322.
+
+115. F. 323.
+
+116. Denifle-Paquier, II., 397, citing the edition of Weimar, IV., 262, 4.
+
+
+117. Denifle-Paquier, III., pp. 166,170,171,183 and 184.
+
+118. Ficker, p. LXI.: "In terminology and argumentation he is the disciple
+of Occamian nominalism; there were there many things which corresponded to
+his penetrating way of conceiving, to his taste for dash, antithesis,
+paradoxes."
+
+119. Occam, on I Sent: dist. 17, qu. 1 M, cited by Denifle- Paquier, III.,
+198: Et ita ista opinio maxime recedit ab errore Pelagii, que ponit Deum
+sic non posse necessitari et non magis gratuitam et liberam Dei
+acceptionem esse necessriam cuicumque.
+
+120. Denifle-Paquier, III., p. 106.
+
+121. F. 165: Simili temeritate aguntur Thomiste, Scotiste etalie secte,
+qui scripta et verba suorum auctorum ita defendunt, ut spiritum non solum
+contemnant querere, sed etiam nimio venerationis zelo extinguant, satis
+arbitrati, si verba tantum teneant etiam sine spiritu. 
+
+122. Jundt, 1. 1. p. 65.
+
+123. Denifle-Paquier, II., 425.
+
+124. F.g. 80
+
+125. Denifle-Paquier, III., 128 ff.
+
+126. In 1516, cf. Denifle-Paquier, III., 128 and note 2.
+
+127. F. 203.
+
+128. F. 205.
+
+129. St. Paul speaks at times as if faith understood in the broad sense,
+which implies charity, was the one condition for the granting by God of
+that divine justice, called grace in modern theological language. This is
+chiefly when he is combating the pharisaic doctrine of justice acquired by
+man's own efforts. He speaks in other places as if Baptism were the sole
+means by which this grace is acquired. Luther, attending only to the
+former set of utterances, make of Baptism a mere symbol, denying that it
+had any power to impart grace. The Church reconciles both sets of
+assertions by maintaining the necessity both of faith and of the Sacrament
+of Baptism.  The justice of God is given to every believer; but every
+believer must receive Baptism, an exterior rite, conferring the grace,
+which it signifies, and admitting into the membership of the Church. So
+essential is this rite that no matter how perfect the inner dispositions
+of a person may be, he cannot be justified without receiving it, at least
+by desire, as our Catechism teaches. (Translator's note.) 
+
+130. First sermon for the feast of Pentecost, according to 2 Cor.  3.7. 
+
+131. F. 169.
+
+132. We have already seen that it is opposed to the Greek text.
+
+133. F. 172.
+
+134. F. 178.
+
+135. "Opus imperf. contra Julianum" (429-430), II. C. 226, cited in
+Denifle-Paquier, III., 30.
+
+136. "De nupt. et concupise." I. C. 25 n. 28, Denifle-Paquier, III., 11
+ff.
+
+137. F. 109. We see the great importance of this fact. Father Denifle (D.-
+P. III., 11 ff.) has conclusively shown: 1. that Luther has set forth,
+under analogous terms, the reverse of Augustine's thought; 2. that he knew
+perfectly well the true text, which he commented upon in the same way as
+everybody else in his glosses on Peter Lombard (1510-1511); 3. that he
+obstinately persisted henceforth in always citing falsely; 4.  that
+Melanchthon completed the falsification. Father Denifle, quoting from the
+Vatican MS., has not written concupiscence, the copyist having omitted to
+add this marginal word. Ficker (o. 1, p. 41) has dared to say that this
+little word reduces to nothingness the passionate attack of Father
+Denifle.  M. Paquier has very well answered that it changes nothing (III.,
+p. 16). I think that Luther's correction proves that he had reread
+Augustine. He cannot then be excused on the ground of only having fallen
+into a mistake of memory. The falsification remains and thus appears more
+voluntary. If he leaves the two words, it is because sin = concupiscence.
+Would he then have cited Augustine against his own system? 
+
+138. F. 164.
+
+139. Denifle-Paquier, III., 319 ff.
+
+140. Denifle-Paquier, III., 225, 305.
+
+141. F. 164.
+
+142. F. 164.
+
+143. F. 155.
+
+144. F. 108.
+
+145. F. 69.
+
+146. F. 104.
+
+147. F. 104.
+
+148. F. 104 and 105.
+
+149. F. 14.
+
+150. F. 149.
+
+151. F. 129 f. on Rom. 4.25.
+
+152. F. 130, note 2, referring to p. 152, line 28.
+
+153. Based on a wrong reading which he prefers to that of the Vulgate; see
+above.
+
+154. F. 157 f.
+
+155. F. 55.
+
+156. F. 65.
+
+157. F. 85.
+
+158. F.g. 37.
+
+159. F. 114.
+
+160. Denifle blames him rather severely for making of Christ a "quality,"
+a monstrous thing in scholastic theology but Luther had no regard for
+this.
+
+161. F. 59.
+
+162. F. 138: Hence only the "charity of God," which is a most pure
+affection for God, which alone makes upright of heart, takes away
+iniquity, extinguishes the enjoyment of our own righteousness. 
+
+163. F.g. 73.
+
+164. Necesse est enim primo omnium credere, quod remissionem peccatorum
+habere non possis nisi per indulgentiam Dei. Deinde, quod nihil prorsus
+habere queas boni operis, nisi et hoc dederit ipse. Postremo, quod
+alternam vitam nullis potes operibus promereri, nisi gratis detur et illa.
+
+
+165. F. 197 f.
+
+166. Ergo in veritatem promittentis Dei audacter ruat (se transferat de
+prescientiua terrentis Dei) et salvus et electus erit. F. 214. 
+
+167. F. 324.
+
+168. F. 11, p. 315.
+
+169. F. 11, 299 f.
+
+170. The study on the genesis of Lutheranism here translated was published
+by Father Lagrange in the "Revue Biblique," 1914-16, in the "Revue
+Pratique d'Apologetique," Jan. 1, 1915, and in his commentary on the
+Epistle to the Romans, "Saint Paul, Epitre aux Romains," Paris, Gabalda,
+1916.(Translator's note.)
