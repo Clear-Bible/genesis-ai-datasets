@@ -1,0 +1,6 @@
+#Misc - Old Testament
+
+While labeled as the International Critical Commentary, this file (https://archive.org/details/InternationalCriticalCommentaryHolyScripturesOtnt.OldTestamentCecEd/01.ICCHS.OT.Brg.Drv.Plm.CritExegCom.Genesis.Skinner.NY.ChScrib.1910./) was in fact a collection of commentaries by various authors, some in the ICC, others not. Although said to be pdf + text, these files are unsearchable. I have created a sub-directory /search-texts for the OCR version of these files.
+
+Whatever the "benefits" of the original naming scheme, I have converted it into BookName.AuthorLastName.AuthorFirstName.YearOfPublication. 
+
